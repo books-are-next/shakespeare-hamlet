@@ -2,12 +2,15 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Hamlet
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: William Shakespeare
   modified: '2021-03-03T00:00:00.000Z'
+  publisherShort: mkp
 readingOrder:
   - hamlet_001.html
   - hamlet_002.html
@@ -24,6 +27,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

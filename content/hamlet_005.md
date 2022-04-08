@@ -1,43 +1,42 @@
 ---
+title: OSOBY
 contentType: prose
 ---
 
-OSOBY
+**KLAUDIUS**, král dánský
 
-KLAUDIUS, král dánský
+**HAMLET**, syn předešlého a synovec panujícího krále
 
-HAMLET, syn předešlého a synovec panujícího krále
+**POLONIUS**, nejvyšší komoří
 
-POLONIUS, nejvyšší komoří
+**HORATIO**, přítel Hamletův
 
-HORATIO, přítel Hamletův
+**LAERT**, syn Poloniův
 
-LAERT, syn Poloniův
+**VOLTIMAND**, **KORNELIUS**, **ROSENKRANTZ**, **GUILDENSTERN**, **OSRIK**, **ŠLECHTIC**, **KNĚZ**, dvořané
 
-VOLTIMAND, KORNELIUS, ROSENKRANTZ, GUILDENSTERN, OSRIK, ŠLECHTIC, KNĚZ, dvořané
+**MARCEL**, **BERNARDO**, důstojníci
 
-MARCEL, BERNARDO, důstojníci
+**FRANCISKO**, voják
 
-FRANCISKO, voják
+**REYNALD**, sluha Poloniův
 
-REYNALD, sluha Poloniův
+**HERCI**
 
-HERCI
+Dva **HROBNÍCI**
 
-Dva HROBNÍCI
+**FORTINBRAS**, princ norský
 
-FORTINBRAS, princ norský
+**SETNÍK**
 
-SETNÍK
+**ANGLIČTÍ VYSLANCI**
 
-ANGLIČTÍ VYSLANCI
+**GERTRUDA**, královna dánská, matka Hamletova
 
-GERTRUDA, královna dánská, matka Hamletova
-
-OFELIE, dcera Poloniova
+**OFELIE**, dcera Poloniova
 
 Pánové a paní, důstojníci, vojáci, plavci, poslové, sloužící a jiná družina
 
-DUCH otce Hamletova
+**DUCH** otce Hamletova
 
-Dějiště: Dánsko
+_Dějiště: Dánsko_
