@@ -1,0 +1,208 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Hamlet",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "William Shakespeare",
+    "language": "cs-CZ",
+    "modified": "2021-03-03T00:00:00.000Z",
+    "published": "2020-12-21T09:18:19.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hamlet_011.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_hamlet2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "OSOBY",
+      "href": "OEBPS/Text/hamlet_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ",
+      "children": [
+        {
+          "title": "Scéna 1.",
+          "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Scéna 2.",
+          "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Scéna 3.",
+          "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Scéna 4.",
+          "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Scéna 5.",
+          "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-7"
+        }
+      ],
+      "href": "OEBPS/Text/hamlet_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ",
+      "children": [
+        {
+          "title": "Scéna 1.",
+          "href": "OEBPS/Text/hamlet_007.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Scéna 2.",
+          "href": "OEBPS/Text/hamlet_007.xhtml#_idParaDest-10"
+        }
+      ],
+      "href": "OEBPS/Text/hamlet_007.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ",
+      "children": [
+        {
+          "title": "Scéna 1.",
+          "href": "OEBPS/Text/hamlet_008.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Scéna 2.",
+          "href": "OEBPS/Text/hamlet_008.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Scéna 3.",
+          "href": "OEBPS/Text/hamlet_008.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Scéna 4.",
+          "href": "OEBPS/Text/hamlet_008.xhtml#_idParaDest-15"
+        }
+      ],
+      "href": "OEBPS/Text/hamlet_008.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ",
+      "children": [
+        {
+          "title": "Scéna 1.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Scéna 2.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Scéna 3.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Scéna 4.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Scéna 5.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Scéna 6.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Scéna 7.",
+          "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-23"
+        }
+      ],
+      "href": "OEBPS/Text/hamlet_009.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "JEDNÁNÍ PÁTÉ",
+      "children": [
+        {
+          "title": "Scéna 1.",
+          "href": "OEBPS/Text/hamlet_010.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Scéna 2.",
+          "href": "OEBPS/Text/hamlet_010.xhtml#_idParaDest-26"
+        }
+      ],
+      "href": "OEBPS/Text/hamlet_010.xhtml#_idParaDest-24"
+    }
+  ]
+}
