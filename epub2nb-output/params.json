@@ -1,27 +1,30 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Hamlet",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
-      "modified": "2021-03-03T00:00:00.000Z"
+      "modified": "2021-03-03T00:00:00.000Z",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "MLP_uroven3_nadpis",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP_text_bez1radku_-I-_-12-0-\nMLP_scenicke_poznamky",
+      "strong": "MLP_znak_tucne_11b\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -29,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "hamlet_001.md",
@@ -188,37 +192,37 @@
         "xhtml": "hamlet_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "hamlet_005.md",
         "xhtml": "hamlet_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "hamlet_006.md",
         "xhtml": "hamlet_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "hamlet_007.md",
         "xhtml": "hamlet_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "hamlet_008.md",
         "xhtml": "hamlet_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ ČTVRTÉ",
         "subtitleSuggest": "",
         "filename": "hamlet_009.md",
         "xhtml": "hamlet_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PÁTÉ",
         "subtitleSuggest": "",
         "filename": "hamlet_010.md",
         "xhtml": "hamlet_010.xhtml"
@@ -307,6 +311,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-hamlet"
     },
-    "generatedAt": 1649417496484
+    "generatedAt": 1649417884193
   }
 }

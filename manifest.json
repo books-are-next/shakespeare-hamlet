@@ -1,0 +1,393 @@
+{
+  "author": "William Shakespeare",
+  "contenttype": "prose",
+  "identifier": "shakespeare-hamlet-dbc0923",
+  "languagecode": "cs",
+  "modified": "2021-03-03T00:00:00.000Z",
+  "publishershort": "mkp",
+  "title": "Hamlet",
+  "revision": "dbc0923",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 11:39:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649417953668
+  },
+  "documents": [
+    {
+      "title": "Hamlet",
+      "file": "hamlet_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hamlet_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hamlet",
+      "file": "hamlet_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "hamlet_001.html",
+      "next": "hamlet_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hamlet",
+      "file": "hamlet_003.html",
+      "words": 7,
+      "chars": 53,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hamlet_002.html",
+      "next": "hamlet_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hamlet",
+      "file": "hamlet_004.html",
+      "words": 79,
+      "chars": 534,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hamlet_003.html",
+      "next": "hamlet_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Hamlet",
+      "file": "hamlet_005.html",
+      "words": 69,
+      "chars": 527,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hamlet_004.html",
+      "next": "hamlet_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ • Hamlet",
+      "file": "hamlet_006.html",
+      "words": 6214,
+      "chars": 33936,
+      "ideas": 1341,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hamlet_005.html",
+      "next": "hamlet_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1.",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2.",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3.",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4.",
+              "id": "scéna-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Scéna 5.",
+              "id": "scéna-5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ • Hamlet",
+      "file": "hamlet_007.html",
+      "words": 5196,
+      "chars": 29561,
+      "ideas": 841,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hamlet_006.html",
+      "next": "hamlet_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1.",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2.",
+              "id": "scéna-2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ • Hamlet",
+      "file": "hamlet_008.html",
+      "words": 6651,
+      "chars": 37444,
+      "ideas": 1167,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hamlet_007.html",
+      "next": "hamlet_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1.",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2.",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3.",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4.",
+              "id": "scéna-4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ • Hamlet",
+      "file": "hamlet_009.html",
+      "words": 4876,
+      "chars": 26695,
+      "ideas": 970,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hamlet_008.html",
+      "next": "hamlet_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ ČTVRTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1.",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2.",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3.",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4.",
+              "id": "scéna-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Scéna 5.",
+              "id": "scéna-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Scéna 6.",
+              "id": "scéna-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Scéna 7.",
+              "id": "scéna-7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PÁTÉ • Hamlet",
+      "file": "hamlet_010.html",
+      "words": 5208,
+      "chars": 29127,
+      "ideas": 895,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hamlet_009.html",
+      "next": "hamlet_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PÁTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1.",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2.",
+              "id": "scéna-2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hamlet",
+      "file": "hamlet_011.html",
+      "words": 49,
+      "chars": 340,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hamlet_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 28354,
+      "chars": 158250,
+      "ideas": 5261
+    },
+    "chapters": {
+      "words": 28349,
+      "chars": 158217,
+      "ideas": 5257
+    }
+  }
+}

@@ -1,119 +1,118 @@
 ---
+title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
-JEDNÁNÍ PRVNÍ
+## Scéna 1.
 
-Scéna 1.
+_Elsinor. — Terasa před zámkem._
 
-Elsinor. — Terasa před zámkem.
+_FRANCISKO na stráži. Vystoupí BERNARDO._
 
-FRANCISKO na stráži. Vystoupí BERNARDO.
-
-BERNARDO:
+**BERNARDO**:
 
 Kdo zde?
 
-FRANCISKO:
+**FRANCISKO**:
 
 Ne, _mně_ odpověz! Stůj a dej se znát!
 
-BERNARDO:
+**BERNARDO**:
 
 Ať žije král!
 
-FRANCISKO:
+**FRANCISKO**:
 
 Bernardo?
 
-BERNARDO:
+**BERNARDO**:
 
 On!
 
-FRANCISKO:
+**FRANCISKO**:
 
 Vy na minutu přicházíte včas.
 
-BERNARDO:
+**BERNARDO**:
 
 Teď tloukla dvanáctá; jdi spát, Francisko.
 
-FRANCISKO:
+**FRANCISKO**:
 
 Dík za vystřídání; ale mrazí dnes  
 a mně jest nějak teskno u srdce.
 
-BERNARDO:
+**BERNARDO**:
 
 Stráž měl jste klidnou?
 
-FRANCISKO:
+**FRANCISKO**:
 
                                             Myš se nehnula.
 
-BERNARDO:
+**BERNARDO**:
 
 Nuž, dobrou noc.  
 A potkáte-li kdes Horatia  
 a Marcela — dnes se mnou mají stráž —  
 jen řekněte, by pospíšili si.
 
-FRANCISKO:
+**FRANCISKO**:
 
 Mně zdá se, že je slyším. Stůj! Kdo zde?
 
-Vystoupí HORATIO a MARCEL.
+_Vystoupí HORATIO a MARCEL._
 
-HORATIO:
+**HORATIO**:
 
 Té země přátelé.
 
-MARCEL:
+**MARCEL**:
 
                                 A věrní králi.
 
-FRANCISKO:
+**FRANCISKO**:
 
 Všem dobrou noc!
 
-MARCEL:
+**MARCEL**:
 
                                    Vy, čacký vojíne,  
 též buďte s bohem! — Kdo vás vystřídal?
 
-FRANCISKO:
+**FRANCISKO**:
 
 Bernardo na mou hlídku nastoupil.  
 Již dobrou noc.
 
-_Odejde._
+__Odejde.__
 
-MARCEL:
+**MARCEL**:
 
                             Hola! Bernardo!
 
-BERNARDO:
+**BERNARDO**:
 
                                                            Hej!  
 Jest to Horatio?
 
-HORATIO:
+**HORATIO**:
 
                              Tak z něho kus.
 
-BERNARDO:
+**BERNARDO**:
 
 Tož vítejte a dobrý Marcel též.
 
-MARCEL:
+**MARCEL**:
 
 Jak, — zjevilo se to dnes v noci zas?
 
-BERNARDO:
+**BERNARDO**:
 
 Já neviděl jsem ničeho.
 
-MARCEL:
+**MARCEL**:
 
 Horatio mi říká, že to jest  
 jen přelud náš, a nechce uvěřit  
@@ -124,23 +123,23 @@ a ukáže-li se ten přízrak zas,
 by našim očím pravdu dosvědčil  
 a oslovil to.
 
-HORATIO:
+**HORATIO**:
 
                       Však to nepřijde.
 
-BERNARDO:
+**BERNARDO**:
 
 Nuž, chvilku sedněte a na svůj sluch,  
 jenž proti naší zvěsti hrazen jest,  
 nás ještě jednou nechte útočit  
 tím, co jsme po dvě noci viděli.
 
-HORATIO:
+**HORATIO**:
 
 Tož tedy sedněme a vyslechnem,  
 co nám Bernardo o tom vypoví.
 
-BERNARDO:
+**BERNARDO**:
 
 V noci minulé,  
 když právě tam ta hvězda, kteráž jest  
@@ -149,39 +148,39 @@ by ozářila onu nebes část,
 kde hoří teď, — tu Marcel a já sám,  
 když právě jedna odbila…
 
-Vystoupí DUCH.
+_Vystoupí DUCH._
 
-MARCEL:
+**MARCEL**:
 
 Dost! — Ticho! — Hle, — tam přichází to zas!
 
-BERNARDO:
+**BERNARDO**:
 
 V té podobě, co nebožtík náš král!
 
-MARCEL:
+**MARCEL**:
 
 Horatio, tys učen, promluv na to.
 
-BERNARDO:
+**BERNARDO**:
 
 Hleď, není-li to králi podobno?  
 — Jen viz, Horatio.
 
-HORATIO:
+**HORATIO**:
 
                                     Ba, celý on;  
 mně děs a úžas kostmi probíhá.
 
-BERNARDO:
+**BERNARDO**:
 
 Chce, aby někdo na to promluvil.
 
-MARCEL:
+**MARCEL**:
 
 Ty oslov to, Horatio.
 
-HORATIO:
+**HORATIO**:
 
                                        Kdos ty,  
 jenž osobíš si tento noční čas  
@@ -189,41 +188,41 @@ a krásnou, bohatýrskou postavu,
 v níž pohřbeného krále majestát  
 kdys chodil? — Nebem zaklínám tě, mluv!
 
-MARCEL:
+**MARCEL**:
 
 Jest uražen.
 
-BERNARDO:
+**BERNARDO**:
 
                       Hle, vzdaluje se to!
 
-HORATIO:
+**HORATIO**:
 
 Stůj! Promluv! Mluv, já zaklínám tě, mluv!
 
-DUCH zmizí.
+_DUCH zmizí._
 
-MARCEL:
+**MARCEL**:
 
 To tam a nechce dáti odpověď.
 
-BERNARDO:
+**BERNARDO**:
 
 Nuž jak, Horatio! — Vy třesete se  
 a zbledl jste. — Zdaž není v tom cos víc  
 než přelud? — Cože o tom soudíte?
 
-HORATIO:
+**HORATIO**:
 
 Bůh svědkem, že bych tomu nevěřil,  
 mé vlastní oči kdyby nebyly  
 mi pravdivým a zřejmým svědectvím.
 
-MARCEL:
+**MARCEL**:
 
 A není-li to králi podobno?
 
-HORATIO:
+**HORATIO**:
 
 Jak ty sám sobě. — Totéž brnění  
 měl na těle, když vyšel do boje  
@@ -233,19 +232,19 @@ při hněvném smlouvání se, udeřil
 na harcující v saních Polany.  
 Toť podivné. —
 
-MARCEL:
+**MARCEL**:
 
                              Tak dřív již dvakráte  
 a právě v tuto mrtvou hodinu  
 stráž bohatýrským krokem obešel.
 
-HORATIO:
+**HORATIO**:
 
 Zvlášť nevím, jak to sobě vyložit,  
 leč úhrnem a volně soudím-li,  
 zlý převrat věští to pro naši vlast.
 
-MARCEL:
+**MARCEL**:
 
 Nuž sedněme; a řekni mi, kdo ví,  
 proč tímto přísným, bdělým seřazováním  
@@ -259,7 +258,7 @@ Co zamýšlí se, že ten znojný chvat
 noc činí dělnou tovaryškou dne, —  
 kdo mi to může říct?
 
-HORATIO:
+**HORATIO**:
 
                                        To mohu já;  
 tak aspoň šeptá se: Král poslední,  
@@ -293,7 +292,7 @@ jak soudím, přední podnět našich příprav
 zdroj těchto stráží, hlavní příčina,  
 proč v zemi tento náhlý chvat a shon.
 
-BERNARDO:
+**BERNARDO**:
 
 Nic jinak, myslím, není to, než tak.  
 A s tím se může dobře shodovat,  
@@ -302,7 +301,7 @@ stráž naši ozbrojena obchází
 tak králi podobna, jenž byl a jest  
 těch válek podnětem.
 
-HORATIO:
+**HORATIO**:
 
                                          Toť smítka jest,  
 jež oko ducha znepokojuje.  
@@ -324,7 +323,7 @@ neb jako proslov blížících se ran, —
 teď nebesa a země pospolu  
 na naši vlast a národ seslaly.
 
-DUCH se znovu objeví.
+_DUCH se znovu objeví._
 
 Však ticho! Hle, tam přichází to zas!  
 Já zastoupím to, ať mne zahubí!  
@@ -343,29 +342,29 @@ zač, jak se povídá, vy duchové
 prý často obcházíte po smrti,  
 mluv, stůj, — a mluv!
 
-Kohout zakokrhá.
+_Kohout zakokrhá._
 
                                        Marcele, zadrž to!
 
-MARCEL:
+**MARCEL**:
 
 Mám po tom partyzánou udeřit?
 
-HORATIO:
+**HORATIO**:
 
 Tak, nechce-li to stát.
 
-BERNARDO:
+**BERNARDO**:
 
                                           Je zde!
 
-HORATIO:
+**HORATIO**:
 
                                                         Je zde!
 
-DUCH zmizí.
+_DUCH zmizí._
 
-MARCEL:
+**MARCEL**:
 
 Je pryč!  
 My křivdíme mu, ač tak majestátní,  
@@ -373,11 +372,11 @@ My křivdíme mu, ač tak majestátní,
 neb nezranitelný jest jako vzduch  
 a naše plané rány zlý jsou šprým.
 
-BERNARDO:
+**BERNARDO**:
 
 Chtěl promluvit, v tom kohout zazpíval.
 
-HORATIO:
+**HORATIO**:
 
 Tu sebou trhl jako hříšný tvor  
 na hrůzné zavolání. — Slýchal jsem,  
@@ -389,7 +388,7 @@ jest klidu nemající, bludný duch,
 zpět chvátá ve svou říš; a že to pravda,  
 nám dosvědčila tato příhoda.
 
-MARCEL:
+**MARCEL**:
 
 Jak zapěl kohout, zmizelo to hned.  
 Je pověst, kdykoli se vrátí čas,  
@@ -402,7 +401,7 @@ pak neuhrane, elfi tratí moc
 a čarodějky neudělají:  
 tak svatý to a milostivý čas.
 
-HORATIO:
+**HORATIO**:
 
 To slýchal jsem a zčásti věřím též.  
 Však hle, už jitro v plášti brunátném  
@@ -414,20 +413,20 @@ ten duch, k nám němý, k němu promluví,
 Zda souhlasíte, bychom mu to řekli,  
 jak žádá láska, velí povinnost?
 
-MARCEL:
+**MARCEL**:
 
 Tak, prosím, učiňme; a vím, kde ráno  
 jej nalezneme nejpříhodněji.
 
-Odejdou.
+_Odejdou._
 
-Scéna 2.
+## Scéna 2.
 
-Trůnní sál na zámku.
+_Trůnní sál na zámku._
 
-Tuš. — Vystoupí KRÁL, KRÁLOVNA, HAMLET, POLONIUS, LAERT, VOLTIMAND, KORNELIUS, dvořané a komonstvo.
+_Tuš. — Vystoupí KRÁL, KRÁLOVNA, HAMLET, POLONIUS, LAERT, VOLTIMAND, KORNELIUS, dvořané a komonstvo._
 
-KRÁL:
+**KRÁL**:
 
 Ač smrt drahého bratra, Hamleta,  
 jest posud v čerstvé paměti a nám  
@@ -477,16 +476,16 @@ vám nedávajíce, než shoduje
 se s mírou těchto článků vytknutých.  
 Již s bohem, a váš chvat spěj s povinností.
 
-KORNELIUS a VOLTIMAND:
+**KORNELIUS** a **VOLTIMAND**:
 
 V tom i všem jiném osvědčíme ji.
 
-KRÁL:
+**KRÁL**:
 
 Nic nepochybujem; nuž srdečně  
 vám s bohem oběma.
 
-Odejdou VOLTIMAND a KORNELIUS.
+_Odejdou VOLTIMAND a KORNELIUS._
 
                                          A nyní, Laerte,  
 co vy nám přinášíte nového?  
@@ -500,7 +499,7 @@ a ruka ústům není úslužnější,
 než byl vždy tvému otci dánský trůn.  
 Co přeješ sobě, Laerte?
 
-LAERT:
+**LAERT**:
 
                                             Svolení,  
 můj vládce mohutný, a milost vaši,  
@@ -514,12 +513,12 @@ a touhy zas mne vedou k Francii,
 před milostivým vaším svolením  
 a propuštěním sklánějíce se.
 
-KRÁL:
+**KRÁL**:
 
 Zdaž svého otce máte svolení?  
 Co dí Polonius?
 
-POLONIUS:
+**POLONIUS**:
 
                               On, pane můj,  
 svou usilovnou prosbou vynutil  
@@ -528,26 +527,26 @@ svým souhlasem, jenž byl mi přetěžký,
 jsem přec jen jeho vůli zpečetil;  
 tož, prosím, dovolte mu odejít.
 
-KRÁL:
+**KRÁL**:
 
 Chop, Laerte, vhodnou chvíli; čas buď tvůj  
 a po libosti užij ho tvá ctnost! —  
 Teď, synovče a synu Hamlete…
 
-HAMLET _(stranou)_:
+**HAMLET** _(stranou)_:
 
 O trochu spřízněn víc než synovec,  
 a trochu méně přízniv, než je syn.
 
-KRÁL:
+**KRÁL**:
 
 Což stále ještě vás ty mraky tíží?
 
-HAMLET:
+**HAMLET**:
 
 Ne, pane můj; jsem příliš na slunci.
 
-KRÁLOVNA:
+**KRÁLOVNA**:
 
 Můj dobrý Hamlete, již odvrhni  
 tu barvu noci a své oči nech  
@@ -557,15 +556,15 @@ Tak stále sklopenými brvami
 víš, že to obecné: co živo, zemře  
 a přírodou se nese k věčnosti.
 
-HAMLET:
+**HAMLET**:
 
 Ba, milostpaní, jest to obecné.
 
-KRÁLOVNA:
+**KRÁLOVNA**:
 
 Proč tobě zdá se to tak zvláštní být?
 
-HAMLET:
+**HAMLET**:
 
 Zdá! vzácná paní. — Jest! — Já neznám zdání.  
 Ne, dobrá matko, — ten můj tmavý plášť,  
@@ -580,7 +579,7 @@ jež člověk může hrát; já ale mám
 to ve svém nitru, co se nedá zdát;  
 vše tamto jest jen bolu šperk a šat.
 
-KRÁL:
+**KRÁL**:
 
 Jest něžno to a chvalno, Hamlete,  
 ve vaší povaze, že skládáte  
@@ -621,17 +620,17 @@ zde zůstat u nás, v blahé pohodě
 a útěšnosti zraku našeho,  
 náš nejprvnější dvořan, strýc a syn.
 
-KRÁLOVNA:
+**KRÁLOVNA**:
 
 Svou matku nenech ždáti nadarmo;  
 já prosím, Hamlete, zde zůstaň u nás  
 a neodcházej do Vitemberka.
 
-HAMLET:
+**HAMLET**:
 
 Seč jsem, chci, vzácná paní, poslechnout.
 
-KRÁL:
+**KRÁL**:
 
 Toť láskyplná, krásná odpověď.  
 Co my jsme, buďte v Dánsku. — Pojďme, choti.  
@@ -644,9 +643,9 @@ a v králův kvas ať duní nebesa
 zpět hovoříce zemské hřímání.  
 Již pojďte.
 
-Tuš. — Odejdou všichni kromě HAMLETA.
+_Tuš. — Odejdou všichni kromě HAMLETA._
 
-HAMLET:
+**HAMLET**:
 
 Ó kéž to příliš, příliš pevné tělo  
 se rozplynulo, sjihlo na rosu!  
@@ -685,45 +684,45 @@ se vrhati na krvesmilné lože!
 To dobré není, dobře neskončí. —  
 Však pukni, srdce, musím umlknout!
 
-Vystoupí HORATIO, MARCEL a BERNARDO.
+_Vystoupí HORATIO, MARCEL a BERNARDO._
 
-HORATIO:
+**HORATIO**:
 
 Zdar vaší Výsosti!
 
-HAMLET:
+**HAMLET**:
 
                                    Jsem potěšen,  
 vás vida zdravého. — Horatio!  
 Sám sebe jestli nezapomínám.
 
-HORATIO:
+**HORATIO**:
 
 Týž, princi, vždy váš sluha nehodný.
 
-HAMLET:
+**HAMLET**:
 
 Ne, dobrý přítel můj; chci vyměnit  
 to jméno s vámi. — A co děláte,  
 jsa z Vitemberka pryč, Horatio?  
 Aj Marcel?
 
-MARCEL:
+**MARCEL**:
 
                     Vzácný princi?
 
-HAMLET:
+**HAMLET**:
 
                                                   Velmi rád  
 vás tady vidím. _(K BERNARDOVI.)_ Dobrý večer, pane!  
 Leč, doopravdy, co vás přivádí  
 k nám z Vitemberka?
 
-HORATIO:
+**HORATIO**:
 
                                          Zahálčivost, pane.
 
-HAMLET:
+**HAMLET**:
 
 To slyšeti bych nechtěl, aby řek’  
 váš nepřítel, a tolik násilí  
@@ -734,21 +733,21 @@ Než, — což pak děláte zde v Elsinoru?
 My naučíme vás pít z hluboka,  
 než odjedete zas.
 
-HORATIO:
+**HORATIO**:
 
                                   Já, Výsosti,  
 sem přijel k pohřbu otce vašeho.
 
-HAMLET:
+**HAMLET**:
 
 Jen smích si netrop ze mne, spolužáku;  
 spíš přijel jsi mé matce na svatbu.
 
-HORATIO:
+**HORATIO**:
 
 Ta rychle potom následovala.
 
-HAMLET:
+**HAMLET**:
 
 Jen z hospodářství, brachu, z hospodářství:  
 co napečeno k pohřbu, studené  
@@ -758,51 +757,51 @@ i s nejkrutějším nepřítelem svým,
 než spatřil onen den, Horatio!  
 Můj otec! — Zdá se mi, že vidím otce.
 
-HORATIO:
+**HORATIO**:
 
 Ó kde, můj princi?
 
-HAMLET:
+**HAMLET**:
 
                                    V oku duše své.
 
-HORATIO:
+**HORATIO**:
 
 Já kdys jej viděl; byl to čacký král.
 
-HAMLET:
+**HAMLET**:
 
 Byl muž; a všechno ve všem zvážíš-li,  
 již jemu podobného nespatřím.
 
-HORATIO:
+**HORATIO**:
 
 Já, princi, tuším, viděl ho dnes v noci.
 
-HAMLET:
+**HAMLET**:
 
 Tys viděl? — Koho?
 
-HORATIO:
+**HORATIO**:
 
 Můj princi, krále, otce vašeho.
 
-HAMLET:
+**HAMLET**:
 
 Že krále, mého otce!
 
-HORATIO:
+**HORATIO**:
 
                                        Zmírněte  
 svůj údiv na mžik sluchem pozorným,  
 než o tom zázraku vše vypovím  
 na dosvědčení těchto vojínů.
 
-HAMLET:
+**HAMLET**:
 
 Pro smilování boží, mluvte již!
 
-HORATIO:
+**HORATIO**:
 
 Dvě noci po sobě ti pánové,  
 Marcel a Bernard, jsouce na stráži  
@@ -823,20 +822,20 @@ v též podobě, vše věrně do slova,
 duch přišel. — Znal jsem otce vašeho;  
 ty ruce nejsou podobny si víc.
 
-HAMLET:
+**HAMLET**:
 
 A kde to bylo?
 
-MARCEL:
+**MARCEL**:
 
                            Na terase, princi,  
 kde stráž jsme měli.
 
-HAMLET:
+**HAMLET**:
 
                                        Oslovili jste to?
 
-HORATIO:
+**HORATIO**:
 
 Já, pane můj, jsem na to promluvil,  
 však odpovědi mi to nedalo;  
@@ -846,118 +845,118 @@ Vtom jitřní kohout hlučně zazpíval
 a na ten hlas to kvapem ucouvlo  
 a zmizelo.
 
-HAMLET:
+**HAMLET**:
 
                    Toť velmi podivné.
 
-HORATIO:
+**HORATIO**:
 
 Jak živ jsem, vzácný princi, jest to pravda;  
 a tu jsme myslili, že povinnost  
 nám káže, dát vám o tom vědomost.
 
-HAMLET:
+**HAMLET**:
 
 Nu ovšem; to mne znepokojuje.  
 Jste na stráži dnes v noci?
 
-MARCEL a BERNARDO:
+**MARCEL** a **BERNARDO**:
 
                                                 Ano, princi.
 
-HAMLET:
+**HAMLET**:
 
 Že ozbrojen, jste řekli?
 
-MARCEL a BERNARDO:
+**MARCEL** a **BERNARDO**:
 
                                             Ozbrojen.
 
-HAMLET:
+**HAMLET**:
 
 Od lebky k palci?
 
-MARCEL a BERNARDO:
+**MARCEL** a **BERNARDO**:
 
                                  Od hlavy až k patě.
 
-HAMLET:
+**HAMLET**:
 
 Tož neviděli jste mu do tváře?
 
-HORATIO:
+**HORATIO**:
 
 Ó viděli, měl hledí zdvižené.
 
-HAMLET:
+**HAMLET**:
 
 Jak, — hleděl zachmuřeně?
 
-HORATIO:
+**HORATIO**:
 
                                                      Výraz měl  
 víc žalostivý nežli hněvivý.
 
-HAMLET:
+**HAMLET**:
 
 Bled, nebo uzarděn?
 
-HORATIO:
+**HORATIO**:
 
                                        Ne, velmi bled.
 
-HAMLET:
+**HAMLET**:
 
 A oči pevně na vás upíral?
 
-HORATIO:
+**HORATIO**:
 
 Co nejpevněji.
 
-HAMLET:
+**HAMLET**:
 
                             Byl bych tam chtěl být.
 
-HORATIO:
+**HORATIO**:
 
 Byl byste jistě trnul úžasem.
 
-HAMLET:
+**HAMLET**:
 
 Toť možné, velmi možné. Zůstal dlouho?
 
-HORATIO:
+**HORATIO**:
 
 Co mírným chvatem sto by napočet’.
 
-MARCEL a BERNARDO:
+**MARCEL** a **BERNARDO**:
 
 Déle, déle.
 
-HORATIO:
+**HORATIO**:
 
 Ne, když jsem já to viděl.
 
-HAMLET:
+**HAMLET**:
 
                                                Jeho vous  
 byl prošedlý, či ne?
 
-HORATIO:
+**HORATIO**:
 
                                     Jak za živa  
 jsem znal jej, černý, stříbrem prokvetlý.
 
-HAMLET:
+**HAMLET**:
 
 Dnes v noci budu s vámi na stráži;  
 snad zas to přijde.
 
-HORATIO:
+**HORATIO**:
 
                                    Přijde, za to ručím.
 
-HAMLET:
+**HAMLET**:
 
 A zjeví-li se v téže postavě,  
 jak vznešený můj otec, oslovím to,  
@@ -972,16 +971,16 @@ Teď buďte zdrávi; mezi jedenáctou
 a dvanáctou tam na terase dnes  
 vás navštívím.
 
-VŠICHNI:
+**VŠICHNI**:
 
                             Jsme k službám, Výsosti!
 
-HAMLET:
+**HAMLET**:
 
 Buď láska vaše mou, jak moje vaší;  
 a nyní s bohem!
 
-Odejdou všichni kromě HAMLETA.
+_Odejdou všichni kromě HAMLETA._
 
                               Mého otce duch  
 a ve zbroji! Zde čisto není vše.  
@@ -990,26 +989,26 @@ Kéž noc tu byla! — Zatím ticho, duše!
 Zlé skutky, byť je zavalila zem.  
 se zjeví před očima lidem všem.
 
-_Odejde._
+__Odejde.__
 
-Scéna 3.
+## Scéna 3.
 
-Pokoj v domě Poloniově.
+_Pokoj v domě Poloniově._
 
-Vystoupí LAERT a OFELIE.
+_Vystoupí LAERT a OFELIE._
 
-LAERT:
+**LAERT**:
 
 Mé věci jsou již na lodi; — buď zdráva!  
 A, sestro, kdy jen vítr bude přát,  
 a vhodná loď se najde, neprospi to,  
 leč povždy dej mi vědět o sobě.
 
-OFELIE:
+**OFELIE**:
 
 Ty pochybuješ?
 
-LAERT:
+**LAERT**:
 
                               Co pak Hamleta  
 se dotýče a cetek jeho přízně,  
@@ -1019,11 +1018,11 @@ sic časnou, ne však stálou, líbeznou,
 ne trvající, — vůně, lahody  
 jen mžikové, nic víc.
 
-OFELIE:
+**OFELIE**:
 
                                        Nic víc než to?
 
-LAERT:
+**LAERT**:
 
 Za víc to neměj; neboť příroda  
 když rozvíjí se, nezmohutňuje  
@@ -1067,7 +1066,7 @@ Tož bdělá buď, štít nejlepší je strach;
 neb mládí samo sobě odboj činí,  
 když nejsou blízko nepřátelé jiní.
 
-OFELIE:
+**OFELIE**:
 
 Chci podstatu tvých dobrých naučení  
 u svého srdce chovat na stráži.  
@@ -1078,18 +1077,18 @@ co sám jak bujný, pustý rozmařilec
 jde po kvetoucích stezkách marnosti  
 přes vlastní rady.
 
-LAERT:
+**LAERT**:
 
                                  O mne neboj se. —  
 Již přes čas meškám; hle, zde otec náš.
 
-Vystoupí POLONIUS.
+_Vystoupí POLONIUS._
 
 Ve dvojnásobném požehnání jest  
 i blaho dvojnásobné; příležitost  
 se usmívá na druhé loučení.
 
-POLONIUS:
+**POLONIUS**:
 
 Zde dosud, Laerte? — Styď se! — Na koráb!  
 Tvým plachtám vítr sedí na plecích  
@@ -1122,40 +1121,40 @@ a z toho vzejít musí, den jak z noci,
 že nemůžeš být klamným k nikomu.  
 Buď zdráv, mým žehnáním to v tobě zraj!
 
-LAERT:
+**LAERT**:
 
 Co nejpokorněji se loučím, otče.
 
-POLONIUS:
+**POLONIUS**:
 
 Čas volá, jdi; tvé služebnictvo čeká.
 
-LAERT:
+**LAERT**:
 
 Ofelie, již tedy s bohem buď  
 a dobře pamatuj, co jsem ti řek’.
 
-OFELIE:
+**OFELIE**:
 
 V mé paměti to uzamčeno jest  
 a klíče k tomu chováš při sobě.
 
-LAERT:
+**LAERT**:
 
 Nuž, buďte zdrávi!
 
-Odejde.
+_Odejde._
 
-POLONIUS:
+**POLONIUS**:
 
 Ofelie, o čem to mluvil s tebou?
 
-OFELIE:
+**OFELIE**:
 
 Když ráčíte si přáti, — o něčem,  
 co dotýká se prince Hamleta.
 
-POLONIUS:
+**POLONIUS**:
 
 Aj, právě vhod. — Jak se mi povídá,  
 on velmi často v době poslední  
@@ -1168,24 +1167,24 @@ tak jasně, jak se sluší na mou dceru
 a na tvou čest. Co jest to mezi vámi?  
 Mluv pravdu.
 
-OFELIE:
+**OFELIE**:
 
                           On mi dával, pane můj,  
 v poslední době mnohá ujištění  
 své náklonnosti.
 
-POLONIUS:
+**POLONIUS**:
 
                                     Náklonnosti! Jdi!  
 Ty mluvíš jako děvče zelené  
 a nezkušené v těchto nebezpečích;  
 těm ujištěním, jak to zveš, ty věříš?
 
-OFELIE:
+**OFELIE**:
 
 Já nevím, pane, co si myslit mám.
 
-POLONIUS:
+**POLONIUS**:
 
 Nuž, poučím tě: mysli, že jsi děcko,  
 žes bernou mincí brala jistinu,  
@@ -1194,21 +1193,21 @@ Sic, — abych tak to slovo ubohé
 dál neštval, až by dechu pozbylo, —  
 to jištění tě ujistí, žes bloud.
 
-OFELIE:
+**OFELIE**:
 
 On, pane, lásku svou mi nabízel,  
 jak počestný to přikazuje mrav.
 
-POLONIUS:
+**POLONIUS**:
 
 Jen řekni: dnešní mrav! — Ó jdi mi, jdi!
 
-OFELIE:
+**OFELIE**:
 
 A řeč svou dotvrzoval, pane můj,  
 kdekterou svatou nebes přísahou.
 
-POLONIUS:
+**POLONIUS**:
 
 Aj, oka na sluky! Ó známe to,  
 když hoří krev, jak rozmařile duše  
@@ -1236,48 +1235,48 @@ své prázdné chvíle zlehčovala tak,
 bys hovořila s princem Hamletem.  
 Čiň, jak ti poroučím; — a jdi teď po svých.
 
-OFELIE:
+**OFELIE**:
 
 Můj pane, poslechnu.
 
-Odejdou.
+_Odejdou._
 
-Scéna 4.
+## Scéna 4.
 
-Na terase.
+_Na terase._
 
-Vystoupí HAMLET, HORATIO a MARCEL.
+_Vystoupí HAMLET, HORATIO a MARCEL._
 
-HAMLET:
+**HAMLET**:
 
 Vzduch řeže zle; jest velmi mrazivo.
 
-HORATIO:
+**HORATIO**:
 
 Jest pronikavé, ostré povětří.
 
-HAMLET:
+**HAMLET**:
 
 Jak pozdě máme?
 
-HORATIO:
+**HORATIO**:
 
                                  Skoro na dvanáctou.
 
-MARCEL:
+**MARCEL**:
 
 Ne, odbila.
 
-HORATIO:
+**HORATIO**:
 
 Že tak? Já neslyšel; tož blíží se  
 ta doba, v kterou obcházívá duch.
 
-Z daleka troubení a střelba z děl.
+_Z daleka troubení a střelba z děl._
 
 Co znamená to, princi?
 
-HAMLET:
+**HAMLET**:
 
 Král dnešní noci bdí a popíjí  
 a hoduje a křepčí skočný rej;  
@@ -1285,11 +1284,11 @@ a jak jen rýnským hrdlo propláchne,
 hned kotlů ryk a trouby zavřesknou  
 tu velkou slávu jeho přípitku.
 
-HORATIO:
+**HORATIO**:
 
 Je to zde obyčej?
 
-HAMLET:
+**HAMLET**:
 
                                Ba věru jest;  
 však po mém soudu, ač jsem rodák zdejší  
@@ -1321,13 +1320,13 @@ od této jedné chyby: — špetka zla
 vše ušlechtilé činí pochybným  
 a ve svou potupnost je strhuje.
 
-DUCH se objeví.
+_DUCH se objeví._
 
-HORATIO:
+**HORATIO**:
 
 Hle, tam to přichází.
 
-HAMLET:
+**HAMLET**:
 
                                      Teď andělé  
 a spásy mocnosti nás ochraňte!  
@@ -1352,33 +1351,33 @@ tak hrůzně myšlenkami, které jdou
 za dosah našich duší? Rci, proč to  
 a nač, — a cože máme učinit?
 
-DUCH kývá na HAMLETA.
+_DUCH kývá na HAMLETA._
 
-HORATIO:
+**HORATIO**:
 
 Kývá to na vás, abyste s tím šel;  
 jak chtělo by to něco sděliti  
 vám samotnému.
 
-MARCEL:
+**MARCEL**:
 
                                   Hle, jak rytířsky  
 vám kyne k místu odlehlejšímu; —  
 však vy s tím nechoďte!
 
-HORATIO:
+**HORATIO**:
 
                                              Ne, nikterak.
 
-HAMLET:
+**HAMLET**:
 
 Zde nechce mluvit, půjdu tedy za ním.
 
-HORATIO:
+**HORATIO**:
 
 Můj princi, nechoďte!
 
-HAMLET:
+**HAMLET**:
 
                                          Proč míti strach?  
 Můj život za jehlu mi nestojí  
@@ -1386,7 +1385,7 @@ a duši mé co může ublížit,
 jež tak jest nesmrtelná jako on?  
 Zas kývá na mne, abych šel; nuž půjdu.
 
-HORATIO:
+**HORATIO**:
 
 Což, jestli vás to do vln vyláká,  
 neb na ten děsný vrchol skaliska,  
@@ -1399,23 +1398,23 @@ bez jiných příčin v mozek přivodí,
 jenž shlíží tolik sáhů do moře  
 a slyší dole jeho divý řev.
 
-HAMLET:
+**HAMLET**:
 
 Hle, stále kývá. — Jdi, — chci za tebou!
 
-MARCEL:
+**MARCEL**:
 
 Jít nesmíte, můj princi.
 
-HAMLET:
+**HAMLET**:
 
                                            Ruce pryč!
 
-HORATIO:
+**HORATIO**:
 
 Dejte si říci; — jíti nesmíte!
 
-HAMLET:
+**HAMLET**:
 
 Můj osud vzkřik’! — A každou nejmenší  
 v tom těle žilku utužuje tak,  
@@ -1425,80 +1424,80 @@ Bůh svědkem, ducha z toho udělám,
 kdo zdržuje mne! — Vari! povídám. —  
 Jen dál; — jdu za tebou.
 
-Odejdou DUCH a HAMLET.
+_Odejdou DUCH a HAMLET._
 
-HORATIO:
+**HORATIO**:
 
 To šálenství jej smyslů zbavuje.
 
-MARCEL:
+**MARCEL**:
 
 Teď za ním, neslušno ho poslechnout.
 
-HORATIO:
+**HORATIO**:
 
 Jen dále. — K jakým koncům dojde to?
 
-MARCEL:
+**MARCEL**:
 
 Jest něco prohnilého v státu Dánském.
 
-HORATIO:
+**HORATIO**:
 
 Bůh napraví to zas.
 
-MARCEL:
+**MARCEL**:
 
                                     Jen za ním teď.
 
-Odejdou.
+_Odejdou._
 
-Scéna 5.
+## Scéna 5.
 
-Jinde na terase.
+_Jinde na terase._
 
-Vystoupí DUCH a HAMLET.
+_Vystoupí DUCH a HAMLET._
 
-HAMLET:
+**HAMLET**:
 
 Kam chceš mne vésti? — Mluv. Dál nepůjdu.
 
-DUCH:
+**DUCH**:
 
 Slyš mne.
 
-HAMLET:
+**HAMLET**:
 
                   To chci.
 
-DUCH:
+**DUCH**:
 
                                   Má hodina se blíží,  
 kdy v muka sirnatého plamene  
 se musím vrátit.
 
-HAMLET:
+**HAMLET**:
 
                                Duchu nebohý!
 
-DUCH:
+**DUCH**:
 
 Nic nelituj mne; jenom rozvážný  
 sluch dopřej tomu, co ti objevím.
 
-HAMLET:
+**HAMLET**:
 
 Již mluv, jsem povinen tě vyslechnout.
 
-DUCH:
+**DUCH**:
 
 A také pomstít mne, až vyslechneš.
 
-HAMLET:
+**HAMLET**:
 
 Co?
 
-DUCH:
+**DUCH**:
 
 Jsemť tvého otce duch a odsouzen  
 na jistou dobu v noci obcházet  
@@ -1518,31 +1517,31 @@ Ta věčná zvěst však není pro ucho
 z masa a krve. — Slyš mne, slyš, ó slyš!  
 Tvůj otec jestli kdy ti drahým byl…
 
-HAMLET:
+**HAMLET**:
 
 Ó Bože!
 
-DUCH:
+**DUCH**:
 
 — pomsti tu podlou, neslýchanou vraždu!
 
-HAMLET:
+**HAMLET**:
 
 Vraždu!
 
-DUCH:
+**DUCH**:
 
 Ba vraždu podlou, jako každá jest;  
 však tato podlejší jest nade vše,  
 a divná víc a nepřirozená.
 
-HAMLET:
+**HAMLET**:
 
 Mluv rychle, abych rychlou perutí  
 jak modlitba neb lásky myšlenky  
 spěl k pomstě.
 
-DUCH:
+**DUCH**:
 
                            Vidím, že jsi ochoten;  
 a tupější bys byl než tučné bejlí,  
@@ -1556,11 +1555,11 @@ Však věz, můj dobrý synu, onen had,
 jenž tvého otce život uhryzl,  
 teď na hlavě má jeho korunu.
 
-HAMLET:
+**HAMLET**:
 
 Má duše prorocká! — Můj strýc! —
 
-DUCH:
+**DUCH**:
 
                                                                   Toť on,  
 ten krvesmilný, cizoložný netvor,  
@@ -1618,9 +1617,9 @@ Již blízké jitro hlásí světluška
 a bledne v neúčinném ohni svém.  
 Buď s bohem, s bohem! — Na mne vzpomínej.
 
-DUCH zmizí.
+_DUCH zmizí._
 
-HAMLET:
+**HAMLET**:
 
 Ó všichni zástupové nebeští!  
 Ó země! — A co dál? — Mám spolčit s tím  
@@ -1643,88 +1642,88 @@ Můj zápisník! — To radno zaznamenat,
 že lze se smát a smát a lotrem být; —  
 to aspoň v Dánsku možno, jsem si jist.
 
-Zapisuje si.
+_Zapisuje si._
 
 Nuž, strýče, tady jsi. — Teď heslo mé  
 zní: „S bohem, s bohem, na mne vzpomínej!“  
 Já přísahal.
 
-HORATIO a MARCEL _(za scénou)_:
+**HORATIO** a **MARCEL** _(za scénou)_:
 
                       Ó princi, princi!
 
-Vystoupí HORATIO a MARCEL.
+_Vystoupí HORATIO a MARCEL._
 
-MARCEL:
+**MARCEL**:
 
                                                Princi Hamlete!
 
-HORATIO:
+**HORATIO**:
 
 Bůh ochraň jej!
 
-HAMLET:
+**HAMLET**:
 
                              Tak buď!
 
-MARCEL:
+**MARCEL**:
 
                                                  Hej, hola, princi!
 
-HAMLET:
+**HAMLET**:
 
 Hej, hola, hochu, pojď, můj ptáčku, pojď!
 
-MARCEL:
+**MARCEL**:
 
 Co děje se, můj pane vznešený?
 
-HORATIO:
+**HORATIO**:
 
 Co nového, můj princi?
 
-HAMLET:
+**HAMLET**:
 
                                              Zázraky!
 
-HORATIO:
+**HORATIO**:
 
 Můj dobrý pane, povídejte již.
 
-HAMLET:
+**HAMLET**:
 
 Ne, vy to vyzradíte.
 
-HORATIO:
+**HORATIO**:
 
                                       Při sám Bůh,  
 já ne.
 
-MARCEL:
+**MARCEL**:
 
             Ni já, můj princi.
 
-HAMLET:
+**HAMLET**:
 
                                             Tedy tak; —  
 zdaž lidské srdce by to smyslilo?  
 Však mlčet budete?
 
-HORATIO a MARCEL:
+**HORATIO** a **MARCEL**:
 
                                       Bůh svědkem, princi!
 
-HAMLET:
+**HAMLET**:
 
 Tož v celém Dánsku lotra nežije,  
 kterýž by nebyl arciničema.
 
-HORATIO:
+**HORATIO**:
 
 Toť, pane, nemusil vstát z hrobu duch,  
 by nám to řek’.
 
-HAMLET:
+**HAMLET**:
 
                             Aj, pravda; máte pravdu;  
 a tak bez dalších oklik za to mám,  
@@ -1736,22 +1735,22 @@ své povolání a své touhy má; —
 a co se týče ubohosti mé,  
 nuž hleďte, — jdu se modlit.
 
-HORATIO:
+**HORATIO**:
 
 To, pane, jsou jen slova podivná  
 a blouznivá.
 
-HAMLET:
+**HAMLET**:
 
                         Mou vinou jestliže  
 vás urážejí, srdečně mi líto;  
 ba věřte, srdečně.
 
-HORATIO:
+**HORATIO**:
 
                                    Zde není viny.
 
-HAMLET:
+**HAMLET**:
 
 Při svatém Patriku, Horatio,  
 jest vina zde, — a vina veliká!  
@@ -1764,69 +1763,69 @@ jakož jste přáteli a učenci
 a vojíny, jen malou, jedinou  
 mi prosbu splňte.
 
-HORATIO:
+**HORATIO**:
 
                                    Jaká, pane, jest?  
 Vše splníme.
 
-HAMLET:
+**HAMLET**:
 
                            Tož nikdy nezjevte,  
 co této noci uviděli jste.
 
-HORATIO a MARCEL:
+**HORATIO** a **MARCEL**:
 
 To nezjevíme, pane!
 
-HAMLET:
+**HAMLET**:
 
                                        Přísahejte.
 
-HORATIO:
+**HORATIO**:
 
 Já věru, pane, slova neřeknu.
 
-MARCEL:
+**MARCEL**:
 
 Já, princi, také ne.
 
-HAMLET:
+**HAMLET**:
 
                                    Zde, na můj meč.
 
-MARCEL:
+**MARCEL**:
 
 Vždyť, pane můj, jsme přísahali již.
 
-HAMLET:
+**HAMLET**:
 
 Zde, pravím, na můj meč.
 
-DUCH _(pod zemí)_:
+**DUCH** _(pod zemí)_:
 
 Přísahejte.
 
-HAMLET:
+**HAMLET**:
 
 Aha, můj chlapče, tak ty hovoříš?  
 Tys tu, můj věrný brachu? — Nuže, dál:  
 vy slyšíte přec toho chlapíka  
 tam v podsklepí; — a tedy přísahejte.
 
-HORATIO:
+**HORATIO**:
 
 Jen, pane, přísahu nám řekněte.
 
-HAMLET:
+**HAMLET**:
 
 Že nehlesnete, co jste viděli,  
 to tady přísahejte na můj meč.
 
-DUCH _(pod zemí)_:
+**DUCH** _(pod zemí)_:
 
 Přísahejte.
 
-HAMLET:
+**HAMLET**:
 
 Hic et ubique? — Poodejděm dál.  
 Sem pojďte, pánové,  
@@ -1834,22 +1833,22 @@ a vložte opět ruce na můj meč:
 že nehlesnete, co jste slyšeli,  
 to tady přísahejte na můj meč.
 
-DUCH _(pod zemí)_:
+**DUCH** _(pod zemí)_:
 
 Přísahejte.
 
-HAMLET:
+**HAMLET**:
 
 Aj, dobře, starý krtku! Umíš ty  
 tak rychle pracovati pod zemí?  
 Toť statný kovkop! Ještě jednou dál; —  
 sem, dobří soudruzi!
 
-HORATIO:
+**HORATIO**:
 
 Při dni a noci, to je zvláštní div!
 
-HAMLET:
+**HAMLET**:
 
 Tož jako zvláštní div to vítejte.  
 Jest více věcí na nebi a zemi,  
@@ -1872,15 +1871,15 @@ abyste v nejkrajnější potřebě
 kdys došli spasení a milosti,  
 mi přísahejte.
 
-DUCH _(pod zemí)_:
+**DUCH** _(pod zemí)_:
 
 Přísahejte.
 
-HAMLET:
+**HAMLET**:
 
 Buď ticho, ticho, duchu neklidný!
 
-Přísahají.
+_Přísahají._
 
 Tak, pánové, svou láskou veškerou  
 vám poroučím se. A co moh’ by jen  
@@ -1893,4 +1892,4 @@ A stále, prosím, prsty na ústech.
 že k jeho nápravě jsem kdy se zrodil!  
 Nuž, pojďme spolu.
 
-Odejdou.
+_Odejdou._
