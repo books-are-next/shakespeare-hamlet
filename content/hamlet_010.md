@@ -113,11 +113,11 @@ Už si tím hlavu nelam, neboť jankovitý osel neurychlí krok bitím, i až s
 
 _Odejde DRUHÝ HROBNÍK._
 
-_(Kopá a zpívá.)_  
+__(Kopá a zpívá.)_  
 Když v mladosti jsem lásku měl,  
    ó, jak byl krásný svět!  
 S ní chodit kdy a jak jsem chtěl,  
-   kdo byl tak šťasten hned.
+   kdo byl tak šťasten hned._
 
 **HAMLET**:
 
@@ -133,10 +133,10 @@ Ano, tak; ruka neupracovaná jest choulostivější.
 
 **PRVNÍ HROBNÍK** _(zpívá)_:
 
-Však stáří pěstí zaťatou  
+_Však stáří pěstí zaťatou  
    mne kradmo chytlo v týl  
 a odplul jsem s ním v dálnou zem,  
-   jak nebýval bych byl.
+   jak nebýval bych byl._
 
 _Vyhodí lebku._
 
@@ -162,10 +162,10 @@ Ba že tak; a nyní je z toho vzácná paní z Červova bez čelisti a otlou
 
 **PRVNÍ HROBNÍK** _(zpívá)_:
 
-A motyka a rýč a rýč  
+_A motyka a rýč a rýč  
    a rubáš a pak dost;  
 a ještě jáma hluboká; —  
-   tak vítá se tu host.
+   tak vítá se tu host._
 
 _Vyhodí jinou lebku._
 
@@ -375,39 +375,39 @@ Takové hledění na věci bylo by příliš hledané.
 
 Ani za mák, na mou věru ne; jen ho tam stopujme dost střízlivě a dejme se vésti pravděpodobností. Například tak: Alexandr zemřel, Alexandr byl pochován, Alexandr rozpadá se v prach; prach jest země; ze země děláme hlínu; a proč by tou hlínou, v kterou se proměnil, nemohli ucpati pivní sud!
 
-Vševládný Caesar proměniv se v zem  
+_Vševládný Caesar proměniv se v zem  
 snad ucpe díru, chráně před větrem.  
 Ó, že ta prsť, jež svět děsila, teď  
-před zimním vichrem zalepuje zeď!
+před zimním vichrem zalepuje zeď!_
 
-Však ticho, stranou! Hle, zde přichází
+_Však ticho, stranou! Hle, zde přichází_
 
 _Vystoupí kněží atd. v průvodu; mrtvola Ofeliina; LAERT a truchlitelé za ní, KRÁL, KRÁLOVNA, jejich družina atd._
 
-král, královna a jejich dvořané.  
+_král, královna a jejich dvořané.  
 Kdo byl, jejž provázejí obřady  
 tak chudobnými? — Znamení to jest,  
 že nebožtík sáh’ rukou zoufalou  
 sám na sebe. Kdos vznesený to byl.  
-Mžik odstupme a pozorujme to.
+Mžik odstupme a pozorujme to._
 
 _Ustoupí s HORATIEM._
 
 **LAERT**:
 
-A jaký obřad dál?
+_A jaký obřad dál?_
 
 **HAMLET**:
 
-Toť Laert, hoch ušlechtilý. Pozor teď!
+_Toť Laert, hoch ušlechtilý. Pozor teď!_
 
 **LAERT**:
 
-A jaký obřad dál?
+_A jaký obřad dál?_
 
 **PRVÝ KNĚZ**:
 
-My dopřáli jí ritů pohřebních,  
+_My dopřáli jí ritů pohřebních,  
 co naše právo sahá. Její smrt  
 jest pochybná a nebýt vyšší vůle,  
 jež brání řádu, v zemi nesvěcené  
@@ -416,126 +416,126 @@ Ne zbožnou modlitbou, — leč křemeny
 a střepy měla by se zasypat.  
 Však byl jí dopřán vínek panenský  
 a dívčí obsypání květinami,  
-i zvonění a průvod poctivý.
+i zvonění a průvod poctivý._
 
 **LAERT**:
 
-Víc činit nelze?
+_Víc činit nelze?_
 
 **PRVÝ KNĚZ**:
 
-                              Nelze činit víc.  
+                              _Nelze činit víc.  
 Řád pohřební by zle byl znesvěcen,  
 chtít zpívat requiem a response  
-jak duším, které v míru odešly.
+jak duším, které v míru odešly._
 
 **LAERT**:
 
-Tak tedy uložte ji do země  
+_Tak tedy uložte ji do země  
 a z její krásné, cudné mrtvoly  
 ať rostou fialky! — Já říkám ti,  
 ty tvrdý knězi, anděl v nebesích  
 že bude sestra má, co budeš ty  
-výt v jícnu pekel.
+výt v jícnu pekel._
 
 **HAMLET**:
 
-                                  Jak? — Ofelie!
+                                  _Jak? — Ofelie!_
 
 **KRÁLOVNA** _(sypajíc květiny)_:
 
-Zde kvítí té, jež sama byla květ.  
+_Zde kvítí té, jež sama byla květ.  
 Buď s bohem již! — Já někdy doufala,  
 že budeš chotí mého Hamleta.  
 Já lože svatební ti zdobit chtěla,  
-má sličná dívko, ne tvůj krášlit hrob.
+má sličná dívko, ne tvůj krášlit hrob._
 
 **LAERT**:
 
-Ó trojnásobná běda třicetkrát  
+_Ó trojnásobná běda třicetkrát  
 ať padne na tu hlavu prokletou,  
 jež podlým činem smyslů nádherných  
 tě zbavila! — Mžik zadržte tu zem,  
-ať ještě jednou v náruč sevřu ji.
+ať ještě jednou v náruč sevřu ji._
 
 _Skočí do hrobu._
 
-Teď sypte hlínu na živé i mrtvé,  
+_Teď sypte hlínu na živé i mrtvé,  
 až horou bude tento plochý lán,  
 jež vyšší bude nežli Pelion  
-neb mračný štít modrého Olympu.
+neb mračný štít modrého Olympu._
 
 **HAMLET** _(postoupí vpřed)_:
 
-Kdo ten, jehožto hoře vyznívá  
+_Kdo ten, jehožto hoře vyznívá  
 tak hlučně? — Jehož nářek zaklíná  
 i bludné hvězdy, na dráze je stavě  
 jak ty, kdož ustrnuli úžasem?  
-To já jsem, Hamlet, Dán!
+To já jsem, Hamlet, Dán!_
 
 _Skočí do hrobu._
 
 **LAERT**:
 
-Čert vezmi duši tvou!
+_Čert vezmi duši tvou!_
 
 _Zápasí s ním._
 
 **HAMLET**:
 
-                                          Zle modlíš se.  
+                                          _Zle modlíš se.  
 Ty prsty, prosím, z mého hrdla pryč! —  
 Ač nejsem prudký ani ukvapen,  
 však v sobě mám cos nebezpečného,  
 a toho, jsi-li moudrý dost, se střež!  
-Pryč ruce!
+Pryč ruce!_
 
 **KRÁL**:
 
-                     Rozdělte je!
+                     _Rozdělte je!_
 
 **KRÁLOVNA**:
 
-                                             Hamlete!
+                                             _Hamlete!_
 
 **VŠICHNI**:
 
-Ó pánové —
+_Ó pánové —_
 
 **HORATIO**:
 
-Můj dobrý princi, upokojte se.
+_Můj dobrý princi, upokojte se._
 
 _Dvořané je roztrhnou a oba vystoupí z hrobu._
 
 **HAMLET**:
 
-Aj, v této věci chci s ním zápolit,  
-až víčka očí mých již nemrknou.
+_Aj, v této věci chci s ním zápolit,  
+až víčka očí mých již nemrknou._
 
 **KRÁLOVNA**:
 
-V čem, synu milý?
+_V čem, synu milý?_
 
 **HAMLET**:
 
-                                   Já ji miloval:  
+                                   _Já ji miloval:  
 čtyřicet tisíc bratří nemohlo  
 by vyvážit svou láskou veškerou  
 mé lásky úhrn. Co že učinit  
-chceš pro ni ty?
+chceš pro ni ty?_
 
 **KRÁL**:
 
-                                  Ó Laerte, šílen jest.
+                                  _Ó Laerte, šílen jest._
 
 **KRÁLOVNA**:
 
-Pro lásku boží, již ho ušetřte!
+_Pro lásku boží, již ho ušetřte!_
 
 **HAMLET**:
 
-Mluv, hrom a peklo! Co chceš učinit?  
+_Mluv, hrom a peklo! Co chceš učinit?  
 Chceš plakat, rvát se, postit, drásat se?  
 Chceš ocet pít, neb krokodýla sníst?  
 Já udělám to. — Jdeš sem skomírat?  
@@ -547,39 +547,39 @@ zde na nás navrší, až půda ta
 leb sžehajíc o pásmo horoucí,  
 jak nad bradavkou vyční nad Osou!  
 A máš-li chlubný jazyk, dovedu  
-se chvástat jako ty.
+se chvástat jako ty._
 
 **KRÁLOVNA**:
 
-                                      Toť šílenství. —  
+                                      _Toť šílenství. —  
 Ten záchvat jenom chvíli potrvá,  
 a trpělivě jako hrdlička,  
 když vyklubou se zlatá holátka,  
-hned jeho tichost křídla rozestře.
+hned jeho tichost křídla rozestře._
 
 **HAMLET**:
 
-Teď slyšte, pane: proč tak na mne jste?  
+_Teď slyšte, pane: proč tak na mne jste?  
 Já rád vás měl; však na tom nesejde;  
 ať cokoli si dělá Herakles,  
-dál kočka mňouká, svou si vede pes.
+dál kočka mňouká, svou si vede pes._
 
 __Odejde.__
 
 **KRÁL**:
 
-Jdi za ním, prosím tě, Horatio.
+_Jdi za ním, prosím tě, Horatio._
 
 _Odejde HORATIO._
 
-_(K LAERTOVI.)_  
+__(K LAERTOVI.)_  
 Co mluvili jsme spolu včera večer,  
 ať vaši trpělivost otuží;  
 tu záležitost provedeme hned.  
 Má dobrá Gertrudo, dej syna střežit.  
 Ten hrob zde živý pomník dostane  
 a chvíle klidné dospějeme v mále. —  
-Než bude to, jděm trpělivě dále.
+Než bude to, jděm trpělivě dále._
 
 __Odejde.__
 
@@ -591,16 +591,16 @@ _Vystoupí HAMLET a HORATIO._
 
 **HAMLET**:
 
-A tolik o tom. — Nyní poslyš dál.  
-Máš na paměti všechny okolnosti?
+_A tolik o tom. — Nyní poslyš dál.  
+Máš na paměti všechny okolnosti?_
 
 **HORATIO**:
 
-Můj princi, zdaž je na paměti mám!
+_Můj princi, zdaž je na paměti mám!_
 
 **HAMLET**:
 
-V mém srdci vřel mi rozpor nějaký,  
+_V mém srdci vřel mi rozpor nějaký,  
 jenž spát mi nedal; hůře bylo mi  
 tak ležet nežli v poutech buřiči.  
 Tu náhle vstal jsem, — dík té náhlosti! —  
@@ -609,15 +609,15 @@ nám časem velmi dobře poslouží,
 kde umdlévají naše záměry;  
 a to by mělo poučiti nás,  
 že božství naše cíle utváří,  
-ať nahrubo je tesáme jak chcem.
+ať nahrubo je tesáme jak chcem._
 
 **HORATIO**:
 
-Toť nad vše jisto.
+_Toť nad vše jisto._
 
 **HAMLET**:
 
-                                  Vzhůru z kajuty!  
+                                  _Vzhůru z kajuty!  
 Plášť námořnický hodiv na sebe  
 jsem tápal tmou, bych dopídil se jich;  
 i našel jsem je, chopil jejich vak  
@@ -632,24 +632,24 @@ a hu! — tak plný můr a strašáků,
 živ zůstanu-li, — by, jak přečtou to  
 a bez průtahu, ani tolik ne,  
 co sekyru si řádně nabrousí,  
-mi hlavu srazili.
+mi hlavu srazili._
 
 **HORATIO**:
 
-                                 Zdaž možno to?
+                                 _Zdaž možno to?_
 
 **HAMLET**:
 
-Zde je ten list; až bude kdy, jej pročti.  
-Chceš slyšet, co jsem potom udělal?
+_Zde je ten list; až bude kdy, jej pročti.  
+Chceš slyšet, co jsem potom udělal?_
 
 **HORATIO**:
 
-Jen mluvte, prosím.
+_Jen mluvte, prosím._
 
 **HAMLET**:
 
-Byv ze všech stran tak sevřen lotrovstvím,  
+_Byv ze všech stran tak sevřen lotrovstvím,  
 — neb dřív, než moh’ jsem proslov zosnovat  
 k svým plánům, oni započali hru, —  
 já used’, nový rozkaz vymyslil  
@@ -658,15 +658,15 @@ to míval kdys, jak naši státníci,
 psát úhledně, a dost se namáhal,  
 bych zapomenul zas to umění,  
 však nyní chlapsky posloužilo mi.  
-Chceš vědět, co jsem napsal?
+Chceš vědět, co jsem napsal?_
 
 **HORATIO**:
 
-                                                        Ano, princi.
+                                                        _Ano, princi._
 
 **HAMLET**:
 
-Co nejráznější výzvu od krále:  
+_Co nejráznější výzvu od krále:  
 „Věrným-li manem chce být Anglie  
 a má-li jejich láska palmou kvést,  
 a mír se věnčit klasem pšeničným  
@@ -675,43 +675,43 @@ a ještě s množstvím takých vážných „-li“
 „by král, jak obsah listu prohlédne,  
 nic neváhaje, kratčej ani dél,  
 hned na smrt vydal doručitele,  
-ni času nepovoliv k zpovědi.“
+ni času nepovoliv k zpovědi.“_
 
 **HORATIO**:
 
-A jak jste pečetí to opatřil?
+_A jak jste pečetí to opatřil?_
 
 **HAMLET**:
 
-V tom právě bylo nebes řízení.  
+_V tom právě bylo nebes řízení.  
 Já při sobě měl pečeť otcovu,  
 jež byla vzorem dánské pečeti.  
 List složil jsem jak první; podepsal;  
 vtisk’ pečeť; bezpečně jej uložil;  
 list podvržený zůstal nepoznán.  
 Den na to strhl se boj námořní,  
-a dál co bylo, jest ti známo již.
+a dál co bylo, jest ti známo již._
 
 **HORATIO**:
 
-Tak zhynou Rosenkrantz a Guildenstern?
+_Tak zhynou Rosenkrantz a Guildenstern?_
 
 **HAMLET**:
 
-Tak, muži. — Rádi podnikali to  
+_Tak, muži. — Rádi podnikali to  
 a pro ně svědomí mne nehněte;  
 zmar jejich z vlastní všetečnosti vzrost’:  
 jeť nebezpečno, sprostší povaha  
 když vstoupí mezi bod a žhavé hroty  
-dvou mocných soků.
+dvou mocných soků._
 
 **HORATIO**:
 
-                                         Jaký jest to král!
+                                         _Jaký jest to král!_
 
 **HAMLET**:
 
-Teď posuď, zdali nepřísluší mi, —  
+_Teď posuď, zdali nepřísluší mi, —  
 vždyť on mi mého krále zavraždil,  
 mou matku zprznil, vtisk’ se mezi trůn  
 a moje naděje a nastražil  
@@ -720,16 +720,16 @@ po vší té lsti zda nejsem zcela práv,
 když touto paží vše mu oplatím?  
 A není-li to hříšno, dopustit,  
 by tato rakovina dalším zlem  
-nám v těle hlodala?
+nám v těle hlodala?_
 
 **HORATIO**:
 
-On z Anglie se dozví zakrátko,  
-jak skončila tam ona výprava.
+_On z Anglie se dozví zakrátko,  
+jak skončila tam ona výprava._
 
 **HAMLET**:
 
-Ba zakrátko; čas mezitím je můj;  
+_Ba zakrátko; čas mezitím je můj;  
 a lidský život déle netrvá,  
 než řekneš: „Jedna!“ — Však, Horatio,  
 jen to mne rmoutí, že jsem zapomněl  
@@ -737,11 +737,11 @@ se k Laertovi; neb obraz věci mé
 mi ukazuje právnost sporu jeho.  
 Chci o jeho se přízeň ucházet,  
 neb věř, jen okázalost jeho žalu  
-tak svrchovaně pobouřila mne.
+tak svrchovaně pobouřila mne._
 
 **HORATIO**:
 
-Již ticho! — Kdo to přichází?
+_Již ticho! — Kdo to přichází?_
 
 _Vystoupí OSRIK._
 
@@ -987,14 +987,14 @@ _Vystoupí KRÁL, KRÁLOVNA, LAERT a panstvo; OSRIK a jiní s končíři a b
 
 **KRÁL**:
 
-Nuž pojďte, Hamlete, a přijměte  
-tu ruku ode mne.
+_Nuž pojďte, Hamlete, a přijměte  
+tu ruku ode mne._
 
 _KRÁL vloží ruku Laertovu do Hamletovy._
 
 **HAMLET**:
 
-Již odpusťte mi; ublížil jsem vám;  
+_Již odpusťte mi; ublížil jsem vám;  
 však odpusťte na šlechtickou svou čest.  
 To panstvo kolem ví  
 a zajisté i vy jste doslechnul,  
@@ -1016,11 +1016,11 @@ ať moje přiznání, že nechtěl jsem
 zlo úmyslně, omluví mne, pane,  
 tou měrou vaší mysli šlechetné,  
 že přes krov domu šíp jsem vystřelil  
-a zranil bratra.
+a zranil bratra._
 
 **LAERT**:
 
-                              V místě tom své duše,  
+                              _V místě tom své duše,  
 jež nejvíc mělo by mne k pomstě hnát,  
 jsem uspokojen, ale v podmínkách  
 své cti se držím podál: nechci smíru,  
@@ -1029,69 +1029,69 @@ svým hlasem rozhodnou a příkladem,
 jak zachovat mám jméno bez kazu.  
 Až potud vaši nabízenou lásku  
 jak lásku přijímám a nikterak  
-jí nechci ukřivdit.
+jí nechci ukřivdit._
 
 **HAMLET**:
 
-Já s radostí to uznávám a rád  
+_Já s radostí to uznávám a rád  
 si pošermuji v sázce bratrské.  
-Sem končíře. — A začněm.
+Sem končíře. — A začněm._
 
 **LAERT**:
 
-                                                    Jeden mně.
+                                                    _Jeden mně._
 
 **HAMLET**:
 
-Jen podklad budu lesku vašeho;  
+_Jen podklad budu lesku vašeho;  
 cvik váš od mojí neumělosti  
 jak hvězda v tmavé noci ohnivě  
-se bude odrážet.
+se bude odrážet._
 
 **LAERT**:
 
-                                Toť posměch, pane.
+                                _Toť posměch, pane._
 
 **HAMLET**:
 
-Ne, při té ruce!
+_Ne, při té ruce!_
 
 **KRÁL**:
 
-                              Mladý Osriku,  
+                              _Mladý Osriku,  
 již zbraň jim dejte. — Milý Hamlete,  
-vy znáte sázku.
+vy znáte sázku._
 
 **HAMLET**:
 
-                              Velmi dobře, pane;  
-na slabšího jste vsadil, Milosti.
+                              _Velmi dobře, pane;  
+na slabšího jste vsadil, Milosti._
 
 **KRÁL**:
 
-Však nebojím se; viděl jsem vás oba;  
+_Však nebojím se; viděl jsem vás oba;  
 on zlepšil se a protož dopřál nám  
-i výhody.
+i výhody._
 
 **LAERT**:
 
-                   Ten příliš těžký jest;  
-chci zkusit jiný.
+                   _Ten příliš těžký jest;  
+chci zkusit jiný._
 
 **HAMLET**:
 
-                               Ten mi právě vhod.  
-Jsou všechny stejně dlouhé?
+                               _Ten mi právě vhod.  
+Jsou všechny stejně dlouhé?_
 
 _Postaví se k šermu._
 
 **OSRIK**:
 
-                                                       Jsou, můj princi.
+                                                       _Jsou, můj princi._
 
 **KRÁL**:
 
-Tam na stůl dejte s vínem poháry. —  
+_Tam na stůl dejte s vínem poháry. —  
 Když Hamlet bodne jednou, po druhé,  
 neb v třetím výpadu bod oplatí,  
 ať zahřmí děla ze všech cimbuří:  
@@ -1103,182 +1103,182 @@ a kotle zahovořte k polnicím;
 vřesk polnic dělostřelcům na valech  
 a děla k nebi, k zemi nebesa:  
 „Král na zdraví teď pije Hamletovi!“  
-Již začněte; a pozor, soudcové.
+Již začněte; a pozor, soudcové._
 
 **HAMLET**:
 
-Jsem hotov, pane.
+_Jsem hotov, pane._
 
 **LAERT**:
 
-                                   Hotov.
+                                   _Hotov._
 
 _Šermují._
 
 **HAMLET**:
 
-                                                 Bod!
+                                                 _Bod!_
 
 **LAERT**:
 
-                                                           Ne!
+                                                           _Ne!_
 
 **HAMLET**:
 
-                                                                   Soud! —
+                                                                   _Soud! —_
 
 **OSRIK**:
 
-To očividný bod.
+_To očividný bod._
 
 **LAERT**:
 
-                                 Je dobře. — Dál.
+                                 _Je dobře. — Dál._
 
 **KRÁL**:
 
-Stůj! — Víno sem. Ta perla, Hamlete,  
-je tvoje. Na tvé zdraví!
+_Stůj! — Víno sem. Ta perla, Hamlete,  
+je tvoje. Na tvé zdraví!_
 
 _Tuš; střelba z děl za scénou._
 
-                                            Nuž ten pohár  
-mu podejte.
+                                            _Nuž ten pohár  
+mu podejte._
 
 **HAMLET**:
 
-Dřív skončím výpad; postavte ho tam.  
-Dál —
+_Dřív skončím výpad; postavte ho tam.  
+Dál —_
 
 __Šermují.__
 
-              Zase bod. — Co tomu říkáte?
+              _Zase bod. — Co tomu říkáte?_
 
 **LAERT**:
 
-To trefa, trefa! — Já se přiznávám.
+_To trefa, trefa! — Já se přiznávám._
 
 **KRÁL**:
 
-Syn vyhrá.
+_Syn vyhrá._
 
 **KRÁLOVNA**:
 
-                     Tělnat jest, má krátký dech.  
+                     _Tělnat jest, má krátký dech.  
 Zde, Hamlete, můj šátek, setři pot.  
-Na tvoje štěstí pije královna.
+Na tvoje štěstí pije královna._
 
 **HAMLET**:
 
-Má dobrá paní!
+_Má dobrá paní!_
 
 **KRÁL**:
 
-                              Nepij, Gertrudo!
+                              _Nepij, Gertrudo!_
 
 **KRÁLOVNA**:
 
-Já chci, můj choti; prosím, dovolte.
+_Já chci, můj choti; prosím, dovolte._
 
 **KRÁL** _(stranou)_:
 
-Toť pohár s jedem; příliš pozdě již.
+_Toť pohár s jedem; příliš pozdě již._
 
 **HAMLET**:
 
-Teď, matko, nesmím píti, hned však, hned.
+_Teď, matko, nesmím píti, hned však, hned._
 
 **KRÁLOVNA**:
 
-Pojď, osuším ti tvář.
+_Pojď, osuším ti tvář._
 
 **LAERT**:
 
-Teď, králi, bodnu já.
+_Teď, králi, bodnu já._
 
 **KRÁL**:
 
-                                        To nemyslím.
+                                        _To nemyslím._
 
 **LAERT** _(stranou)_:
 
-Přec jen to proti mému svědomí.
+_Přec jen to proti mému svědomí._
 
 **HAMLET**:
 
-Nuž, Laerte, do třetice, začněte.  
+_Nuž, Laerte, do třetice, začněte.  
 Vy jenom laškujete; prosím vás,  
 již celou silou na mne udeřte;  
-mám strach, že ze mne tropíte si žert.
+mám strach, že ze mne tropíte si žert._
 
 **LAERT**:
 
-Že tak? Tož pojďte.
+_Že tak? Tož pojďte._
 
 _Šermují._
 
 **OSRIK**:
 
-Nic, ani zde, ni tam.
+_Nic, ani zde, ni tam._
 
 **LAERT**:
 
-Teď kryjte se!
+_Teď kryjte se!_
 
 _LAERT zraní HAMLETA; v zápasu vymění své končíře a HAMLET zraní LAERTA._
 
 **KRÁL**:
 
-Již rozdělte je; rozjitření jsou.
+_Již rozdělte je; rozjitření jsou._
 
 **HAMLET**:
 
-Ne, ještě jednou. —
+_Ne, ještě jednou. —_
 
 _KRÁLOVNA klesá._
 
 **OSRIK**:
 
-                                       Hleďte, královna!
+                                       _Hleďte, královna!_
 
 **HORATIO**:
 
-Hle, oba krvácejí. Jak vám jest,  
-můj princi?
+_Hle, oba krvácejí. Jak vám jest,  
+můj princi?_
 
 **OSRIK**:
 
-                      Laerte, jak vám jest?
+                      _Laerte, jak vám jest?_
 
 **LAERT**:
 
-                                                              Jak sluce; —  
+                                                              _Jak sluce; —  
 v své vlastní oko lapen, Osriku!  
-Jsem právem zabit vlastním úkladem.
+Jsem právem zabit vlastním úkladem._
 
 **HAMLET**:
 
-Co královna?
+_Co královna?_
 
 **KRÁL**:
 
-                           Je v mdlobách, vidouc krev.
+                           _Je v mdlobách, vidouc krev._
 
 **KRÁLOVNA**:
 
-Ne, ne, ten nápoj! — Ó můj Hamlete,  
-ten nápoj, nápoj! — Otrávena jsem.
+_Ne, ne, ten nápoj! — Ó můj Hamlete,  
+ten nápoj, nápoj! — Otrávena jsem._
 
 __Zemře.__
 
 **HAMLET**:
 
-Ó bídáctví! Hoj! Dveře zamkněte!  
-Toť zrada! Pátrejte, kde vězí, kde?
+_Ó bídáctví! Hoj! Dveře zamkněte!  
+Toť zrada! Pátrejte, kde vězí, kde?_
 
 **LAERT** _(klesne)_:
 
-Zde, Hamlete! Jsi zabit, Hamlete,  
+_Zde, Hamlete! Jsi zabit, Hamlete,  
 a žádný světa lék ti nepomůže;  
 půl hodiny ti žití nezbývá.  
 Ten zrádný nástroj ve své ruce máš;  
@@ -1286,44 +1286,44 @@ je neotupen, jedem napuštěn.
 Zlý úklad obrátil se proti mně;  
 hle, tady ležím, bych víc nepovstal.  
 Tvá matka otrávena; — nelze víc —  
-král, král jest vinen.
+král, král jest vinen._
 
 **HAMLET**:
 
-                                       Hrot že napuštěn?  
-Tož, jede, svoje dílo dokonej.
+                                       _Hrot že napuštěn?  
+Tož, jede, svoje dílo dokonej._
 
 _Probodne KRÁLE._
 
 **VŠICHNI**:
 
-Ha! Zrada! Zrada!
+_Ha! Zrada! Zrada!_
 
 **KRÁL**:
 
-Ó, přec mne chraňte, moji přátelé;  
-jsem pouze raněn!
+_Ó, přec mne chraňte, moji přátelé;  
+jsem pouze raněn!_
 
 **HAMLET**:
 
-Zde, cizoložný, kletý, vražedný  
+_Zde, cizoložný, kletý, vražedný  
 ty Dáne, dopij z toho poháru.  
-Je ta tvá perla zde? — Jdi za matkou.
+Je ta tvá perla zde? — Jdi za matkou._
 
 _KRÁL zemře._
 
 **LAERT**:
 
-Má spravedlivou mzdu; jed míchal sám.  
+_Má spravedlivou mzdu; jed míchal sám.  
 Můj čacký Hamlete, my navzájem  
 si odpusťme a mého otce smrt  
-ať na tě nepadne, ni na mne tvá!
+ať na tě nepadne, ni na mne tvá!_
 
 __Zemře.__
 
 **HAMLET**:
 
-Bůh ti ji odpusť! Já jdu za tebou.  
+_Bůh ti ji odpusť! Já jdu za tebou.  
 Horatio, jsem mrtev. — S bohem buď,  
 nešťastná královno! — Vy ostatní,  
 kdož bledí, třesoucí se hledíte  
@@ -1333,17 +1333,17 @@ těch dějstev, — kdybych jenom času měl —
 Ó mohl bych vám vyprávět; — však dost.  
 Horatio, já umírám, tys živ;  
 mne a mou věc všem vylič spravedlivě,  
-jimž neznáma.
+jimž neznáma._
 
 **HORATIO**:
 
-                            To věru neučiním;  
+                            _To věru neučiním;  
 jsem více starý Říman nežli Dán; —  
-zde zbylo jedu.
+zde zbylo jedu._
 
 **HAMLET**:
 
-                               Jako že jsi muž,  
+                               _Jako že jsi muž,  
 dej mně tu číši; ty nech být; Bůh svědkem,  
 já chci to dopít. — Můj Horatio,  
 ty věci zůstanou-li neznámy,  
@@ -1351,22 +1351,22 @@ jak porušené jméno zanechám!
 V svém srdci jestli jsi mne choval kdy,  
 mžik zdrž se blaženosti nebeské  
 a v strastech dýchej k krutém světě tom,  
-bys o mně vypravoval.
+bys o mně vypravoval._
 
 _Zdaleka pochod; střelba za scénou._
 
-                                            Jaký hluk  
-to válečný?
+                                            _Jaký hluk  
+to válečný?_
 
 **OSRIK**:
 
-                            To mladý Fortinbras,  
+                            _To mladý Fortinbras,  
 jenž z Polska vítězně se navrací,  
-dal v pozdrav střílet poslům z Anglie.
+dal v pozdrav střílet poslům z Anglie._
 
 **HAMLET**:
 
-Ó, umírám, Horatio; jed prudký  
+_Ó, umírám, Horatio; jed prudký  
 mé smysly obestírá mrákotou.  
 Zpráv anglických se více nedočkám,  
 však předzvídám, že bude na trůn volen  
@@ -1374,51 +1374,51 @@ zde Fortinbras; můj zmírající hlas
 mu náleží. To řekni mu a vše  
 ty vážnější i menší příhody,  
 jež tady působily. — Ostatní  
-jest mlčení.
+jest mlčení._
 
 __Zemře.__
 
 **HORATIO**:
 
-Teď puká velké srdce. — Dobrou noc,  
+_Teď puká velké srdce. — Dobrou noc,  
 můj dobrý kníže! Sbory andělské  
-tě uzpívejte v klid.
+tě uzpívejte v klid._
 
 _Pochod za scénou._
 
-                                     Proč spěje sem  
-to bubnů víření?
+                                     _Proč spěje sem  
+to bubnů víření?_
 
 _Vystoupí FORTINBRAS, ANGLIČTÍ VYSLANCI a jiní s bubny a prapory._
 
 **FORTINBRAS**:
 
-                                Kde jest ten výjev?
+                                _Kde jest ten výjev?_
 
 **HORATIO**:
 
-Co chcete vidět? Hoře-li to jest  
-neb úžas, — dále nehledejte již.
+_Co chcete vidět? Hoře-li to jest  
+neb úžas, — dále nehledejte již._
 
 **FORTINBRAS**:
 
-Řež tato křičí vraždou. Hrdá smrti,  
+_Řež tato křičí vraždou. Hrdá smrti,  
 v své věčné kobce jaký chystáš kvas,  
 že tolik knížat jedním odstřelem  
-tak sklálas krvavě?
+tak sklálas krvavě?_
 
 **PRVNÍ POSEL**:
 
-                                     To děsný pohled;  
+                                     _To děsný pohled;  
 věc naše došla pozdě z Anglie.  
 Ten sluch je mrtev, jenž měl vyslechnout,  
 že splněn jeho rozkaz: Rosenkrantz  
 a Guildenstern že již skonali.  
-Kde díků dojdeme?
+Kde díků dojdeme?_
 
 **HORATIO**:
 
-                                     Ne z těchto úst,  
+                                     _Ne z těchto úst,  
 i kdyby živa mohla děkovat;  
 on nikdy nedal rozkaz k jejich smrti.  
 Že však té věci krvavé tak v sled  
@@ -1434,28 +1434,28 @@ o božích soudech, vraždách náhodných,
 o smrtích nástrahou i násilím; —  
 a koncem úklady jak selhaly  
 a padly zpět na hlavu strůjcovu.  
-To vše vám v pravdě mohu povědít.
+To vše vám v pravdě mohu povědít._
 
 **FORTINBRAS**:
 
-Již chvátejme to vyslechnout a hned  
+_Již chvátejme to vyslechnout a hned  
 ať shromáždí se šlechta nejvyšší.  
 Já sám jen žalně beru štěstí své;  
 mám dávná práva v tomto království,  
-jichž teď se chopit káže povinnost.
+jichž teď se chopit káže povinnost._
 
 **HORATIO**:
 
-Též o tom budu muset mluviti,  
+_Též o tom budu muset mluviti,  
 tož z jeho úst, jichž hlas jich získá víc.  
 Leč bez odkladu vše se vykonej,  
 neb mysli lidu pobouřeny jsou,  
 by po úkladech, bludech nevzniklo  
-víc nehod ještě.
+víc nehod ještě._
 
 **FORTINBRAS**:
 
-                              Čtyři setníci  
+                              _Čtyři setníci  
 ať nesou na lešení Hamleta  
 jak vojína; on jistě na trůnu  
 by královsky se býval osvědčil.  
@@ -1464,6 +1464,6 @@ a zvyky vojenské ať hlasitě
 zaň promluví. —  
 Již těla vzhůru. — Pohled, jako ten,  
 jest pro bojiště, — zde však přesmuten.  
-Ať vojsko střílí.
+Ať vojsko střílí._
 
 _Pohřební pochod. Odejdou, nesouce mrtvá těla; potom střelba z děl._

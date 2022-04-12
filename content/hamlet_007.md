@@ -11,26 +11,26 @@ _Vystoupí POLONIUS a REYNALD._
 
 **POLONIUS**:
 
-Ty peníze a listy, Reynalde,  
-mu odevzdáš.
+_Ty peníze a listy, Reynalde,  
+mu odevzdáš._
 
 **REYNALD**:
 
-                          Tak, pane, učiním.
+                          _Tak, pane, učiním._
 
 **POLONIUS**:
 
-A bude tuze moudré od tebe,  
+_A bude tuze moudré od tebe,  
 než navštívíš ho, milý Reynalde,  
-když poptáš se po jeho chování.
+když poptáš se po jeho chování._
 
 **REYNALD**:
 
-To, pane můj, jsem také zamýšlel.
+_To, pane můj, jsem také zamýšlel._
 
 **POLONIUS**:
 
-Aj správně, velmi správně řečeno.  
+_Aj správně, velmi správně řečeno.  
 Hleď na to se mi vyptat především,  
 jací tam Dánové jsou v Paříži,  
 a jak a kdo a čím a kde je živ,  
@@ -41,15 +41,15 @@ než sahalo tvé ptaní porůzné.
 Tak stav se, jako bys ho z dálky znal:  
 rci ku příkladu: „Jeho otce znám  
 a jeho přátele a trochu jej.“ —  
-Ty chápeš, Reynalde?
+Ty chápeš, Reynalde?_
 
 **REYNALD**:
 
-                                         Ó velmi dobře.
+                                         _Ó velmi dobře._
 
 **POLONIUS**:
 
-„A trochu jej“; však můžeš říct: „Jen tak. —  
+_„A trochu jej“; však můžeš říct: „Jen tak. —  
 A v pravdě-li to on, to divoch jest  
 a zvětřen v tom a v tom.“ — A potom naň  
 sveď výmyslů, co jen ti libo jest,  
@@ -57,25 +57,25 @@ jen nic tak podlého, by znectěn byl;
 — v tom pozor dej; — však, brachu, takové  
 jen rozpustilé, bujné, všední kousky,  
 jež, jak je známo, nejobvykleji  
-se druží s mladostí a svobodou.
+se druží s mladostí a svobodou._
 
 **REYNALD**:
 
-Tak jako hraní, pane.
+_Tak jako hraní, pane._
 
 **POLONIUS**:
 
-                                          Ano, tak,  
+                                          _Ano, tak,  
 a pitky, rvačky, klení, hádky, frej;  
-tak daleko se můžeš spustiti.
+tak daleko se můžeš spustiti._
 
 **REYNALD**:
 
-To, pane, znectí jej.
+_To, pane, znectí jej._
 
 **POLONIUS**:
 
-                                     Ba nikoliv,  
+                                     _Ba nikoliv,  
 když v obvinění míru zachováš.  
 Tu příhanu naň arciť neshrnuj,  
 že ve svých vášních bývá bezuzdný;  
@@ -83,23 +83,23 @@ to nemyslím; však jeho vady lič
 tak šetrně, by zdálo se, že jsou  
 jen skvrnou volnosti, jen výbuchy  
 a vzeplanutí mysli ohnivé,  
-var krve nezkrotné, jak bývá to.
+var krve nezkrotné, jak bývá to._
 
 **REYNALD**:
 
-Však, pane můj —
+_Však, pane můj —_
 
 **POLONIUS**:
 
-                                    Proč máš tak učinit?
+                                    _Proč máš tak učinit?_
 
 **REYNALD**:
 
-Tak jest, můj pane, to bych věděl rád.
+_Tak jest, můj pane, to bych věděl rád._
 
 **POLONIUS**:
 
-Aj, brachu, právě v tom jest háček můj  
+_Aj, brachu, právě v tom jest háček můj  
 a myslím, že to léčka bezpečná.  
 Když mého syna zlehčíš poněkud,  
 — tak, jako že jsou skvrny na díle, —  
@@ -110,26 +110,26 @@ kdy mladíka, jenž tebou obviněn,
 buď bezpečen, ti takto doloží:  
 „Můj pane“ nebo tak, či „příteli“  
 neb: „Vzácnosti“, jak řeč a tituly  
-těch lidí a té země běžny jsou…
+těch lidí a té země běžny jsou…_
 
 **REYNALD**:
 
-Velmi dobře, pane.
+_Velmi dobře, pane._
 
 **POLONIUS**:
 
-A potom, brachu, začne, — začne, — co  
+_A potom, brachu, začne, — začne, — co  
 jsem chtěl říci? U všech všudy, já jsem chtěl  
-něco říci. — Kdepak jsem zůstal?
+něco říci. — Kdepak jsem zůstal?_
 
 **REYNALD**:
 
-U „takto doloží“, u „příteli neb tak“  
-a „Vzácnosti“ —
+_U „takto doloží“, u „příteli neb tak“  
+a „Vzácnosti“ —_
 
 **POLONIUS**:
 
-U „takto doloží“ — ach, ano, tak;  
+_U „takto doloží“ — ach, ano, tak;  
 on doloží: „Ah, toho pána znám;  
 já včera viděl ho, či nedávno,  
 neb tenkrát, onehdy a s tím a s tím,  
@@ -144,58 +144,58 @@ a tak my vychytralí ptáčkové
 si oklikami, chodem postranním  
 a scestím pravou cestu naleznem.  
 Dle toho návodu a rady mé  
-si veď s mým synem. Rozumíš mi teď?
+si veď s mým synem. Rozumíš mi teď?_
 
 **REYNALD**:
 
-Teď, pane, rozumím.
+_Teď, pane, rozumím._
 
 **POLONIUS**:
 
-                                        Buď s tebou Bůh  
-a měj se hezky.
+                                        _Buď s tebou Bůh  
+a měj se hezky._
 
 **REYNALD**:
 
-                               Dobře, pane můj!
+                               _Dobře, pane můj!_
 
 **POLONIUS**:
 
-Dle vlastních spádů suď na spády jeho.
+_Dle vlastních spádů suď na spády jeho._
 
 **REYNALD**:
 
-To učiním.
+_To učiním._
 
 **POLONIUS**:
 
-I ať mi hudbu nezanedbává.
+_I ať mi hudbu nezanedbává._
 
 **REYNALD**:
 
-Tak, pane můj.
+_Tak, pane můj._
 
 **POLONIUS**:
 
-Buď zdráv!
+_Buď zdráv!_
 
 _Odejde REYNALD._
 
 _Vystoupí OFELIE._
 
-                      Nuž, jak, Ofelie! Co děje se?
+                      _Nuž, jak, Ofelie! Co děje se?_
 
 **OFELIE**:
 
-Ó pane, pane, jsem tak polekána!
+_Ó pane, pane, jsem tak polekána!_
 
 **POLONIUS**:
 
-Čím? — Pro Bůh, mluv!
+_Čím? — Pro Bůh, mluv!_
 
 **OFELIE**:
 
-Můj pane, jak jsem šila v pokoji,  
+_Můj pane, jak jsem šila v pokoji,  
 princ Hamlet v rozhaleném kabátci  
 a bez klobouku, maje punčochy,  
 vše zablácené, nepodvázané,  
@@ -205,24 +205,24 @@ jak jeho košile a kolena
 se klektající jedno o druhé,  
 a s pohledem tak žalně strhaným,  
 jak byli by ho z pekla pustili,  
-by hrůzy vyprávěl, vstoup’ přede mne.
+by hrůzy vyprávěl, vstoup’ přede mne._
 
 **POLONIUS**:
 
-Svou láskou k tobě šílen?
+_Svou láskou k tobě šílen?_
 
 **OFELIE**:
 
-                                                 Pane můj,  
-to nevím, vskutku však se obávám.
+                                                 _Pane můj,  
+to nevím, vskutku však se obávám._
 
 **POLONIUS**:
 
-Co říkal ti?
+_Co říkal ti?_
 
 **OFELIE**:
 
-                     On vzal mne za ruku  
+                     _On vzal mne za ruku  
 a pevně držel ji; pak odstoupí  
 na délku paže své a rukou druhou  
 si takto zacláněje obočí  
@@ -237,27 +237,27 @@ a končit jeho žití. — Pak mne pustí;
 a hlavu přes rameno obrátiv,  
 jak zdálo se, směr viděl bez očí;  
 neb z dveří vyšel bez jich pomoci,  
-a stále na mne upíral jich svit.
+a stále na mne upíral jich svit._
 
 **POLONIUS**:
 
-Pojď, půjdeš se mnou; krále vyhledám.  
+_Pojď, půjdeš se mnou; krále vyhledám.  
 Toť opravdové lásky blouznění,  
 jež prudkostí se sama kácí v zmar  
 a vede vůli k činům zoufalým,  
 tak jako každá vášeň pod sluncem,  
 jež trápí naši bytost. Rmoutí mne to.  
-Jak, mluvila jsi posléz příkře s ním?
+Jak, mluvila jsi posléz příkře s ním?_
 
 **OFELIE**:
 
-Ne, pane můj, však, jak jste poručil,  
+_Ne, pane můj, však, jak jste poručil,  
 jsem jeho listů nepřijímala.  
-a odmítala jeho návštěvy.
+a odmítala jeho návštěvy._
 
 **POLONIUS**:
 
-A to jej připravilo o rozum.  
+_A to jej připravilo o rozum.  
 Teď lituji, že opatrněji  
 a rozvážněji jsem ho nezkoumal;  
 já bál se, že jen s tebou zahrává  
@@ -269,7 +269,7 @@ být nerozvážnými. Pojď ke králi;
 to zvědět musí, neboť zatajení  
 by mohlo přinésti nám větší žal,  
 než bude hněv, když o lásce zví král.  
-Pojď.
+Pojď._
 
 _Odejdou._
 
@@ -281,7 +281,7 @@ _Tuš. — Vystoupí KRÁL, KRÁLOVNA, ROSENKRANTZ, GUILDENSTERN a dvořané._
 
 **KRÁL**:
 
-Nuž, vítejte nám, drahý Rosenkrantzi  
+_Nuž, vítejte nám, drahý Rosenkrantzi  
 a Guildensterne. — Kromě velké touhy  
 vás uvidět, i naše potřeba  
 vás k službám užíti, nás pudila  
@@ -300,11 +300,11 @@ s ním nějakou tu dobu pomeškat,
 svou společností k zábavám ho mít  
 a vyzvědít, jak příležitost dá,  
 zdaž trápí jej cos neznámého nám  
-a co bychom snad mohli napravit.
+a co bychom snad mohli napravit._
 
 **KRÁLOVNA**:
 
-On mluvil o vás, dobří pánové,  
+_On mluvil o vás, dobří pánové,  
 tak často; a jsem jista, jiných dvou  
 že není na světě, k nimž více lne.  
 A bude-li vám libo, prokázat  
@@ -312,43 +312,43 @@ nám tolik vlídnosti a ochoty,
 byste tu chvíli u nás prodleli  
 na vzrůst a prospěch naší naděje,  
 vám za návštěvu taký vzdáme dík,  
-jak sluší jen na vděčnost královskou.
+jak sluší jen na vděčnost královskou._
 
 **ROSENKRANTZ**:
 
-Vám oběma Milostem královským  
+_Vám oběma Milostem královským  
 po svrchované moci nad námi  
 jen v rozkaz třeba odít velmožnou  
-svou libost a ne v prosbu.
+svou libost a ne v prosbu._
 
 **GUILDENSTERN**:
 
-                                                 Poslechnem  
+                                                 _Poslechnem  
 a do veškerých sil svých napětí  
 zde kladem k vašim nohám služby své  
-vše ochotně a k vašim rozkazům.
+vše ochotně a k vašim rozkazům._
 
 **KRÁL**:
 
-Dík, Rosenkrantzi, dík vám Guildensterne.
+_Dík, Rosenkrantzi, dík vám Guildensterne._
 
 **KRÁLOVNA**:
 
-Dík, Guildensterne, dík vám, Rosenkrantzi!  
+_Dík, Guildensterne, dík vám, Rosenkrantzi!  
 A prosím vás, abyste navštívili  
 hned mého těžce změněného syna.  
 Jdi někdo z vás a pány doprovoď,  
-kde Hamlet jest.
+kde Hamlet jest._
 
 **GUILDENSTERN**:
 
-                                A račtež nebesa  
+                                _A račtež nebesa  
 i naši přítomnost i počínání  
-mu zdárné učinit a příjemné!
+mu zdárné učinit a příjemné!_
 
 **KRÁLOVNA**:
 
-Tak dejž to Bůh!
+_Tak dejž to Bůh!_
 
 _Odejdou GUILDENSTERN a ROSENKRANTZ s některými dvořany._
 
@@ -356,59 +356,59 @@ _Vystoupí POLONIUS._
 
 **POLONIUS**:
 
-Vyslanci z Norska, dobrý pane můj,  
-se šťastně vrátili.
+_Vyslanci z Norska, dobrý pane můj,  
+se šťastně vrátili._
 
 **KRÁL**:
 
-Tys býval vždycky otcem dobrých zpráv.
+_Tys býval vždycky otcem dobrých zpráv._
 
 **POLONIUS**:
 
-Že býval? Věřte, pane vznešený,  
+_Že býval? Věřte, pane vznešený,  
 jak duše své že povinnosti dbám,  
 jež k Bohu víže mne i mému králi.  
 A myslím (jinak tento mozek můj  
 již neloví po stopách moudrosti  
 jak jindy), že jsem našel příčinu  
-té Hamletovy pomatenosti.
+té Hamletovy pomatenosti._
 
 **KRÁL**:
 
-Ó mluvte jen, to prahnu vyslechnout.
+_Ó mluvte jen, to prahnu vyslechnout._
 
 **POLONIUS**:
 
-Dřív slyšte vyslance; mé noviny  
-pak buďtež zákuskem těch velkých hodů.
+_Dřív slyšte vyslance; mé noviny  
+pak buďtež zákuskem těch velkých hodů._
 
 **KRÁL**:
 
-Ty sám jim poctu vzdej a uveď je.
+_Ty sám jim poctu vzdej a uveď je._
 
 _Odejde POLONIUS._
 
-On řek’, má drahá Gertrudo, že našel  
-zdroj rozrušení syna vašeho.
+_On řek’, má drahá Gertrudo, že našel  
+zdroj rozrušení syna vašeho._
 
 **KRÁLOVNA**:
 
-Jest, myslím, zdroj to pouze jediný:  
-smrt otcova a předčasný náš sňatek.
+_Jest, myslím, zdroj to pouze jediný:  
+smrt otcova a předčasný náš sňatek._
 
 **KRÁL**:
 
-To vyzkoumáme.
+_To vyzkoumáme._
 
 _Vystoupí POLONIUS s VOLTIMANDEM a KORNELIEM._
 
-                                   Buďte vítáni,  
+                                   _Buďte vítáni,  
 vy dobří přátelé. Nuž, Voltimande,  
-co vzkazuje nám Norveg, bratr náš?
+co vzkazuje nám Norveg, bratr náš?_
 
 **VOLTIMAND**:
 
-Svá přání nejlepší a pozdravy.  
+_Svá přání nejlepší a pozdravy.  
 Na první naši žádost zastavit  
 dal synovcova vojska sbírání,  
 jež mnil, že míří proti Polákům;  
@@ -425,30 +425,30 @@ Tu starý Norveg dojat radostně
 tré tisíc korun ročních důchodů  
 mu povolil a rozkázal, by mužstvo  
 dřív sebrané ved’ proti Polákům.  
-A k tomu svoji prosbu připojil,
+A k tomu svoji prosbu připojil,_
 
 _(podává listinu)_
 
-abyste ráčil svými zeměmi  
+_abyste ráčil svými zeměmi  
 jim volný průchod dát v tom podniku;  
 to pod zárukami a výhradou,  
-jak tady vypsáno.
+jak tady vypsáno._
 
 **KRÁL**:
 
-                                  To těší nás  
+                                  _To těší nás  
 a v příhodnější čas to přečteme  
 a uváživše dáme odpověď.  
 Dík prozatím za vaši námahu.  
 Teď odpočiňte si a na večer  
 se při hostině spolu shledáme.  
-Nuž, poznovu jste domů vítáni.
+Nuž, poznovu jste domů vítáni._
 
 _Odejdou VOLTIMAND a KORNELIUS._
 
 **POLONIUS**:
 
-Věc tato náležitě skončena.  
+_Věc tato náležitě skončena.  
 Můj pane vznešený a královno,  
 chtít vykládati, co jest majestát,  
 co povinnost, proč den je dnem, noc nocí  
@@ -460,15 +460,15 @@ chci stručným býti. — Vznešený váš syn
 jest šíleným; já pravím šíleným;  
 neb cože jesti pravá šílenost,  
 než nebýt ničím nežli šíleným?  
-Však toho nechme.
+Však toho nechme._
 
 **KRÁLOVNA**:
 
-                                     K věci, prostěji.
+                                     _K věci, prostěji._
 
 **POLONIUS**:
 
-Ba přísahám, že mluvím zcela prostě.  
+_Ba přísahám, že mluvím zcela prostě.  
 Že šílen, pravda jest a opravdu  
 jest toho žel a žel, že jest to pravda.  
 Toť výklad bláznovský, a nechme ho,  
@@ -482,7 +482,7 @@ a zůstatek je tento: Uvažte, —
 mám dceru, — mám ji, protože jest má,  
 a ta mi z poslušnosti povinné,  
 — nuž, pozor, — dala toto zde; a teď  
-to berte souhrnem a posuďte.
+to berte souhrnem a posuďte._
 
 _(Čte.)_
 
@@ -496,48 +496,48 @@ __(Čte.)__
 
 **KRÁLOVNA**:
 
-To dal jí Hamlet?
+_To dal jí Hamlet?_
 
 **POLONIUS**:
 
-                                Račte poshovět,  
-má vzácná paní; všechno vypovím.
+                                _Račte poshovět,  
+má vzácná paní; všechno vypovím._
 
 _(Čte.)_
 
-_„Pochybuj, že hvězdy svítí,  
+__„Pochybuj, že hvězdy svítí,  
 že jde slunce oblohou,  
 pochybuj o pravdy bytí,  
-jenom uvěř v lásku mou._
+jenom uvěř v lásku mou.__
 
 Ó, drahá Ofelie, nevyznám se v počítání těch veršových stop; ba ani neumím spočítati své vzdechy; ale že Tě miluji nejvroucněji, ó nade vše nejvroucněji, věř. S bohem!
 
-_Tvůj navždy, má nejdražší děvo,  
-dokud ten těla stroj náleží jemu,_
+__Tvůj navždy, má nejdražší děvo,  
+dokud ten těla stroj náleží jemu,__
 
 Hamlet.“
 
-To z poslušnosti dcera má mi dala  
+_To z poslušnosti dcera má mi dala  
 a kromě toho, jak se dvořil jí,  
 tož kdy a kde a jakým způsobem,  
-vše pověděla mi.
+vše pověděla mi._
 
 **KRÁL**:
 
-                                  A vaše dcera  
-jak brala jeho lásku?
+                                  _A vaše dcera  
+jak brala jeho lásku?_
 
 **POLONIUS**:
 
-                                        Zač mne máte?
+                                        _Zač mne máte?_
 
 **KRÁL**:
 
-Za věrného a počestného muže.
+_Za věrného a počestného muže._
 
 **POLONIUS**:
 
-To opravdu bych rád vám dokázal.  
+_To opravdu bych rád vám dokázal.  
 Co byste soudil, když jsem uviděl  
 tu vroucí lásku dávati se v let,  
 — a musím říci, já ji postřehl  
@@ -559,69 +559,69 @@ pad’ v truchlivost a potom v postění,
 pak ve bdění a potom ve slabost,  
 pak v roztržitost a tím spádem dál  
 až do šílenství, v kterém třeští teď  
-a kterým všechny zarmucuje nás.
+a kterým všechny zarmucuje nás._
 
 **KRÁL**:
 
-To zdá se vám?
+_To zdá se vám?_
 
 **KRÁLOVNA**:
 
-                              To velmi možné jest.
+                              _To velmi možné jest._
 
 **POLONIUS**:
 
-Kdy stalo se, — a to bych věděl rád, —  
+_Kdy stalo se, — a to bych věděl rád, —  
 že byl bych řekl určitě: „Tak jest“  
-a bylo jinak?
+a bylo jinak?_
 
 **KRÁL**:
 
-                         Pokud já vím, ne.
+                         _Pokud já vím, ne._
 
 **POLONIUS** _(ukazuje na hlavu a na plece)_:
 
-To z toho srazte, jestli tomu jinak.  
+_To z toho srazte, jestli tomu jinak.  
 Když povede mne stopa, naleznu,  
 kde pravda skryta, byť se skrývala  
-i v středu země.
+i v středu země._
 
 **KRÁL**:
 
-                              Jak to zkoumat dál?
+                              _Jak to zkoumat dál?_
 
 **POLONIUS**:
 
-Vám známo jest, že někdy prochází  
-se celé hodiny zde pod loubím.
+_Vám známo jest, že někdy prochází  
+se celé hodiny zde pod loubím._
 
 **KRÁLOVNA**:
 
-Tak vskutku činívá.
+_Tak vskutku činívá._
 
 **POLONIUS**:
 
-V tu dobu pustím k němu svoji dceru.  
+_V tu dobu pustím k němu svoji dceru.  
 Vy se mnou za čaloun se skryjete;  
 pak pozor na to jejich setkání!  
 Když nemiluje ji a o rozum  
 tou láskou nepřišel, ať nadále  
 již státu nesloužím, leč raději  
-chci sedlačit a s koňmi pojíždět.
+chci sedlačit a s koňmi pojíždět._
 
 **KRÁL**:
 
-Tak zkusíme to.
+_Tak zkusíme to._
 
 **KRÁLOVNA**:
 
-                               Hle, jak ubohý  
-sem přichází, tak smuten, něco čta.
+                               _Hle, jak ubohý  
+sem přichází, tak smuten, něco čta._
 
 **POLONIUS**:
 
-Pryč odtud, prosím vás, již oba pryč;  
-já hned naň udeřím.
+_Pryč odtud, prosím vás, již oba pryč;  
+já hned naň udeřím._
 
 _Odejdou KRÁL, KRÁLOVNA a dvořané._
 
@@ -631,7 +631,7 @@ _Vystoupí HAMLET čtoucí._
 
 **HAMLET**:
 
-Dobře, Bohu díky.
+_Dobře, Bohu díky._
 
 **POLONIUS**:
 
@@ -1025,12 +1025,12 @@ Jaký poklad měl, můj princi?
 
 Inu,
 
-„Krásnou dceru a nic dál;  
-nadmíru ji miloval.“
+_„Krásnou dceru a nic dál;  
+nadmíru ji miloval.“_
 
 **POLONIUS** _(stranou)_:
 
-Pořád o mé dceři.
+_Pořád o mé dceři._
 
 **HAMLET**:
 
@@ -1052,11 +1052,11 @@ Co tedy z toho následuje, můj princi?
 
 Inu,
 
-„Osud pad’, jak Bůh klad’;“
+_„Osud pad’, jak Bůh klad’;“_
 
 a potom, jak víte,
 
-„to se dělo, co býti mělo“ —
+_„to se dělo, co býti mělo“ —_
 
 První verš té nábožné písničky řekne vám více, neboť hle, zde přichází ukrácení mé řeči.
 
@@ -1066,17 +1066,17 @@ Jste vítáni, pánové, všichni vítáni. Jsem rád, že tě zase vidím. Vít
 
 **PRVNÍ HEREC**:
 
-Jakou asi, můj vzácný pane?
+_Jakou asi, můj vzácný pane?_
 
 **HAMLET**:
 
 Slyšel jsem tě jednou něco přednášet, ale nikdy se to nehrálo, a hrálo-li se, tedy ne více než jedenkrát; neboť ten kus, jak se pamatuji, nelíbil se davu; byl to kaviár pro obecenstvo, ačkoli, — jak já to chápal a jiní, jichž úsudek v takových věcech stál výše než můj, — byla to výborná hra, dobře urovnaná v scénách a složená s velkým taktem a uměním. Pamatuji se na někoho, jenž řekl, že není žádné přísady v těch řádkách, která by je překořenila, aniž věci ve výrazu, která by u spisovatele prozrazovala strojenost; ale nazval to poctivou prací, tak zdravou jako příjemnou a mnohem více krásnou než okrasnou. Jedna řeč se mi především líbila; bylo to Aeneovo vypravování Didoně, a obzvláště někde tam, kde mluví o zavraždění Priama. Máte-li to v paměti, začněte oním veršem; — počkejte, — počkejte:
 
-„Surový Pyrrhus jak hyrkánský lev, —“
+_„Surový Pyrrhus jak hyrkánský lev, —“_
 
 Ne, — tak to není; ale Pyrrhem to začíná:
 
-„Surový Pyrrhus, jehož temná zbroj,  
+_„Surový Pyrrhus, jehož temná zbroj,  
 tak černá jako jeho úmysl,  
 se podobala noci té, kdy ležel  
 skryt v koni osudném, teď strašlivou  
@@ -1091,7 +1091,7 @@ Tak, spražen vzteklostí a úžehem
 a všecek pokryt krví svařenou  
 se zrakem karbunkulům podobným,  
 pekelný Pyrrhus vyhledává teď  
-si stařičkého děda Priama —“
+si stařičkého děda Priama —“_
 
 Tak, pokračuj.
 
@@ -1101,7 +1101,7 @@ Při sám Bůh, můj princi, zdatně předneseno, s dobrým přízvukem a s n
 
 **PRVNÍ HEREC**:
 
-„Hned nalézá ho, kterak naprázdno  
+_„Hned nalézá ho, kterak naprázdno  
 do Řeků seče; starodávný meč,  
 odbojný paži, ulehá, kam pad’,  
 odporný vůli. V boji nerovném  
@@ -1134,7 +1134,7 @@ a bozi vy, v své radě společné
 jí odejměte moc a rozlomte  
 jí loukotě a špici v kolese  
 a svalte hlavu kola okrouhlou  
-z nebeských srázů k roklím pekelným!“
+z nebeských srázů k roklím pekelným!“_
 
 **POLONIUS**:
 
@@ -1146,7 +1146,7 @@ Dá se to k bradýři, s vašimi vousy. — Prosím tě, dále. Pro něho je 
 
 **PRVNÍ HEREC**:
 
-„Kdo zřel však zachumlenou královnu.“
+_„Kdo zřel však zachumlenou královnu.“_
 
 **HAMLET**:
 
@@ -1158,7 +1158,7 @@ To je dobré; „zachumlená královna“ je dobré!
 
 **PRVNÍ HEREC**:
 
-„— jak bosa těká, hrozíc plamenům  
+_„— jak bosa těká, hrozíc plamenům  
 svých slzí deštěm, na té hlavě cár,  
 kde před nedávnem stkvěl se diadém,  
 a za roucho kol beder vyhublých  
@@ -1173,7 +1173,7 @@ jenž sekal mečem údy manžela,
 ten náhlý výkřik její žalosti,  
 — věc smrtelná-li vůbec božstvem hne, —  
 by býval zrosil nebes žhoucí zrak  
-a bohy útrpností jal.“
+a bohy útrpností jal.“_
 
 **POLONIUS**:
 
@@ -1213,7 +1213,7 @@ To chceme zítra večer mít. A bude-li potřeba, mohl byste se naučiti řeči
 
 **PRVNÍ HEREC**:
 
-Ano, Výsosti.
+_Ano, Výsosti._
 
 **HAMLET**:
 
@@ -1233,7 +1233,7 @@ Nuž, tedy tak; Bůh s vámi!
 
 _Odejdou ROSENKRANTZ a GUILDENSTERN._
 
-                                                  Teď jsem sám.  
+                                                  _Teď jsem sám.  
 Ó, jaký otrok jsem a podlý chlap!  
 Zdaž není hrozné, že ten herec zde  
 jen v básni, vášni pouze vysněné,  
@@ -1296,6 +1296,6 @@ a v těžké mysli, — neboť přemocný
 u takých duší jest, — jen se mnou hrá,  
 by zahubil mne. Já chci jistější  
 mít důkazy než to. — Ta hra je sítí,  
-kde toho krále svědomí se chytí.
+kde toho krále svědomí se chytí._
 
 _Odejde._
