@@ -1,37 +1,17 @@
 {
   "author": "William Shakespeare",
   "contenttype": "prose",
-  "identifier": "shakespeare-hamlet-dbc0923",
+  "identifier": "shakespeare-hamlet-d610bb5",
   "languagecode": "cs",
   "modified": "2021-03-03T00:00:00.000Z",
   "publishershort": "mkp",
   "title": "Hamlet",
-  "revision": "dbc0923",
+  "revision": "d610bb5",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 11:39:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649417953668
+    "date": "Tue Apr 12 2022 08:16:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649751399962
   },
   "documents": [
-    {
-      "title": "Hamlet",
-      "file": "hamlet_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "hamlet_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Hamlet",
       "file": "hamlet_002.html",
@@ -39,48 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "hamlet_001.html",
-      "next": "hamlet_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hamlet",
-      "file": "hamlet_003.html",
-      "words": 7,
-      "chars": 53,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "hamlet_002.html",
-      "next": "hamlet_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hamlet",
-      "file": "hamlet_004.html",
-      "words": 79,
-      "chars": 534,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "hamlet_003.html",
+      "order": 0,
+      "prev": null,
       "next": "hamlet_005.html",
       "toc": [
         {
@@ -99,8 +39,8 @@
       "chars": 527,
       "ideas": 20,
       "role": "chapter",
-      "order": 4,
-      "prev": "hamlet_004.html",
+      "order": 1,
+      "prev": "hamlet_002.html",
       "next": "hamlet_006.html",
       "toc": [
         {
@@ -115,11 +55,11 @@
     {
       "title": "JEDNÁNÍ PRVNÍ • Hamlet",
       "file": "hamlet_006.html",
-      "words": 6214,
-      "chars": 33936,
+      "words": 6252,
+      "chars": 33974,
       "ideas": 1341,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "hamlet_005.html",
       "next": "hamlet_007.html",
       "toc": [
@@ -171,11 +111,11 @@
     {
       "title": "JEDNÁNÍ DRUHÉ • Hamlet",
       "file": "hamlet_007.html",
-      "words": 5196,
-      "chars": 29561,
+      "words": 5206,
+      "chars": 29571,
       "ideas": 841,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "hamlet_006.html",
       "next": "hamlet_008.html",
       "toc": [
@@ -206,11 +146,11 @@
     {
       "title": "JEDNÁNÍ TŘETÍ • Hamlet",
       "file": "hamlet_008.html",
-      "words": 6651,
-      "chars": 37444,
+      "words": 6661,
+      "chars": 37454,
       "ideas": 1167,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "hamlet_007.html",
       "next": "hamlet_009.html",
       "toc": [
@@ -255,11 +195,11 @@
     {
       "title": "JEDNÁNÍ ČTVRTÉ • Hamlet",
       "file": "hamlet_009.html",
-      "words": 4876,
-      "chars": 26695,
+      "words": 4896,
+      "chars": 26715,
       "ideas": 970,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "hamlet_008.html",
       "next": "hamlet_010.html",
       "toc": [
@@ -325,13 +265,13 @@
     {
       "title": "JEDNÁNÍ PÁTÉ • Hamlet",
       "file": "hamlet_010.html",
-      "words": 5208,
-      "chars": 29127,
+      "words": 5230,
+      "chars": 29149,
       "ideas": 895,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "hamlet_009.html",
-      "next": "hamlet_011.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -358,20 +298,20 @@
       ]
     },
     {
-      "title": "Hamlet",
-      "file": "hamlet_011.html",
-      "words": 49,
-      "chars": 340,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 10,
+      "title": "Tiráž • Hamlet",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 932,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "hamlet_010.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -380,14 +320,14 @@
   ],
   "totals": {
     "all": {
-      "words": 28354,
-      "chars": 158250,
+      "words": 28454,
+      "chars": 158350,
       "ideas": 5261
     },
     "chapters": {
-      "words": 28349,
-      "chars": 158217,
-      "ideas": 5257
+      "words": 28314,
+      "chars": 157390,
+      "ideas": 5234
     }
   }
 }

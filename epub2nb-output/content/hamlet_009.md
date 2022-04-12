@@ -11,36 +11,36 @@ _Vystoupí KRÁL, KRÁLOVNA, ROSENKRANTZ a GUILDENSTERN._
 
 **KRÁL**:
 
-Jest obsah v hlubokém tom vzdychání  
+_Jest obsah v hlubokém tom vzdychání  
 a v těchto stonech; vysvětlete je;  
 je radno, abychom jim rozuměli.  
-Kde jest váš syn?
+Kde jest váš syn?_
 
 **KRÁLOVNA**:
 
-Své místo na chvilku jen opusťte!
+_Své místo na chvilku jen opusťte!_
 
 _Odejdou ROSENKRANTZ a GUILDENSTERN._
 
-Ó choti můj, co zřela jsem v tu noc!
+_Ó choti můj, co zřela jsem v tu noc!_
 
 **KRÁL**:
 
-Co, Gertrudo? Jak Hamletovi jest?
+_Co, Gertrudo? Jak Hamletovi jest?_
 
 **KRÁLOVNA**:
 
-Tak zuří jako moře s vichřicí,  
+_Tak zuří jako moře s vichřicí,  
 když spolu zápasí, kdo mocnější.  
 V svém divém záchvatu cos uslyšev  
 se hnouti za čalounem, vytrh’ meč  
 a vzkřiknuv: „Myš, to myš!“ v té mozkové  
 své chorobnosti skryta, neviděna  
-tam zabil toho starce dobrého.
+tam zabil toho starce dobrého._
 
 **KRÁL**:
 
-Ó, těžký čin! Na oněch místech být,  
+_Ó, těžký čin! Na oněch místech být,  
 tak bylo by se přihodilo nám.  
 Jest jeho volnost plna hrozeb všem,  
 vám samé, nám a vůkol každému.  
@@ -54,39 +54,39 @@ ni rozumět, co radno nejvíce;
 leč jako ten, kdo zlou má chorobu,  
 by v známost nevešla, ji nechali jsme  
 užírat samý kořen života.  
-Kam odešel?
+Kam odešel?_
 
 **KRÁLOVNA**:
 
-                        Kams tělo odvléká,  
+                        _Kams tělo odvléká,  
 jež zabil; nad ním jeho šílenost  
 jak vzácný kov, jenž v směsi sprostých rud  
 se odráží, teď čistá jeví se;  
-neb oplakává to, co učinil.
+neb oplakává to, co učinil._
 
 **KRÁL**:
 
-Ó, Gertrudo, již pojďme! — Nedotkne  
+_Ó, Gertrudo, již pojďme! — Nedotkne  
 se ještě slunce horských vrcholů  
 a na lodi jej odpravíme v dál.  
 Za tento mrzký skutek postavit  
 se musí veškerý náš majestát  
 i obratnost, by omluvily jej.  
-Hoj, Guildensterne!
+Hoj, Guildensterne!_
 
 _Vrátí se ROSENKRANTZ a GUILDENSTERN._
 
-                                       Jděte, přátelé,  
+                                       _Jděte, přátelé,  
 a vezměte někoho na pomoc:  
 princ Hamlet zabil ve svém šílenství  
 Polonia a z komnat matčiných  
 jej odvlek’; jděte, vyhledejte jej.  
 Řeč vaše vlídná buď; a dopravte  
-to tělo do kaple. — Již spěšte, prosím.
+to tělo do kaple. — Již spěšte, prosím._
 
 _Odejdou ROSENKRANTZ a GUILDENSTERN._
 
-Pojď, Gertrudo, své nejmoudřejší teď  
+_Pojď, Gertrudo, své nejmoudřejší teď  
 si vyzvem přátele a řeknem jim,  
 co učiniti máme v úmyslu  
 a co se přihodilo ne včasně.  
@@ -96,7 +96,7 @@ a jako dělo namířené v cíl
 svou otrávenou střelu ponese,  
 snad mine naše jméno, stihnouc jen  
 vzduch nezranitelný. Teď pojďme, k činu!  
-Mám duši plnou rozladu a stínu.
+Mám duši plnou rozladu a stínu._
 
 _Odejdou._
 
@@ -108,11 +108,11 @@ _Vystoupí HAMLET._
 
 **HAMLET**:
 
-Bezpečně uložen.
+_Bezpečně uložen._
 
 **GUILDENSTERN** a **ROSENKRANTZ** _(za scénou)_:
 
-Hamlete! Princi Hamlete!
+_Hamlete! Princi Hamlete!_
 
 **HAMLET**:
 
@@ -184,7 +184,7 @@ _Vystoupí KRÁL provázen._
 
 **KRÁL**:
 
-Já poslal hledat jej i mrtvolu.  
+_Já poslal hledat jej i mrtvolu.  
 Jak nebezpečno jest, že člověk ten  
 tak volný obchází! Však nesmíme  
 naň dokročiti přísným zákonem:  
@@ -196,32 +196,32 @@ vše hladce, urovnaně, musí se
 to jeho náhlé vypravení zdát  
 věc rozvážená. Neduh zoufalý  
 jen lékem zoufalým se vyléčí,  
-neb vůbec ne.
+neb vůbec ne._
 
 _Vystoupí ROSENKRANTZ._
 
-                          Nuž, jak? Co stalo se?
+                          _Nuž, jak? Co stalo se?_
 
 **ROSENKRANTZ**:
 
-Kde složil mrtvé tělo, králi můj,  
-nám z něho nelze dostat.
+_Kde složil mrtvé tělo, králi můj,  
+nám z něho nelze dostat._
 
 **KRÁL**:
 
-                                                   Kde jest on?
+                                                   _Kde jest on?_
 
 **ROSENKRANTZ**:
 
-Zde venku, pane, k vaší libosti.
+_Zde venku, pane, k vaší libosti._
 
 **KRÁL**:
 
-Sem k nám ho přiveďte.
+_Sem k nám ho přiveďte._
 
 **ROSENKRANTZ**:
 
-Hoj, Guildensterne, přiveď prince sem!
+_Hoj, Guildensterne, přiveď prince sem!_
 
 _Vystoupí HAMLET a GUILDENSTERN._
 
@@ -277,31 +277,31 @@ _Někteří odejdou._
 
 **KRÁL**:
 
-K tvé vlastní bezpečnosti, Hamlete,  
+_K tvé vlastní bezpečnosti, Hamlete,  
 jež jest nám drahá tak, jak přetěžce  
 nám žel jest toho, co jsi učinil,  
 ten čin tě musí odsud vzdáliti  
 s rychlostí ohně. Tedy připrav se;  
 loď pohotově, vítr příznivý,  
 tvůj průvod čeká, vše je schystáno  
-na cestu do Anglie.
+na cestu do Anglie._
 
 **HAMLET**:
 
-                                    Do Anglie?
+                                    _Do Anglie?_
 
 **KRÁL**:
 
-Tak, Hamlete!
+_Tak, Hamlete!_
 
 **HAMLET**:
 
-                            Je dobře.
+                            _Je dobře._
 
 **KRÁL**:
 
-                                               Ano, jest,  
-jen kdybys dobře znal náš úmysl.
+                                               _Ano, jest,  
+jen kdybys dobře znal náš úmysl._
 
 **HAMLET**:
 
@@ -319,15 +319,15 @@ __Odejde.__
 
 **KRÁL**:
 
-Jen v patách za ním; vylákejte jej  
+_Jen v patách za ním; vylákejte jej  
 co možno nejrychleji na koráb.  
 Nic neleňte, dnes večer musí pryč;  
 vše zpečetěno jest a spraveno,  
-co k věci patří, prosím, chvátejte.
+co k věci patří, prosím, chvátejte._
 
 _Odejdou ROSENKRANTZ a GUILDENSTERN._
 
-Mé přízně vážíš-li si, Anglie,  
+_Mé přízně vážíš-li si, Anglie,  
 — jak naučila tě má velká moc  
 si vážit jí, neb čerstvá dosavad  
 a rudá jizva jest po dánském meči  
@@ -339,7 +339,7 @@ by Hamlet rázem tam byl usmrcen.
 To učiň, Anglie; neb horečkou  
 mi v krvi řádí on a vyléčit  
 mne musíš ty. Ať cokoli se děje,  
-dřív radosti mé srdce nedospěje.
+dřív radosti mé srdce nedospěje._
 
 __Odejde.__
 
@@ -351,7 +351,7 @@ _Vystoupí FORTINBRAS, SETNÍK a vojsko na pochodu._
 
 **FORTINBRAS**:
 
-Nuž, jděte, setníku, a doneste  
+_Nuž, jděte, setníku, a doneste  
 můj pozdrav králi Dánů. Rcete mu,  
 že Fortinbras, po jeho svolení,  
 jej žádá o průvod na slíbeném  
@@ -359,15 +359,15 @@ tom pochodu přes jeho království.
 Kde sejdem se, vám známo. Libo-li  
 jest jeho Milosti cos od nás chtít,  
 před jeho tvář se slušně dostavíme;  
-a to mu vyřiďte.
+a to mu vyřiďte._
 
 **SETNÍK**:
 
-                               Tak, pane můj.
+                               _Tak, pane můj._
 
 **FORTINBRAS**:
 
-Vpřed, pozvolna!
+_Vpřed, pozvolna!_
 
 _Odejde FORTINBRAS s vojskem._
 
@@ -375,78 +375,78 @@ _Vystoupí HAMLET, ROSENKRANTZ, GUILDENSTERN a j._
 
 **HAMLET**:
 
-Můj dobrý pane, čí ta vojska jsou?
+_Můj dobrý pane, čí ta vojska jsou?_
 
 **SETNÍK**:
 
-Jsou z Norska, pane.
+_Jsou z Norska, pane._
 
 **HAMLET**:
 
-Kam na pochodu, pane, prosím vás?
+_Kam na pochodu, pane, prosím vás?_
 
 **SETNÍK**:
 
-Kams do Polska.
+_Kams do Polska._
 
 **HAMLET**:
 
-Kdo velí jim?
+_Kdo velí jim?_
 
 **SETNÍK**:
 
-Synovec krále Norů, Fortinbras.
+_Synovec krále Norů, Fortinbras._
 
 **HAMLET**:
 
-A jde to až do Polska samého,  
-či pouze k hranicím?
+_A jde to až do Polska samého,  
+či pouze k hranicím?_
 
 **SETNÍK**:
 
-Bych pravdu řek’ a bez všech přídavků,  
+_Bych pravdu řek’ a bez všech přídavků,  
 jdem vydobýti malou země píď,  
 jež v sobě nemá víc než jméno zisku.  
 Pět dukátů bych za ni nepodal  
 a nevynese důchod tučnější  
 ni králi norskému ni Poláku,  
-i kdyby chtěl ji komu lénem dát.
+i kdyby chtěl ji komu lénem dát._
 
 **HAMLET**:
 
-Tož tedy Polák nebude jí hájit?
+_Tož tedy Polák nebude jí hájit?_
 
 **SETNÍK**:
 
-Ba ano, neboť obsazena již.
+_Ba ano, neboť obsazena již._
 
 **HAMLET**:
 
-Dvé tisíc životů a dukátů  
+_Dvé tisíc životů a dukátů  
 na dvacet tisíc nerozhodne spor  
 toto stéblo slámy. Bohatství  
 a přílišného pokoje to vřed,  
 jenž dovnitř puká, a na zevnějšek  
 nic nejeví, proč člověk umírá.  
-Mé díky, pane!
+Mé díky, pane!_
 
 **SETNÍK**:
 
-                             Bůh vás provázej.
+                             _Bůh vás provázej._
 
 __Odejde.__
 
 **ROSENKRANTZ**:
 
-Můj princi, není-li vám libo jít?
+_Můj princi, není-li vám libo jít?_
 
 **HAMLET**:
 
-Hned budu za vámi. Jen jděte napřed.
+_Hned budu za vámi. Jen jděte napřed._
 
 _Odejdou všichni kromě HAMLETA._
 
-Jak všechno kolem obviňuje mne  
+_Jak všechno kolem obviňuje mne  
 a rozněcuje línou pomstu mou!  
 Co člověk jest, když hlavní jeho dobro  
 a žití jeho zisk jen spaní jest  
@@ -490,7 +490,7 @@ se ani srazit v šik ty zástupy
 a která na hrob není velká dost  
 a obsáhlá, by jala zabité!  
 Ó, nadál ať jsou krví zbroceny  
-mé myšlenky, neb ve všem bezcenny.
+mé myšlenky, neb ve všem bezcenny._
 
 __Odejde.__
 
@@ -502,20 +502,20 @@ _Vystoupí KRÁLOVNA, HORATIO a ŠLECHTIC._
 
 **KRÁLOVNA**:
 
-Já nechci mluvit s ní.
+_Já nechci mluvit s ní._
 
 **ŠLECHTIC**:
 
-Jest neodbytná, ano zoufalá;  
-stav její mysli vskutku budí žal.
+_Jest neodbytná, ano zoufalá;  
+stav její mysli vskutku budí žal._
 
 **KRÁLOVNA**:
 
-Co žádá?
+_Co žádá?_
 
 **ŠLECHTIC**:
 
-                 Mnoho mluví o otci,  
+                 _Mnoho mluví o otci,  
 dí, že, jak slyší, svět je šalebný,  
 a těžce vzdychá, do prsou se bije,  
 stebélko slámy zlostně podupe  
@@ -530,84 +530,84 @@ A jak to její hlavou kývání
 a mžikání a její posunky  
 znát dávají, by člověk soudit moh’,  
 že dá se myslit, ač nic jistého,  
-přec neblahého dost.
+přec neblahého dost._
 
 **HORATIO**:
 
-                                         Jest žádoucno  
+                                         _Jest žádoucno  
 s ní promluvit, neb mohla v mysli zlé  
-by vtrousit nebezpečné domněnky.
+by vtrousit nebezpečné domněnky._
 
 **KRÁLOVNA**:
 
-Ať vejde.
+_Ať vejde._
 
 _Odejde ŠLECHTIC._
 
-_(Stranou.)_ Mé choré duši, jak už chce to hřích,  
+__(Stranou.)_ Mé choré duši, jak už chce to hřích,  
 jest každá cetka věštbou příhod zlých.  
 Tak neobratná vina jest v svém klamu,  
-že krýt se chtějíc, zradí sebe samu.
+že krýt se chtějíc, zradí sebe samu._
 
 _Vrátí se ŠLECHTIC s OFELIÍ._
 
 **OFELIE**:
 
-Kde jest ta krásná Majestátnost Dánska?
+_Kde jest ta krásná Majestátnost Dánska?_
 
 **KRÁLOVNA**:
 
-Jak jest, Ofelie?
+_Jak jest, Ofelie?_
 
 **OFELIE** _(zpívá)_:
 
-Jak věrného jen miláčka  
+_Jak věrného jen miláčka  
 mám poznat z jiných všech? —  
 Po lasturovém klobouku  
-a holi, sandálech.
+a holi, sandálech._
 
 **KRÁLOVNA**:
 
-Ach, milá slečno, co ta píseň značí?
+_Ach, milá slečno, co ta píseň značí?_
 
 **OFELIE**:
 
-Co říkáte? — Ne, prosím, poslyšte:
+_Co říkáte? — Ne, prosím, poslyšte:_
 
-_(Zpívá.)_  
+__(Zpívá.)_  
 Jest mrtev, pryč jest, paní má,  
 jest mrtev, pryč, můj hoch;  
 má u hlav trávník zelený  
-a kámen u svých noh.
+a kámen u svých noh._
 
-Ó! — O!
+_Ó! — O!_
 
 **KRÁLOVNA**:
 
-Co to? — Ofelie — —
+_Co to? — Ofelie — —_
 
 **OFELIE**:
 
-                                           Jen slyšte, prosím:
+                                           _Jen slyšte, prosím:_
 
-_(Zpívá.)_  
-Měl rubáš bílý jak horský sníh —
+__(Zpívá.)_  
+Měl rubáš bílý jak horský sníh —_
 
 _Vystoupí KRÁL._
 
 **KRÁLOVNA**:
 
-Ach, vizte, choti můj!
+_Ach, vizte, choti můj!_
 
 **OFELIE** _(zpívá)_:
 
-jen květy místo zdob  
+_jen květy místo zdob  
 a liják věrných slzí v nich,  
-jak dávali je v hrob.
+jak dávali je v hrob._
 
 **KRÁL**:
 
-Jak jest, má krásná dívko?
+_Jak jest, má krásná dívko?_
 
 **OFELIE**:
 
@@ -621,39 +621,39 @@ Vzpomíná svého otce.
 
 Prosím vás, ani slova o tom; a budou-li se vás ptáti, co to znamená, řekněte jim tak:
 
-_(Zpívá.)_  
+__(Zpívá.)_  
 Je zítra svatý Valentin,  
    je dřív než ranní svit;  
 já, dívka pod tvým okénkem,  
-   tvůj Valentin chci být.
+   tvůj Valentin chci být._
 
-On vstal a šaty oblékl  
+_On vstal a šaty oblékl  
    a dveře odemk’ hned;  
 šla panna v chýš a pannou již  
-   se nevrátila zpět.
+   se nevrátila zpět._
 
 **KRÁL**:
 
-Krásná Ofelie!
+_Krásná Ofelie!_
 
 **OFELIE**:
 
-La, la! — Bez přísah, skončím:
+_La, la! — Bez přísah, skončím:_
 
-_(Zpívá.)_  
+__(Zpívá.)_  
 Při svatých všech a světicích,  
    ó žel a hanba dost!  
 Nás vezme hoch, kdy a kde moh’ —  
-   ó to je pěkná ctnost.
+   ó to je pěkná ctnost._
 
-Dí ona: „Než’s mne ošidil,  
+_Dí ona: „Než’s mne ošidil,  
    ty slíbils mne si vzít.“  
 Ba docela, jen’s neměla  
-   mi do komůrky jít.
+   mi do komůrky jít._
 
 **KRÁL**:
 
-Jak dlouho jest už tak?
+_Jak dlouho jest už tak?_
 
 **OFELIE**:
 
@@ -663,11 +663,11 @@ _Odejde_.__
 
 **KRÁL**:
 
-Hned spěšte za ní; dobře střežte ji.
+_Hned spěšte za ní; dobře střežte ji._
 
 _Odejde HORATIO._
 
-Ó, to jest hlubokého žalu jed  
+_Ó, to jest hlubokého žalu jed  
 a ze smrti vznik’ otce jejího.  
 Ó Gertrudo, když strasti přicházejí,  
 tu nejdou, osamělí špehové,  
@@ -692,27 +692,27 @@ chud na látku, nic váhat nebude
 nás obviňovat z ucha do ucha.  
 Ó drahá moje Gertrudo, to vše  
 jak dělo vražedné na mnohých místech  
-mi dává přebytečnou smrt.
+mi dává přebytečnou smrt._
 
 _Hluk za scénou._
 
 **KRÁLOVNA**:
 
-                                                     Co značí  
-ta vřava?
+                                                     _Co značí  
+ta vřava?_
 
 **KRÁL**:
 
-                  Kde jsou moji Švýcaři?  
-Ať dveře obsadí!
+                  _Kde jsou moji Švýcaři?  
+Ať dveře obsadí!_
 
 _Vystoupí jiný ŠLECHTIC._
 
-                                 Co děje se?
+                                 _Co děje se?_
 
 **ŠLECHTIC**:
 
-Můj králi, zachraňte se! — Moře tak  
+_Můj králi, zachraňte se! — Moře tak  
 se nevypíná ze své oblasti  
 a ploché břehy bouřněj’ nehltá,  
 jak mladý Laert, jsa v čele zbouření,  
@@ -724,151 +724,151 @@ se zapomněla, zvyk již neznán byl,
 jen křičí: „Volme! Laert ať králem jest!“  
 a čepice a ruce, jazyky  
 to hlaholí a nesou k oblakům:  
-„Laert ať jest králem! Laert ať králem jest!“
+„Laert ať jest králem! Laert ať králem jest!“_
 
 **KRÁLOVNA**:
 
-Jak vesele na stopě nepravé  
+_Jak vesele na stopě nepravé  
 si vydávají! Opačný to sled,  
-vy bídní dánští psi!
+vy bídní dánští psi!_
 
 **KRÁL**:
 
-Již dveře rozbili.
+_Již dveře rozbili._
 
 _Vystoupí LAERT ozbrojen; DÁNOVÉ za ním._
 
 **LAERT**:
 
-                                Kde jest ten král?  
-Vy muži, všichni venku zůstaňte.
+                                _Kde jest ten král?  
+Vy muži, všichni venku zůstaňte._
 
 **DÁNOVÉ**:
 
-Ne, vpusť i nás!
+_Ne, vpusť i nás!_
 
 **LAERT**:
 
-                               Já prosím, dovolte.
+                               _Já prosím, dovolte._
 
 **DÁNOVÉ**:
 
-Tož ano, ano.
+_Tož ano, ano._
 
 _DÁNOVÉ vyjdou ze dveří._
 
 **LAERT**:
 
-Dík! Dveře chraňte! — Bídný králi,  
-vrať mi mého otce!
+_Dík! Dveře chraňte! — Bídný králi,  
+vrať mi mého otce!_
 
 **KRÁLOVNA**:
 
-                                     Klidně, dobrý Laerte.
+                                     _Klidně, dobrý Laerte._
 
 **LAERT**:
 
-Ta krůpěj krve, která klidná jest,  
+_Ta krůpěj krve, která klidná jest,  
 mne zove pankartem a na otce  
 mi křičí, že byl ženou podváděn;  
 ba mezi čisté, cudné obrví  
-mé matky vpaluje znak nevěstky.
+mé matky vpaluje znak nevěstky._
 
 **KRÁL**:
 
-Co, Laerte, jest, že vzpoura tvá má vzhled  
+_Co, Laerte, jest, že vzpoura tvá má vzhled  
 tak obrovitý? Nech jej, Gertrudo,  
 nic neboj se o naši osobu:  
 jeť taká božskost králi záštitou,  
 že zrada, v to, co chce, jen nahlédnouc,  
 již málo po své vůli činí dál.  
 Nuž, Laerte, pověz, pročs tak popuzen?  
-Jen nech jej, Gertrudo. Ty, muži, mluv.
+Jen nech jej, Gertrudo. Ty, muži, mluv._
 
 **LAERT**:
 
-Kde jest můj otec?
+_Kde jest můj otec?_
 
 **KRÁL**:
 
-                                    Mrtev.
+                                    _Mrtev._
 
 **KRÁLOVNA**:
 
-                                                   Ne však jím.
+                                                   _Ne však jím._
 
 **KRÁL**:
 
-Ať dosyta se táže.
+_Ať dosyta se táže._
 
 **LAERT**:
 
-Jak zemřel? Nedám s sebou kejkle hrát!  
+_Jak zemřel? Nedám s sebou kejkle hrát!  
 Vem peklo věrnost, nejčernější ďábel  
 vše přísahy; a milost, svědomí  
 se zřiťte do nejhlubší propasti!  
 Já čelím zatracení, tady jsem,  
 všanc dávaje i ten i onen svět,  
 ať přijde cokoli; jen plnou měrou  
-chci pomstít otce.
+chci pomstít otce._
 
 **KRÁL**:
 
-                                  Kdo vám zbraňuje?
+                                  _Kdo vám zbraňuje?_
 
 **LAERT**:
 
-Má vůle jen to může, nikdo víc  
+_Má vůle jen to může, nikdo víc  
 na širém světě. A svých prostředků  
 tak dobře užiju, že daleko  
-se s málem dostanou.
+se s málem dostanou._
 
 **KRÁL**:
 
-                                          Nuž, dobrý Laerte,  
+                                          _Nuž, dobrý Laerte,  
 když chcete dopídit se jistoty  
 o smrti svého otce drahého,  
 tož rcete, v pomstě vaší psáno-li  
 brát sázku šmahem, schvátit přítele  
 i nepřítele, ty, kdož vyhráli,  
-i ty, kdož tratí?
+i ty, kdož tratí?_
 
 **LAERT**:
 
-                             Pouze jeho vrahy.
+                             _Pouze jeho vrahy._
 
 **KRÁL**:
 
-A vy je tedy chcete poznati?
+_A vy je tedy chcete poznati?_
 
 **LAERT**:
 
-Hle, takto jeho pravým přátelům  
+_Hle, takto jeho pravým přátelům  
 až dokořán svou náruč otvírám  
 a jako pelikán, jenž v lásce své  
 se vzdává života, je napojit  
-chci vlastní krví.
+chci vlastní krví._
 
 **KRÁL**:
 
-                                Aj, teď mluvíte  
+                                _Aj, teď mluvíte  
 jak dobrý syn a jako pravý šlechtic.  
 Že já jsem smrtí otce nevinen  
 a z hlubokosti duše želím jí,  
 tak přímo pronikne vám na rozum,  
-jak den do vašich očí.
+jak den do vašich očí._
 
 **DÁNOVÉ** _(venku)_:
 
-                                         Vpusťte ji!
+                                         _Vpusťte ji!_
 
 **LAERT**:
 
-Ha! — Co to hlučí? —
+_Ha! — Co to hlučí? —_
 
 _Vystoupí OFELIE._
 
-Ó žáre bolu, sžehni mozek můj!  
+_Ó žáre bolu, sžehni mozek můj!  
 Vy, slzy solí trpké sedmkrát,  
 cit vypalte a schopnost očí mých!  
 Bůh svědkem, vyvážím tvou šílenost,  
@@ -880,13 +880,13 @@ by tak byl smrtelný, jak život starcův?
 Je ve své lásce něžná příroda,  
 a kde jest něžná, vzácný nějaký  
 vzor sebe samé za tím posílá,  
-co miluje.
+co miluje._
 
 **OFELIE** _(zpívá)_:
 
-Tvář nepokrytu na marách  
+_Tvář nepokrytu na marách  
 jej nesli; — žel, ó žel!  
-A mnohá slza skrápla, ach —
+A mnohá slza skrápla, ach —_
 
 S bohem buď, můj holoubku!
 
@@ -896,14 +896,14 @@ Jsouc při rozumu, kdybys pomsty své se dovolávala, tak nemohla bys dojmouti.
 
 **OFELIE** _(zpívá)_:
 
-Musíte zpívat: „Dolů pojď!“  
-když voláte jej dolů.
+_Musíte zpívat: „Dolů pojď!“  
+když voláte jej dolů._
 
 Ó, jak hezky vrčí k tomu kolovrátek. — To je o tom falešném správci, jenž ukrad’ dceru svého pána.
 
 **LAERT**:
 
-To nic je víc než věcnost.
+_To nic je víc než věcnost._
 
 **OFELIE** _(rozdává květiny)_:
 
@@ -917,28 +917,28 @@ Toť naučení v šílenosti: přemýšlet a vzpomínat.
 
 Zde pro vás vonný kmín a orlíčky: zde routa vám a tady snítka pro mne; tak svátečně bychom jí mohli říkat „boží květ“. Ó, vy musíte svou routu nosit jinak než já. A tady chudobka. Ráda bych vám dala trochu fialek, ale všecky povadly, co můj otec zemřel. Povídají, že měl lehkou smrt —
 
-_(Zpívá.)  
+__(Zpívá.)  
 _Neb hezký, milý Robin jest  
-má radost jediná —
+má radost jediná —_
 
 **LAERT**:
 
-Stesk, zamyšlení, vášeň, peklo samo  
-z úst jejích v půvab mění se a vděk.
+_Stesk, zamyšlení, vášeň, peklo samo  
+z úst jejích v půvab mění se a vděk._
 
 **OFELIE** _(zpívá)_:
 
-A zdali nevrátí se již?  
+_A zdali nevrátí se již?  
 A zdali nevrátí se již?  
 Ne, ne, — spí věčný sen;  
 ty jdi a umři jen,  
-on nikdy nevrátí se již.
+on nikdy nevrátí se již._
 
-Vous bílý jako sníh  
+_Vous bílý jako sníh  
 a jako len měl vlas;  
 ten tam, šel spát, šel spát,  
 a marno pro něj lkát. —  
-Bůh jeho duši spas!
+Bůh jeho duši spas!_
 
 A všechny duše křesťanské, modlím se k Bohu. Bůh s vámi.
 
@@ -946,11 +946,11 @@ __Odejde.__
 
 **LAERT**:
 
-Vidíš to, Bože?
+_Vidíš to, Bože?_
 
 **KRÁL**:
 
-Přec jenom, Laerte, musím promluvit  
+_Přec jenom, Laerte, musím promluvit  
 o vašem hoři; jinak byste mi  
 mé právo upřel. Nyní odstupte  
 a volte nejmoudřejší z přátel svých,  
@@ -961,23 +961,23 @@ svou korunu a život, vše, co naše,
 vám za pokutu. Nenajdou-li však,  
 své trpělivosti nám dopřejte  
 a s vaší duší pracovat chcem též,  
-by ukojena byla.
+by ukojena byla._
 
 **LAERT**:
 
-                                 Staň se tak;  
+                                 _Staň se tak;  
 ten způsob smrti, pohřeb tajený,  
 — ni odznak, meč, ni štít nad jeho kostmi,  
 ni slavný obřad, zvyklá nádhera, —  
 vše křičí o slyšení od nebes  
 až k zemi tak, — že musím na potaz  
-to dále zvát.
+to dále zvát._
 
 **KRÁL**:
 
-                        To také učiníte,  
+                        _To také učiníte,  
 a tam, kde vina bude, velký topor  
-ať dopadne. Již, prosím, pojďte se mnou.
+ať dopadne. Již, prosím, pojďte se mnou._
 
 _Odejdou._
 
@@ -1023,9 +1023,9 @@ Tak, pane, učiní, když vůle jeho. Mám dopis pro vás, pane, od vyslance, je
 
 Ten, o němž ti vědomo, že jest tvůj Hamlet.“
 
-Již pojďte, vašim listům zjednám cestu;  
+_Již pojďte, vašim listům zjednám cestu;  
 a jenom rychle, byste dovedli  
-mne k tomu, od něhož je nesete.
+mne k tomu, od něhož je nesete._
 
 _Odejdou._
 
@@ -1037,24 +1037,24 @@ _Vystoupí KRÁL a LAERT._
 
 **KRÁL**:
 
-Mou nevinu teď vaše svědomí  
+_Mou nevinu teď vaše svědomí  
 již musí zpečetit a v srdce své  
 jak přítele mne pojmout musíte,  
 když slyšel jste, a uchem bedlivým,  
 že ten, jenž čackého vám zabil otce,  
-též ukládal o bezživotí mé.
+též ukládal o bezživotí mé._
 
 **LAERT**:
 
-Toť patrno; leč to mi řekněte,  
+_Toť patrno; leč to mi řekněte,  
 proč nedokročil jste na skutky ty  
 tak zločinné a trestné v povaze,  
 jak vaše bezpečnost a moudrost, vše  
-vás mocně pudily?
+vás mocně pudily?_
 
 **KRÁL**:
 
-                                    Z dvou zvláštních příčin,  
+                                    _Z dvou zvláštních příčin,  
 jež vám snad slabošské se budou zdát,  
 však mně jsou mocny. — Matka, královna  
 se téměř živí jeho pohledem;  
@@ -1070,21 +1070,21 @@ jak pramen dřevo v kámen měnící,
 by jeho pouta za okrasy bral  
 tak, že mé šípy, lehké přespříliš,  
 by zpátky k mému luku letěly  
-a k cíli ne, kam jsem je namířil.
+a k cíli ne, kam jsem je namířil._
 
 **LAERT**:
 
-Tak šlechetného otce ztratil jsem  
+_Tak šlechetného otce ztratil jsem  
 a k zoufalství mi sestra dohnána,  
 jež cenou svou a dokonalostí  
 — to chválit možno-li, co bylo kdys —  
 na věku toho stála vrcholu,  
 svět vyzývajíc k ctnosti podobné.  
-Však dojde k pomstě mé.
+Však dojde k pomstě mé._
 
 **KRÁL**:
 
-                                                 Tím nerušte  
+                                                 _Tím nerušte  
 svůj spánek; nesmíte se domnívat,  
 že z bídné tak a tupé látky jsem,  
 bych nebezpečím dal si rváti vous  
@@ -1092,30 +1092,30 @@ a za kratochvíli to sobě bral.
 Co nevidět však uslyšíte víc:  
 já miloval jsem otce vašeho;  
 též sebe milujem, a to, jak doufám,  
-vás soudit naučí —
+vás soudit naučí —_
 
 _Vystoupí POSEL s listy._
 
-                                      Co jest? Co přináší?
+                                      _Co jest? Co přináší?_
 
 **POSEL**:
 
-Můj králi, od Hamleta dopisy;  
-ten vaší Milosti; ten královně.
+_Můj králi, od Hamleta dopisy;  
+ten vaší Milosti; ten královně._
 
 **KRÁL**:
 
-Od Hamleta? Kdo přines’ je?
+_Od Hamleta? Kdo přines’ je?_
 
 **POSEL**:
 
-Prý plavci, pane; já jich neviděl.  
+_Prý plavci, pane; já jich neviděl.  
 Mně dal je Klaudio, jenž obdržel  
-je od toho, kdo přinesl je.
+je od toho, kdo přinesl je._
 
 **KRÁL**:
 
-Laerte, vy poslechněte list. — Ty odejdi.
+_Laerte, vy poslechněte list. — Ty odejdi._
 
 _Odejde POSEL._
 
@@ -1125,40 +1125,40 @@ _(Čte.)_ „Vznešený a mocný! Vězte, že nah jsem vysazen do Vaší říš
 
 Hamlet.“
 
-Co znamená to? Jsou zas všichni zde?  
-Či jest to podvod jen a na všem nic?
+_Co znamená to? Jsou zas všichni zde?  
+Či jest to podvod jen a na všem nic?_
 
 **LAERT**:
 
-A znáte písmo?
+_A znáte písmo?_
 
 **KRÁL**:
 
-                             Ruka Hamletova.  
+                             _Ruka Hamletova.  
 „Nah!“ — a zde v doušce praví: „samoten“.  
-Co tomu říkáte?
+Co tomu říkáte?_
 
 **LAERT**:
 
-Jsem bez rady. — Ať ale přijde si;  
+_Jsem bez rady. — Ať ale přijde si;  
 vždyť samo choré srdce okřává,  
 že dočkám se a do hrdla mu řeknu:  
-„To spáchals ty!“
+„To spáchals ty!“_
 
 **KRÁL**:
 
-                                 A Laerte, tak-li jest, —  
+                                 _A Laerte, tak-li jest, —  
 a jak by také jinak mohlo být? —  
-zda chcete dát se vésti ode mne?
+zda chcete dát se vésti ode mne?_
 
 **LAERT**:
 
-To, pane, chci; jen k míru nesmíte  
-mne vést.
+_To, pane, chci; jen k míru nesmíte  
+mne vést._
 
 **KRÁL**:
 
-                   Jen k tvému míru vlastnímu.  
+                   _Jen k tvému míru vlastnímu.  
 Když vrátil se, tou cestou přeplašen,  
 a nehodlá-li víc ji podniknout,  
 chci pohnouti jej k věci nějaké,  
@@ -1166,32 +1166,32 @@ jež nyní v mojí mysli dozrála,
 a kde, ať chce či nechce, padnout musí.  
 Ni větřík nevzdechne pro jeho smrt,  
 ba matka sama čin ten omluví  
-a bude pouhou náhodou to zvát.
+a bude pouhou náhodou to zvát._
 
 **LAERT**:
 
-Můj králi, dám se vámi ovládat  
+_Můj králi, dám se vámi ovládat  
 tím spíše, učiníte-li to tak,  
-že já v tom budu nástrojem.
+že já v tom budu nástrojem._
 
 **KRÁL**:
 
-                                                      To vhod.  
+                                                      _To vhod.  
 Když byl jste na cestách, tu mluvilo  
 se mnoho v přítomnosti Hamleta  
 jedné schopnosti, jíž nade vše  
 prý záříte; vše jiné vlastnosti  
 jej k závidění nepudily tak,  
 jak tato jedna, která v očích mých  
-má cenu nejmenší.
+má cenu nejmenší._
 
 **LAERT**:
 
-                                     Jaká to schopnost?
+                                     _Jaká to schopnost?_
 
 **KRÁL**:
 
-Jen pouhá stužka na klobouku mládí,  
+_Jen pouhá stužka na klobouku mládí,  
 však nutná též; neb mládí sluší tak  
 ten lehký, bezstarostný šat, jejž nosí,  
 jak usedlému věku sobolina  
@@ -1207,33 +1207,33 @@ jak byl by jedno tělo, ducha půl
 s tím statným zvířetem; ba překonal  
 mé všechno pomyšlení tak, že já  
 ni představou těch obratů a kousků  
-postihnout neumím, co dělal on.
+postihnout neumím, co dělal on._
 
 **LAERT**:
 
-A byl to Norman?
+_A byl to Norman?_
 
 **KRÁL**:
 
-                                   Norman.
+                                   _Norman._
 
 **LAERT**:
 
-                                                      Jak jsem živ,  
-Lamond.
+                                                      _Jak jsem živ,  
+Lamond._
 
 **KRÁL**:
 
-                 Týž.
+                 _Týž._
 
 **LAERT**:
 
-Znám jej dobře; šperkem jest  
-a drahokamem všeho národa.
+_Znám jej dobře; šperkem jest  
+a drahokamem všeho národa._
 
 **KRÁL**:
 
-On mluvil o vás a tak mistrovskou  
+_On mluvil o vás a tak mistrovskou  
 dal pochvalu vašemu umění  
 a cviku ve zbrani a obzvláště  
 jak dovedete vládnout rapírem,  
@@ -1245,25 +1245,25 @@ ni pozoru, když vy jim čelíte.
 Ta chvála otrávila Hamleta  
 tak závistí, že jenom sobě přál  
 a žádal, byste rychle vrátil se  
-a s ním to zkusil. — Nuže, z toho teď…
+a s ním to zkusil. — Nuže, z toho teď…_
 
 **LAERT**:
 
-Co z toho? —
+_Co z toho? —_
 
 **KRÁL**:
 
-                            Laerte, měl jste otce rád?  
+                            _Laerte, měl jste otce rád?  
 Neb jste jen jako obraz zármutku,  
-tvář bez srdce?
+tvář bez srdce?_
 
 **LAERT**:
 
-                             Proč tážete se tak?
+                             _Proč tážete se tak?_
 
 **KRÁL**:
 
-Ne proto, že bych nebyl přesvědčen,  
+_Ne proto, že bych nebyl přesvědčen,  
 jak miloval jste jej; však proto jen,  
 že znám, jak láska časem počata,  
 a vídám zkušeností důkazem,  
@@ -1282,15 +1282,15 @@ jen marnotratný vzdech, jenž ublíží,
 ač ulevuje. — Ale protněm hlízu:  
 Hamlet se vrací; nuž, co chcete vy  
 teď činit, byste skutkem osvědčil  
-víc nežli slovy, že jste otcův syn?
+víc nežli slovy, že jste otcův syn?_
 
 **LAERT**:
 
-I v kostele mu hrdlo podřezat.
+_I v kostele mu hrdlo podřezat._
 
 **KRÁL**:
 
-Ba vražda věru nikde neměla  
+_Ba vražda věru nikde neměla  
 by útočiště mít; — ni pomsta mezí.  
 Však, dobrý Laerte, jste-li odhodlán  
 to učinit, v své komnatě se držte.  
@@ -1307,11 +1307,11 @@ zbraň neprohlédne a tak přesnadno,
 neb nějakým jen malým úskokem  
 meč vyberete neotupený  
 a bodem obratným se pomstíte  
-za svého otce smrt.
+za svého otce smrt._
 
 **LAERT**:
 
-                                       Tak učiním  
+                                       _Tak učiním  
 a k tomu cíli meč svůj napustím.  
 Kdes od mastičkáře jsem koupil tresť  
 tak smrtící, že třeba jenom nůž  
@@ -1322,11 +1322,11 @@ jež pod měsícem vzrostly, nemůže
 již zachrániti tvora od smrti,  
 byť jen byl škrábnut. Napustím svůj hrot  
 tou látkou otravnou, a zraním-li  
-jej sebelehčej, pojde z toho smrt.
+jej sebelehčej, pojde z toho smrt._
 
 **KRÁL**:
 
-Dál o tom přemýšlejme, rozvažme,  
+_Dál o tom přemýšlejme, rozvažme,  
 kde jaká vhodná příležitost času  
 i prostředků nám k cíli poslouží;  
 neb nezdaří-li se nám nástraha  
@@ -1345,26 +1345,26 @@ a on chtít bude pít, já pro tu chvíli
 dám pohár schystat, z něhož srkne-li,  
 když mine jej váš otrávený hrot,  
 náš záměr najisto se podaří.  
-Však ticho! Co to za hluk?
+Však ticho! Co to za hluk?_
 
 _Vystoupí KRÁLOVNA._
 
-                                                 Nuž, jak jest,  
-má vzácná královno?
+                                                 _Nuž, jak jest,  
+má vzácná královno?_
 
 **KRÁLOVNA**:
 
-Žal jeden šlape v paty jinému,  
+_Žal jeden šlape v paty jinému,  
 tak rychle kráčí jeden za druhým;  
-vám, Laerte, vaše sestra utonula.
+vám, Laerte, vaše sestra utonula._
 
 **LAERT**:
 
-Že utonula! Kde?
+_Že utonula! Kde?_
 
 **KRÁLOVNA**:
 
-Jest vrba nachýlená přes potok,  
+_Jest vrba nachýlená přes potok,  
 své šedé listy v proudu zrcadlíc;  
 tam přišla s věnci přepodivnými,  
 jež z kohoutků a kopřiv upletla  
@@ -1384,19 +1384,19 @@ o vlastní pohromě, neb jako tvor,
 jenž zrozen byl a zvyklý v živlu tom.  
 Však zanedlouho roucho prosáklé  
 svou tíží stáhlo dívku ubohou  
-od jejích zpěvů v bažinatý hrob.
+od jejích zpěvů v bažinatý hrob._
 
 **LAERT**:
 
-Ó běda! Tedy utopena jest!
+_Ó běda! Tedy utopena jest!_
 
 **KRÁLOVNA**:
 
-Jest utopena, ano utopena.
+_Jest utopena, ano utopena._
 
 **LAERT**:
 
-Ó příliš mnoho vody zkropilo  
+_Ó příliš mnoho vody zkropilo  
 tě, sestro ubohá, a proto již  
 svým slzám bráním; přec však náš to zvyk’  
 a příroda si na svém setrvá,  
@@ -1405,16 +1405,16 @@ až proudem jen ty slzy vytrysknou,
 co ve mně zženštilé, odproudí s nimi.  
 Již s bohem, pane; řeč má v plameny  
 by chtěla vyšlehnout, však hasí ji  
-ta pošetilost.
+ta pošetilost._
 
 __Odejde.__
 
 **KRÁL**:
 
-Pojďme, Gertrudo.  
+_Pojďme, Gertrudo.  
 Co mne to stálo, nežli ukrotil  
 jsem jeho zuřivost! — Teď bojím se,  
 tou příhodou že znovu propukne.  
-A tedy za ním.
+A tedy za ním._
 
 _Odejdou._

@@ -12,20 +12,35 @@ meta:
   modified: '2021-03-03T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - hamlet_001.html
   - hamlet_002.html
-  - hamlet_003.html
-  - hamlet_004.html
   - hamlet_005.html
   - hamlet_006.html
   - hamlet_007.html
   - hamlet_008.html
   - hamlet_009.html
   - hamlet_010.html
-  - hamlet_011.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: hamlet_005.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: hamlet_006.html
+        title: JEDNÁNÍ PRVNÍ
+        hiddenTitle: false
+      - link: hamlet_007.html
+        title: JEDNÁNÍ DRUHÉ
+        hiddenTitle: false
+      - link: hamlet_008.html
+        title: JEDNÁNÍ TŘETÍ
+        hiddenTitle: false
+      - link: hamlet_009.html
+        title: JEDNÁNÍ ČTVRTÉ
+        hiddenTitle: false
+      - link: hamlet_010.html
+        title: JEDNÁNÍ PÁTÉ
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

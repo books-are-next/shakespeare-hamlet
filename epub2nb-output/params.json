@@ -23,7 +23,7 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP_text_bez1radku_-I-_-12-0-\nMLP_scenicke_poznamky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP_text_bez1radku_-I-_-12-0-\nMLP_scenicke_poznamky\nMLP_verse_drama",
       "strong": "MLP_znak_tucne_11b\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
@@ -38,12 +38,13 @@
             "filename": "hamlet_001.md",
             "xhtml": "hamlet_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hamlet_002.md",
@@ -51,32 +52,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hamlet_003.md",
             "xhtml": "hamlet_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hamlet_004.md",
             "xhtml": "hamlet_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hamlet_005.md",
@@ -87,7 +91,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "hamlet_006.md",
@@ -98,7 +104,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEDNÁNÍ PRVNÍ"
           },
           {
             "filename": "hamlet_007.md",
@@ -109,7 +117,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEDNÁNÍ DRUHÉ"
           },
           {
             "filename": "hamlet_008.md",
@@ -120,7 +130,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEDNÁNÍ TŘETÍ"
           },
           {
             "filename": "hamlet_009.md",
@@ -131,7 +143,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEDNÁNÍ ČTVRTÉ"
           },
           {
             "filename": "hamlet_010.md",
@@ -142,18 +156,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEDNÁNÍ PÁTÉ"
           },
           {
             "filename": "hamlet_011.md",
             "xhtml": "hamlet_011.xhtml",
             "id": 10,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -311,6 +328,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-hamlet"
     },
-    "generatedAt": 1649417884193
+    "generatedAt": 1649751350099
   }
 }
