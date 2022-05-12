@@ -1,20 +1,31 @@
 {
-  "author": "William Shakespeare",
-  "contenttype": "prose",
-  "identifier": "shakespeare-hamlet-d610bb5",
-  "languagecode": "cs",
-  "modified": "2021-03-03T00:00:00.000Z",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hamlet",
-  "revision": "d610bb5",
+  "author": "William Shakespeare",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "shakespeare-hamlet-99e2454",
+  "revision": "99e2454",
+  "readingOrder": [
+    "promo.html",
+    "hamlet_005.html",
+    "hamlet_006.html",
+    "hamlet_007.html",
+    "hamlet_008.html",
+    "hamlet_009.html",
+    "hamlet_010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Apr 12 2022 08:16:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649751399962
+    "date": "Thu May 12 2022 10:42:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352166594
   },
   "documents": [
     {
-      "title": "Hamlet",
-      "file": "hamlet_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,25 +33,17 @@
       "order": 0,
       "prev": null,
       "next": "hamlet_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Hamlet",
+      "title": "OSOBY",
       "file": "hamlet_005.html",
       "words": 69,
       "chars": 527,
       "ideas": 20,
       "role": "chapter",
       "order": 1,
-      "prev": "hamlet_002.html",
+      "prev": "promo.html",
       "next": "hamlet_006.html",
       "toc": [
         {
@@ -53,7 +56,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Hamlet",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "hamlet_006.html",
       "words": 6252,
       "chars": 33974,
@@ -109,7 +112,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Hamlet",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "hamlet_007.html",
       "words": 5206,
       "chars": 29571,
@@ -144,7 +147,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Hamlet",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "hamlet_008.html",
       "words": 6661,
       "chars": 37454,
@@ -193,7 +196,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ ČTVRTÉ • Hamlet",
+      "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "hamlet_009.html",
       "words": 4896,
       "chars": 26715,
@@ -263,7 +266,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PÁTÉ • Hamlet",
+      "title": "JEDNÁNÍ PÁTÉ",
       "file": "hamlet_010.html",
       "words": 5230,
       "chars": 29149,
@@ -298,11 +301,11 @@
       ]
     },
     {
-      "title": "Tiráž • Hamlet",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 932,
-      "ideas": 24,
+      "words": 115,
+      "chars": 767,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "hamlet_010.html",
@@ -320,9 +323,9 @@
   ],
   "totals": {
     "all": {
-      "words": 28454,
-      "chars": 158350,
-      "ideas": 5261
+      "words": 28433,
+      "chars": 158185,
+      "ideas": 5255
     },
     "chapters": {
       "words": 28314,

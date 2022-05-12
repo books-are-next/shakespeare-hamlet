@@ -50,7 +50,7 @@
             "filename": "hamlet_002.md",
             "xhtml": "hamlet_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -328,6 +328,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-hamlet"
     },
-    "generatedAt": 1649751350099
+    "generatedAt": 1652351606888
   }
 }

@@ -12,7 +12,7 @@ meta:
   modified: '2021-03-03T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - hamlet_002.html
+  - promo.html
   - hamlet_005.html
   - hamlet_006.html
   - hamlet_007.html
