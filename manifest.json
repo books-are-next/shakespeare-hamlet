@@ -6,8 +6,8 @@
   "author": "William Shakespeare",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-hamlet-99e2454",
-  "revision": "99e2454",
+  "identifier": "shakespeare-hamlet-a60f23b",
+  "revision": "a60f23b",
   "readingOrder": [
     "promo.html",
     "hamlet_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352166594
+    "date": "Fri Jun 10 2022 14:19:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870766444
   },
   "documents": [
     {
@@ -303,9 +303,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 115,
-      "chars": 767,
-      "ideas": 18,
+      "words": 110,
+      "chars": 717,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "hamlet_010.html",
@@ -323,9 +323,9 @@
   ],
   "totals": {
     "all": {
-      "words": 28433,
-      "chars": 158185,
-      "ideas": 5255
+      "words": 28428,
+      "chars": 158135,
+      "ideas": 5254
     },
     "chapters": {
       "words": 28314,
