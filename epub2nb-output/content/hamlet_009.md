@@ -3,6 +3,8 @@ title: JEDNÁNÍ ČTVRTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Síň na hradě._
@@ -1416,3 +1418,5 @@ tou příhodou že znovu propukne.
 A tedy za ním._
 
 _Odejdou._
+
+</section>

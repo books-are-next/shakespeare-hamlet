@@ -3,6 +3,8 @@ title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Pokoj v domě Poloniově._
@@ -1299,3 +1301,5 @@ mít důkazy než to. — Ta hra je sítí,
 kde toho krále svědomí se chytí._
 
 _Odejde._
+
+</section>

@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **KLAUDIUS**, král dánský
 
 **HAMLET**, syn předešlého a synovec panujícího krále
@@ -39,6 +41,10 @@ Pánové a paní, důstojníci, vojáci, plavci, poslové, sloužící a jiná
 
 **DUCH** otce Hamletova
 
-  
+</section>
+
+<section>
 
 _Dějiště: Dánsko_
+
+</section>

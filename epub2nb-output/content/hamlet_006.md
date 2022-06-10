@@ -3,6 +3,8 @@ title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Elsinor. — Terasa před zámkem._
@@ -1893,3 +1895,5 @@ A stále, prosím, prsty na ústech.
 Nuž, pojďme spolu._
 
 _Odejdou._
+
+</section>

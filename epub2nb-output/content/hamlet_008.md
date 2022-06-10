@@ -3,6 +3,8 @@ title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Síň na hradě._
@@ -1739,3 +1741,5 @@ Pojď, brachu, pojď, ať skoncujem to spolu.
 Nuž, matko, dobrou noc._
 
 _Odejdou na různé strany; HAMLET odvléká POLONIA._
+
+</section>
