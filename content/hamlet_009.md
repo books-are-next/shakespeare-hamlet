@@ -1119,8 +1119,6 @@ _Laerte, vy poslechněte list. — Ty odejdi._
 
 _Odejde POSEL._
 
-  
-
 _(Čte.)_ „Vznešený a mocný! Vězte, že nah jsem vysazen do Vaší říše. Zítra dovolím si předstoupiti před Vaši královskou tvář, a vyprosiv si Vaši milost k tomu, vypovím příčinu svého náhlého a ještě více podivného návratu.
 
 Hamlet.“

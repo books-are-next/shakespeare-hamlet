@@ -39,4 +39,6 @@ Pánové a paní, důstojníci, vojáci, plavci, poslové, sloužící a jiná
 
 **DUCH** otce Hamletova
 
+  
+
 _Dějiště: Dánsko_
