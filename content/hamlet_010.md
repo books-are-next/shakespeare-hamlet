@@ -3,6 +3,8 @@ title: JEDNÁNÍ PÁTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Hřbitov._
@@ -1467,3 +1469,5 @@ jest pro bojiště, — zde však přesmuten.
 Ať vojsko střílí._
 
 _Pohřební pochod. Odejdou, nesouce mrtvá těla; potom střelba z děl._
+
+</section>
