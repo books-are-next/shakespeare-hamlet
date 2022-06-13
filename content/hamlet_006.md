@@ -50,7 +50,7 @@ _Stráž měl jste klidnou?_
 
 **FRANCISKO**:
 
-                                            _Myš se nehnula._
+            _Myš se nehnula._
 
 **BERNARDO**:
 
@@ -71,7 +71,7 @@ _Té země přátelé._
 
 **MARCEL**:
 
-                                _A věrní králi._
+            _A věrní králi._
 
 **FRANCISKO**:
 
@@ -79,7 +79,7 @@ _Všem dobrou noc!_
 
 **MARCEL**:
 
-                                   _Vy, čacký vojíne,  
+            _Vy, čacký vojíne,  
 též buďte s bohem! — Kdo vás vystřídal?_
 
 **FRANCISKO**:
@@ -91,16 +91,16 @@ __Odejde.__
 
 **MARCEL**:
 
-                            _Hola! Bernardo!_
+            _Hola! Bernardo!_
 
 **BERNARDO**:
 
-                                                           _Hej!  
+            _Hej!  
 Jest to Horatio?_
 
 **HORATIO**:
 
-                             _Tak z něho kus._
+            _Tak z něho kus._
 
 **BERNARDO**:
 
@@ -127,7 +127,7 @@ a oslovil to._
 
 **HORATIO**:
 
-                      _Však to nepřijde._
+            _Však to nepřijde._
 
 **BERNARDO**:
 
@@ -171,7 +171,7 @@ _Hleď, není-li to králi podobno?
 
 **HORATIO**:
 
-                                    _Ba, celý on;  
+            _Ba, celý on;  
 mně děs a úžas kostmi probíhá._
 
 **BERNARDO**:
@@ -184,7 +184,7 @@ _Ty oslov to, Horatio._
 
 **HORATIO**:
 
-                                       _Kdos ty,  
+            _Kdos ty,  
 jenž osobíš si tento noční čas  
 a krásnou, bohatýrskou postavu,  
 v níž pohřbeného krále majestát  
@@ -196,7 +196,7 @@ _Jest uražen._
 
 **BERNARDO**:
 
-                      _Hle, vzdaluje se to!_
+            _Hle, vzdaluje se to!_
 
 **HORATIO**:
 
@@ -236,7 +236,7 @@ Toť podivné. —_
 
 **MARCEL**:
 
-                             _Tak dřív již dvakráte  
+            _Tak dřív již dvakráte  
 a právě v tuto mrtvou hodinu  
 stráž bohatýrským krokem obešel._
 
@@ -262,7 +262,7 @@ kdo mi to může říct?_
 
 **HORATIO**:
 
-                                       _To mohu já;  
+            _To mohu já;  
 tak aspoň šeptá se: Král poslední,  
 ten, jehož přízrak právě se nám zjevil,  
 jak víte, Fortinbrasem Norvežským,  
@@ -305,7 +305,7 @@ těch válek podnětem._
 
 **HORATIO**:
 
-                                         _Toť smítka jest,  
+            _Toť smítka jest,  
 jež oko ducha znepokojuje.  
 Když nejvýše a nejslavněj’ stál Řím,  
 to krátko před tím, nežli mohutný  
@@ -346,7 +346,7 @@ mluv, stůj, — a mluv!_
 
 _Kohout zakokrhá._
 
-                                       _Marcele, zadrž to!_
+            _Marcele, zadrž to!_
 
 **MARCEL**:
 
@@ -358,11 +358,11 @@ _Tak, nechce-li to stát._
 
 **BERNARDO**:
 
-                                          _Je zde!_
+            _Je zde!_
 
 **HORATIO**:
 
-                                                        _Je zde!_
+            _Je zde!_
 
 _DUCH zmizí._
 
@@ -489,7 +489,7 @@ vám s bohem oběma._
 
 _Odejdou VOLTIMAND a KORNELIUS._
 
-                                         _A nyní, Laerte,  
+            _A nyní, Laerte,  
 co vy nám přinášíte nového?  
 Vy mluvil jste o prosbě nějaké, —  
 co jest to, Laerte? — Jest vám nemožno  
@@ -503,7 +503,7 @@ Co přeješ sobě, Laerte?_
 
 **LAERT**:
 
-                                            _Svolení,  
+            _Svolení,  
 můj vládce mohutný, a milost vaši,  
 bych směl se do Francie navrátit.  
 Já přišel, a to velmi ochotně,  
@@ -522,7 +522,7 @@ Co dí Polonius?_
 
 **POLONIUS**:
 
-                              _On, pane můj,  
+            _On, pane můj,  
 svou usilovnou prosbou vynutil  
 mé váhající svolení, až pak  
 svým souhlasem, jenž byl mi přetěžký,  
@@ -694,7 +694,7 @@ _Zdar vaší Výsosti!_
 
 **HAMLET**:
 
-                                   _Jsem potěšen,  
+            _Jsem potěšen,  
 vás vida zdravého. — Horatio!  
 Sám sebe jestli nezapomínám._
 
@@ -711,18 +711,18 @@ Aj Marcel?_
 
 **MARCEL**:
 
-                    _Vzácný princi?_
+            _Vzácný princi?_
 
 **HAMLET**:
 
-                                                  _Velmi rád  
+            _Velmi rád  
 vás tady vidím. _(K BERNARDOVI.)_ Dobrý večer, pane!  
 Leč, doopravdy, co vás přivádí  
 k nám z Vitemberka?_
 
 **HORATIO**:
 
-                                         _Zahálčivost, pane._
+            _Zahálčivost, pane._
 
 **HAMLET**:
 
@@ -737,7 +737,7 @@ než odjedete zas._
 
 **HORATIO**:
 
-                                  _Já, Výsosti,  
+            _Já, Výsosti,  
 sem přijel k pohřbu otce vašeho._
 
 **HAMLET**:
@@ -765,7 +765,7 @@ _Ó kde, můj princi?_
 
 **HAMLET**:
 
-                                   _V oku duše své._
+            _V oku duše své._
 
 **HORATIO**:
 
@@ -794,7 +794,7 @@ _Že krále, mého otce!_
 
 **HORATIO**:
 
-                                       _Zmírněte  
+            _Zmírněte  
 svůj údiv na mžik sluchem pozorným,  
 než o tom zázraku vše vypovím  
 na dosvědčení těchto vojínů._
@@ -830,12 +830,12 @@ _A kde to bylo?_
 
 **MARCEL**:
 
-                           _Na terase, princi,  
+            _Na terase, princi,  
 kde stráž jsme měli._
 
 **HAMLET**:
 
-                                       _Oslovili jste to?_
+            _Oslovili jste to?_
 
 **HORATIO**:
 
@@ -849,7 +849,7 @@ a zmizelo._
 
 **HAMLET**:
 
-                   _Toť velmi podivné._
+            _Toť velmi podivné._
 
 **HORATIO**:
 
@@ -864,7 +864,7 @@ Jste na stráži dnes v noci?_
 
 **MARCEL** a **BERNARDO**:
 
-                                                _Ano, princi._
+            _Ano, princi._
 
 **HAMLET**:
 
@@ -872,7 +872,7 @@ _Že ozbrojen, jste řekli?_
 
 **MARCEL** a **BERNARDO**:
 
-                                            _Ozbrojen._
+            _Ozbrojen._
 
 **HAMLET**:
 
@@ -880,7 +880,7 @@ _Od lebky k palci?_
 
 **MARCEL** a **BERNARDO**:
 
-                                 _Od hlavy až k patě._
+            _Od hlavy až k patě._
 
 **HAMLET**:
 
@@ -896,7 +896,7 @@ _Jak, — hleděl zachmuřeně?_
 
 **HORATIO**:
 
-                                                     _Výraz měl  
+            _Výraz měl  
 víc žalostivý nežli hněvivý._
 
 **HAMLET**:
@@ -905,7 +905,7 @@ _Bled, nebo uzarděn?_
 
 **HORATIO**:
 
-                                       _Ne, velmi bled._
+            _Ne, velmi bled._
 
 **HAMLET**:
 
@@ -917,7 +917,7 @@ _Co nejpevněji._
 
 **HAMLET**:
 
-                            _Byl bych tam chtěl být._
+            _Byl bych tam chtěl být._
 
 **HORATIO**:
 
@@ -941,12 +941,12 @@ _Ne, když jsem já to viděl._
 
 **HAMLET**:
 
-                                               _Jeho vous  
+            _Jeho vous  
 byl prošedlý, či ne?_
 
 **HORATIO**:
 
-                                    _Jak za živa  
+            _Jak za živa  
 jsem znal jej, černý, stříbrem prokvetlý._
 
 **HAMLET**:
@@ -956,7 +956,7 @@ snad zas to přijde._
 
 **HORATIO**:
 
-                                   _Přijde, za to ručím._
+            _Přijde, za to ručím._
 
 **HAMLET**:
 
@@ -975,7 +975,7 @@ vás navštívím._
 
 **VŠICHNI**:
 
-                            _Jsme k službám, Výsosti!_
+            _Jsme k službám, Výsosti!_
 
 **HAMLET**:
 
@@ -984,7 +984,7 @@ a nyní s bohem!_
 
 _Odejdou všichni kromě HAMLETA._
 
-                              _Mého otce duch  
+            _Mého otce duch  
 a ve zbroji! Zde čisto není vše.  
 V tom vězí, tuším, jakás podlá hra!  
 Kéž noc tu byla! — Zatím ticho, duše!  
@@ -1012,7 +1012,7 @@ _Ty pochybuješ?_
 
 **LAERT**:
 
-                              _Co pak Hamleta  
+            _Co pak Hamleta  
 se dotýče a cetek jeho přízně,  
 to za běžný měj mrav a krve hru;  
 jen za fialku v útlém květu mládí,  
@@ -1022,7 +1022,7 @@ jen mžikové, nic víc._
 
 **OFELIE**:
 
-                                       _Nic víc než to?_
+            _Nic víc než to?_
 
 **LAERT**:
 
@@ -1081,7 +1081,7 @@ přes vlastní rady._
 
 **LAERT**:
 
-                                 _O mne neboj se. —  
+            _O mne neboj se. —  
 Již přes čas meškám; hle, zde otec náš._
 
 _Vystoupí POLONIUS._
@@ -1171,13 +1171,13 @@ Mluv pravdu._
 
 **OFELIE**:
 
-                          _On mi dával, pane můj,  
+            _On mi dával, pane můj,  
 v poslední době mnohá ujištění  
 své náklonnosti._
 
 **POLONIUS**:
 
-                                    _Náklonnosti! Jdi!  
+            _Náklonnosti! Jdi!  
 Ty mluvíš jako děvče zelené  
 a nezkušené v těchto nebezpečích;  
 těm ujištěním, jak to zveš, ty věříš?_
@@ -1263,7 +1263,7 @@ _Jak pozdě máme?_
 
 **HORATIO**:
 
-                                 _Skoro na dvanáctou._
+            _Skoro na dvanáctou._
 
 **MARCEL**:
 
@@ -1292,7 +1292,7 @@ _Je to zde obyčej?_
 
 **HAMLET**:
 
-                               _Ba věru jest;  
+            _Ba věru jest;  
 však po mém soudu, ač jsem rodák zdejší  
 a ve způsobech těchto vychován,  
 toť obyčej, jenž víc přináší cti,  
@@ -1330,7 +1330,7 @@ _Hle, tam to přichází._
 
 **HAMLET**:
 
-                                     _Teď andělé  
+            _Teď andělé  
 a spásy mocnosti nás ochraňte!  
 Buď požehnání duch neb kletý běs,  
 vzduch nebes přinášej, či plápol z pekla,  
@@ -1363,13 +1363,13 @@ vám samotnému._
 
 **MARCEL**:
 
-                                  _Hle, jak rytířsky  
+            _Hle, jak rytířsky  
 vám kyne k místu odlehlejšímu; —  
 však vy s tím nechoďte!_
 
 **HORATIO**:
 
-                                             _Ne, nikterak._
+            _Ne, nikterak._
 
 **HAMLET**:
 
@@ -1381,7 +1381,7 @@ _Můj princi, nechoďte!_
 
 **HAMLET**:
 
-                                         _Proč míti strach?  
+            _Proč míti strach?  
 Můj život za jehlu mi nestojí  
 a duši mé co může ublížit,  
 jež tak jest nesmrtelná jako on?  
@@ -1410,7 +1410,7 @@ _Jít nesmíte, můj princi._
 
 **HAMLET**:
 
-                                           _Ruce pryč!_
+            _Ruce pryč!_
 
 **HORATIO**:
 
@@ -1450,7 +1450,7 @@ _Bůh napraví to zas._
 
 **MARCEL**:
 
-                                    _Jen za ním teď._
+            _Jen za ním teď._
 
 _Odejdou._
 
@@ -1470,17 +1470,17 @@ _Slyš mne._
 
 **HAMLET**:
 
-                  _To chci._
+            _To chci._
 
 **DUCH**:
 
-                                  _Má hodina se blíží,  
+            _Má hodina se blíží,  
 kdy v muka sirnatého plamene  
 se musím vrátit._
 
 **HAMLET**:
 
-                               _Duchu nebohý!_
+            _Duchu nebohý!_
 
 **DUCH**:
 
@@ -1545,7 +1545,7 @@ spěl k pomstě._
 
 **DUCH**:
 
-                           _Vidím, že jsi ochoten;  
+            _Vidím, že jsi ochoten;  
 a tupější bys byl než tučné bejlí,  
 jež líně uhnívá na břehu Lethe,  
 to kdyby k činu nepohnulo tě.  
@@ -1563,7 +1563,7 @@ _Má duše prorocká! — Můj strýc! —_
 
 **DUCH**:
 
-                                                                  _Toť on,  
+            _Toť on,  
 ten krvesmilný, cizoložný netvor,  
 jenž čáry vtipu, dary zrádnými,  
 — ó bídný vtip a dary, mající  
@@ -1652,13 +1652,13 @@ Já přísahal._
 
 **HORATIO** a **MARCEL** _(za scénou)_:
 
-                      _Ó princi, princi!_
+            _Ó princi, princi!_
 
 _Vystoupí HORATIO a MARCEL._
 
 **MARCEL**:
 
-                                               _Princi Hamlete!_
+            _Princi Hamlete!_
 
 **HORATIO**:
 
@@ -1666,11 +1666,11 @@ _Bůh ochraň jej!_
 
 **HAMLET**:
 
-                             _Tak buď!_
+            _Tak buď!_
 
 **MARCEL**:
 
-                                                 _Hej, hola, princi!_
+            _Hej, hola, princi!_
 
 **HAMLET**:
 
@@ -1686,7 +1686,7 @@ _Co nového, můj princi?_
 
 **HAMLET**:
 
-                                             _Zázraky!_
+            _Zázraky!_
 
 **HORATIO**:
 
@@ -1698,7 +1698,7 @@ _Ne, vy to vyzradíte._
 
 **HORATIO**:
 
-                                      _Při sám Bůh,  
+            _Při sám Bůh,  
 já ne._
 
 **MARCEL**:
@@ -1707,13 +1707,13 @@ já ne._
 
 **HAMLET**:
 
-                                            _Tedy tak; —  
+            _Tedy tak; —  
 zdaž lidské srdce by to smyslilo?  
 Však mlčet budete?_
 
 **HORATIO** a **MARCEL**:
 
-                                      _Bůh svědkem, princi!_
+            _Bůh svědkem, princi!_
 
 **HAMLET**:
 
@@ -1727,7 +1727,7 @@ by nám to řek’._
 
 **HAMLET**:
 
-                            _Aj, pravda; máte pravdu;  
+            _Aj, pravda; máte pravdu;  
 a tak bez dalších oklik za to mám,  
 že bude nejlíp, když si ruce stisknem  
 a rozejdem se; — vy, kam touha vás  
@@ -1744,13 +1744,13 @@ a blouznivá._
 
 **HAMLET**:
 
-                        _Mou vinou jestliže  
+            _Mou vinou jestliže  
 vás urážejí, srdečně mi líto;  
 ba věřte, srdečně._
 
 **HORATIO**:
 
-                                   _Zde není viny._
+            _Zde není viny._
 
 **HAMLET**:
 
@@ -1767,12 +1767,12 @@ mi prosbu splňte._
 
 **HORATIO**:
 
-                                   _Jaká, pane, jest?  
+            _Jaká, pane, jest?  
 Vše splníme._
 
 **HAMLET**:
 
-                           _Tož nikdy nezjevte,  
+            _Tož nikdy nezjevte,  
 co této noci uviděli jste._
 
 **HORATIO** a **MARCEL**:
@@ -1781,7 +1781,7 @@ _To nezjevíme, pane!_
 
 **HAMLET**:
 
-                                       _Přísahejte._
+            _Přísahejte._
 
 **HORATIO**:
 
@@ -1793,7 +1793,7 @@ _Já, princi, také ne._
 
 **HAMLET**:
 
-                                   _Zde, na můj meč._
+            _Zde, na můj meč._
 
 **MARCEL**:
 

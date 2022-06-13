@@ -426,7 +426,7 @@ _Víc činit nelze?_
 
 **PRVÝ KNĚZ**:
 
-                              _Nelze činit víc.  
+            _Nelze činit víc.  
 Řád pohřební by zle byl znesvěcen,  
 chtít zpívat requiem a response  
 jak duším, které v míru odešly._
@@ -442,7 +442,7 @@ výt v jícnu pekel._
 
 **HAMLET**:
 
-                                  _Jak? — Ofelie!_
+            _Jak? — Ofelie!_
 
 **KRÁLOVNA** _(sypajíc květiny)_:
 
@@ -485,7 +485,7 @@ _Zápasí s ním._
 
 **HAMLET**:
 
-                                          _Zle modlíš se.  
+            _Zle modlíš se.  
 Ty prsty, prosím, z mého hrdla pryč! —  
 Ač nejsem prudký ani ukvapen,  
 však v sobě mám cos nebezpečného,  
@@ -494,11 +494,11 @@ Pryč ruce!_
 
 **KRÁL**:
 
-                     _Rozdělte je!_
+            _Rozdělte je!_
 
 **KRÁLOVNA**:
 
-                                             _Hamlete!_
+            _Hamlete!_
 
 **VŠICHNI**:
 
@@ -521,7 +521,7 @@ _V čem, synu milý?_
 
 **HAMLET**:
 
-                                   _Já ji miloval:  
+            _Já ji miloval:  
 čtyřicet tisíc bratří nemohlo  
 by vyvážit svou láskou veškerou  
 mé lásky úhrn. Co že učinit  
@@ -529,7 +529,7 @@ chceš pro ni ty?_
 
 **KRÁL**:
 
-                                  _Ó Laerte, šílen jest._
+            _Ó Laerte, šílen jest._
 
 **KRÁLOVNA**:
 
@@ -553,7 +553,7 @@ se chvástat jako ty._
 
 **KRÁLOVNA**:
 
-                                      _Toť šílenství. —  
+            _Toť šílenství. —  
 Ten záchvat jenom chvíli potrvá,  
 a trpělivě jako hrdlička,  
 když vyklubou se zlatá holátka,  
@@ -619,7 +619,7 @@ _Toť nad vše jisto._
 
 **HAMLET**:
 
-                                  _Vzhůru z kajuty!  
+            _Vzhůru z kajuty!  
 Plášť námořnický hodiv na sebe  
 jsem tápal tmou, bych dopídil se jich;  
 i našel jsem je, chopil jejich vak  
@@ -638,7 +638,7 @@ mi hlavu srazili._
 
 **HORATIO**:
 
-                                 _Zdaž možno to?_
+            _Zdaž možno to?_
 
 **HAMLET**:
 
@@ -664,7 +664,7 @@ Chceš vědět, co jsem napsal?_
 
 **HORATIO**:
 
-                                                        _Ano, princi._
+            _Ano, princi._
 
 **HAMLET**:
 
@@ -709,7 +709,7 @@ dvou mocných soků._
 
 **HORATIO**:
 
-                                         _Jaký jest to král!_
+            _Jaký jest to král!_
 
 **HAMLET**:
 
@@ -1022,7 +1022,7 @@ a zranil bratra._
 
 **LAERT**:
 
-                              _V místě tom své duše,  
+            _V místě tom své duše,  
 jež nejvíc mělo by mne k pomstě hnát,  
 jsem uspokojen, ale v podmínkách  
 své cti se držím podál: nechci smíru,  
@@ -1041,7 +1041,7 @@ Sem končíře. — A začněm._
 
 **LAERT**:
 
-                                                    _Jeden mně._
+            _Jeden mně._
 
 **HAMLET**:
 
@@ -1052,7 +1052,7 @@ se bude odrážet._
 
 **LAERT**:
 
-                                _Toť posměch, pane._
+            _Toť posměch, pane._
 
 **HAMLET**:
 
@@ -1060,13 +1060,13 @@ _Ne, při té ruce!_
 
 **KRÁL**:
 
-                              _Mladý Osriku,  
+            _Mladý Osriku,  
 již zbraň jim dejte. — Milý Hamlete,  
 vy znáte sázku._
 
 **HAMLET**:
 
-                              _Velmi dobře, pane;  
+            _Velmi dobře, pane;  
 na slabšího jste vsadil, Milosti._
 
 **KRÁL**:
@@ -1077,19 +1077,19 @@ i výhody._
 
 **LAERT**:
 
-                   _Ten příliš těžký jest;  
+            _Ten příliš těžký jest;  
 chci zkusit jiný._
 
 **HAMLET**:
 
-                               _Ten mi právě vhod.  
+            _Ten mi právě vhod.  
 Jsou všechny stejně dlouhé?_
 
 _Postaví se k šermu._
 
 **OSRIK**:
 
-                                                       _Jsou, můj princi._
+            _Jsou, můj princi._
 
 **KRÁL**:
 
@@ -1113,21 +1113,21 @@ _Jsem hotov, pane._
 
 **LAERT**:
 
-                                   _Hotov._
+            _Hotov._
 
 _Šermují._
 
 **HAMLET**:
 
-                                                 _Bod!_
+            _Bod!_
 
 **LAERT**:
 
-                                                           _Ne!_
+            _Ne!_
 
 **HAMLET**:
 
-                                                                   _Soud! —_
+            _Soud! —_
 
 **OSRIK**:
 
@@ -1135,7 +1135,7 @@ _To očividný bod._
 
 **LAERT**:
 
-                                 _Je dobře. — Dál._
+            _Je dobře. — Dál._
 
 **KRÁL**:
 
@@ -1144,7 +1144,7 @@ je tvoje. Na tvé zdraví!_
 
 _Tuš; střelba z děl za scénou._
 
-                                            _Nuž ten pohár  
+            _Nuž ten pohár  
 mu podejte._
 
 **HAMLET**:
@@ -1154,7 +1154,7 @@ Dál —_
 
 __Šermují.__
 
-              _Zase bod. — Co tomu říkáte?_
+            _Zase bod. — Co tomu říkáte?_
 
 **LAERT**:
 
@@ -1166,7 +1166,7 @@ _Syn vyhrá._
 
 **KRÁLOVNA**:
 
-                     _Tělnat jest, má krátký dech.  
+            _Tělnat jest, má krátký dech.  
 Zde, Hamlete, můj šátek, setři pot.  
 Na tvoje štěstí pije královna._
 
@@ -1176,7 +1176,7 @@ _Má dobrá paní!_
 
 **KRÁL**:
 
-                              _Nepij, Gertrudo!_
+            _Nepij, Gertrudo!_
 
 **KRÁLOVNA**:
 
@@ -1200,7 +1200,7 @@ _Teď, králi, bodnu já._
 
 **KRÁL**:
 
-                                        _To nemyslím._
+            _To nemyslím._
 
 **LAERT** _(stranou)_:
 
@@ -1241,7 +1241,7 @@ _KRÁLOVNA klesá._
 
 **OSRIK**:
 
-                                       _Hleďte, královna!_
+            _Hleďte, královna!_
 
 **HORATIO**:
 
@@ -1250,11 +1250,11 @@ můj princi?_
 
 **OSRIK**:
 
-                      _Laerte, jak vám jest?_
+            _Laerte, jak vám jest?_
 
 **LAERT**:
 
-                                                              _Jak sluce; —  
+            _Jak sluce; —  
 v své vlastní oko lapen, Osriku!  
 Jsem právem zabit vlastním úkladem._
 
@@ -1264,7 +1264,7 @@ _Co královna?_
 
 **KRÁL**:
 
-                           _Je v mdlobách, vidouc krev._
+            _Je v mdlobách, vidouc krev._
 
 **KRÁLOVNA**:
 
@@ -1292,7 +1292,7 @@ král, král jest vinen._
 
 **HAMLET**:
 
-                                       _Hrot že napuštěn?  
+            _Hrot že napuštěn?  
 Tož, jede, svoje dílo dokonej._
 
 _Probodne KRÁLE._
@@ -1339,13 +1339,13 @@ jimž neznáma._
 
 **HORATIO**:
 
-                            _To věru neučiním;  
+            _To věru neučiním;  
 jsem více starý Říman nežli Dán; —  
 zde zbylo jedu._
 
 **HAMLET**:
 
-                               _Jako že jsi muž,  
+            _Jako že jsi muž,  
 dej mně tu číši; ty nech být; Bůh svědkem,  
 já chci to dopít. — Můj Horatio,  
 ty věci zůstanou-li neznámy,  
@@ -1357,12 +1357,12 @@ bys o mně vypravoval._
 
 _Zdaleka pochod; střelba za scénou._
 
-                                            _Jaký hluk  
+            _Jaký hluk  
 to válečný?_
 
 **OSRIK**:
 
-                            _To mladý Fortinbras,  
+            _To mladý Fortinbras,  
 jenž z Polska vítězně se navrací,  
 dal v pozdrav střílet poslům z Anglie._
 
@@ -1388,14 +1388,14 @@ tě uzpívejte v klid._
 
 _Pochod za scénou._
 
-                                     _Proč spěje sem  
+            _Proč spěje sem  
 to bubnů víření?_
 
 _Vystoupí FORTINBRAS, ANGLIČTÍ VYSLANCI a jiní s bubny a prapory._
 
 **FORTINBRAS**:
 
-                                _Kde jest ten výjev?_
+            _Kde jest ten výjev?_
 
 **HORATIO**:
 
@@ -1411,7 +1411,7 @@ tak sklálas krvavě?_
 
 **PRVNÍ POSEL**:
 
-                                     _To děsný pohled;  
+            _To děsný pohled;  
 věc naše došla pozdě z Anglie.  
 Ten sluch je mrtev, jenž měl vyslechnout,  
 že splněn jeho rozkaz: Rosenkrantz  
@@ -1420,7 +1420,7 @@ Kde díků dojdeme?_
 
 **HORATIO**:
 
-                                     _Ne z těchto úst,  
+            _Ne z těchto úst,  
 i kdyby živa mohla děkovat;  
 on nikdy nedal rozkaz k jejich smrti.  
 Že však té věci krvavé tak v sled  
@@ -1457,7 +1457,7 @@ víc nehod ještě._
 
 **FORTINBRAS**:
 
-                              _Čtyři setníci  
+            _Čtyři setníci  
 ať nesou na lešení Hamleta  
 jak vojína; on jistě na trůnu  
 by královsky se býval osvědčil.  
