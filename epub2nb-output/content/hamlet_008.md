@@ -36,7 +36,7 @@ _A dobře přijal vás?_
 
 **ROSENKRANTZ**:
 
-                                    _Jak pravý šlechtic._
+            _Jak pravý šlechtic._
 
 **GUILDENSTERN**:
 
@@ -115,7 +115,7 @@ My, pane vznešený, když ráčíte,
 se postavíme tam._
 
 __(K OFELII.)_  
-                                   V té knize čti,  
+            V té knize čti,  
 by tato zahloubanost líčidlem  
 tvé byla samotě. My přečasto  
 v tom pokárání zasluhujeme,  
@@ -125,7 +125,7 @@ i ďábla samého._
 
 **KRÁL** _(stranou)_:
 
-                             _Ó příliš pravda!  
+            _Ó příliš pravda!  
 Jak řeč ta bičuje mé svědomí!  
 Tvář nevěstčina, barvou krášlená,  
 víc není hnusná pod svým líčidlem,  
@@ -183,7 +183,7 @@ mých hříchů vzpomínej!_
 
 **OFELIE**:
 
-                                                _Můj vzácný pane,  
+            _Můj vzácný pane,  
 jak jste se měl ten celý dlouhý čas?_
 
 **HAMLET**:
@@ -198,7 +198,7 @@ teď, prosím, přijměte je._
 
 **HAMLET**:
 
-                                               _Ne, — já ne;  
+            _Ne, — já ne;  
 já nikdy jsem vám nedal ničeho._
 
 **OFELIE**:
@@ -214,7 +214,7 @@ Zde, pane můj._
 
 **HAMLET**:
 
-                             _Ha, ha! Jste počestná?_
+            _Ha, ha! Jste počestná?_
 
 **OFELIE**:
 
@@ -416,7 +416,7 @@ _Můj drahý pane —_
 
 **HAMLET**:
 
-                                     _Ne, to nemysli,  
+            _Ne, to nemysli,  
 že pochlebuji; neboť jakéhož  
 bych povýšení čekal od tebe,  
 jenž mimo dobrý rozmar nemáš,  
@@ -665,7 +665,7 @@ tak vlídná k muži —_
 
 **DIVADELNÍ KRÁLOVNA**:
 
-                                        _Ó, víc ani slova!  
+            _Ó, víc ani slova!  
 Jen zradou byla by ta láska nová;  
 mne s mužem druhým schvaťtež kletby steré!  
 jen vraždou prvního se druhý bere._
@@ -739,7 +739,7 @@ __Usne.__
 
 **DIVADELNÍ KRÁLOVNA**:
 
-                                              _Ať sen tě sílí;  
+            _Ať sen tě sílí;  
 a žádné zlo nás nikdy nerozdílí!_
 
 __Odejde.__
@@ -1176,7 +1176,7 @@ vám povědít, co zvím._
 
 **KRÁL**:
 
-                                           _Dík, milý pane._
+            _Dík, milý pane._
 
 _Odejde POLONIUS._
 
@@ -1308,7 +1308,7 @@ _Nuž, co se líbí, matko?_
 
 **KRÁLOVNA**:
 
-                                           _Hamlete,  
+            _Hamlete,  
 ty svého otce zle jsi urazil._
 
 **HAMLET**:
@@ -1329,7 +1329,7 @@ _Jak, Hamlete, to mluvíš?_
 
 **HAMLET**:
 
-                                             _Nuž, co jest?_
+            _Nuž, co jest?_
 
 **KRÁLOVNA**:
 
@@ -1337,7 +1337,7 @@ _Tys na mne zapomněl?_
 
 **HAMLET**:
 
-                                           _Ne, při sám Bůh!  
+            _Ne, při sám Bůh!  
 Jste královna, choť bratra mužova  
 a — kéž jste nebyla! — jste moje matka._
 
@@ -1363,7 +1363,7 @@ _Pomoc! Pomozte!_
 **HAMLET** _(tasí meč)_:
 
 _To tak! — Myš? — Mrtva,  
-                    dukát na to, mrtva!_
+            dukát na to, mrtva!_
 
 _Bodne do čalounu._
 
@@ -1375,7 +1375,7 @@ _Padne a zemře._
 
 **KRÁLOVNA**:
 
-                      _Běda! Cos to učinil?_
+            _Běda! Cos to učinil?_
 
 **HAMLET**:
 
@@ -1396,12 +1396,12 @@ _Jak, zabít krále?_
 
 **HAMLET**:
 
-                              _Ano, vzácná paní,  
+            _Ano, vzácná paní,  
 tak řekl jsem._
 
 _Zvedne čaloun a spatří POLONIA._
 
-                           _Ty bědný, dotěrný  
+            _Ty bědný, dotěrný  
 a nerozvážný bloude, s bohem buď!  
 Já myslil, že to vyšší kdos než ty.  
 Mějž osud svůj! — Teď vidíš, jak to je  
@@ -1493,7 +1493,7 @@ kde černé tak a vpité skvrny zřím,
 
 **HAMLET**:
 
-                                        _A tak žít  
+            _A tak žít  
 ve ztuchlém potu zprzněného lože  
 a v hnilobě se pařit, cukrovat  
 a laskat se na hnusném pelechu —_
@@ -1506,7 +1506,7 @@ můj drahý Hamlete!_
 
 **HAMLET**:
 
-                                       _Vrah, padouch, rab;  
+            _Vrah, padouch, rab;  
 ni dvacetina z desítiny toho,  
 co byl váš první choť; — král tatrman,  
 té říše zde i vlády poberta,  
@@ -1515,7 +1515,7 @@ a smet’ ho do kapsy!_
 
 **KRÁLOVNA**:
 
-                                       _Již dost!_
+            _Již dost!_
 
 **HAMLET**:
 
@@ -1541,7 +1541,7 @@ i osten hněvu, provést pomíjí
 
 **DUCH**:
 
-                      _Nezapomeň! — Přicházím,  
+            _Nezapomeň! — Přicházím,  
 jen abych otupělý úmysl  
 tvůj přiostřil. — Však hleď, jak zděšení  
 tvou matku pojalo; — vkroč mezi ni  
@@ -1551,7 +1551,7 @@ K ní promluv, Hamlete._
 
 **HAMLET**:
 
-                                             _Co jest vám, paní?_
+            _Co jest vám, paní?_
 
 **KRÁLOVNA**:
 
@@ -1582,7 +1582,7 @@ _S kým hovoříš?_
 
 **HAMLET**:
 
-                             _Tam nevidíte nic?_
+            _Tam nevidíte nic?_
 
 **KRÁLOVNA**:
 
@@ -1594,7 +1594,7 @@ _Nic též jste neslyšela?_
 
 **KRÁLOVNA**:
 
-                                          _Nic než nás._
+            _Nic než nás._
 
 **HAMLET**:
 
@@ -1612,7 +1612,7 @@ má přeumělou schopnost._
 
 **HAMLET**:
 
-                                                  _Vytržení!  
+            _Vytržení!  
 Má tepna klidně drží takt, jak vaše,  
 a jako vaše zdravou hudbou hrá:  
 to není z šílenství, co mluvil jsem.  
@@ -1639,7 +1639,7 @@ jí dobro učinit._
 
 **KRÁLOVNA**:
 
-                             _Ó, Hamlete,  
+            _Ó, Hamlete,  
 tys moje srdce ve dví rozeklál!_
 
 **HAMLET**:
@@ -1678,7 +1678,7 @@ A ještě slovo, matko._
 
 **KRÁLOVNA**:
 
-                                         _Co mám činit?_
+            _Co mám činit?_
 
 **HAMLET**:
 

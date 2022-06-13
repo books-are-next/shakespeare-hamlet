@@ -60,7 +60,7 @@ Kam odešel?_
 
 **KRÁLOVNA**:
 
-                        _Kams tělo odvléká,  
+            _Kams tělo odvléká,  
 jež zabil; nad ním jeho šílenost  
 jak vzácný kov, jenž v směsi sprostých rud  
 se odráží, teď čistá jeví se;  
@@ -78,7 +78,7 @@ Hoj, Guildensterne!_
 
 _Vrátí se ROSENKRANTZ a GUILDENSTERN._
 
-                                       _Jděte, přátelé,  
+            _Jděte, přátelé,  
 a vezměte někoho na pomoc:  
 princ Hamlet zabil ve svém šílenství  
 Polonia a z komnat matčiných  
@@ -202,7 +202,7 @@ neb vůbec ne._
 
 _Vystoupí ROSENKRANTZ._
 
-                          _Nuž, jak? Co stalo se?_
+            _Nuž, jak? Co stalo se?_
 
 **ROSENKRANTZ**:
 
@@ -211,7 +211,7 @@ nám z něho nelze dostat._
 
 **KRÁL**:
 
-                                                   _Kde jest on?_
+            _Kde jest on?_
 
 **ROSENKRANTZ**:
 
@@ -290,7 +290,7 @@ na cestu do Anglie._
 
 **HAMLET**:
 
-                                    _Do Anglie?_
+            _Do Anglie?_
 
 **KRÁL**:
 
@@ -298,11 +298,11 @@ _Tak, Hamlete!_
 
 **HAMLET**:
 
-                            _Je dobře._
+            _Je dobře._
 
 **KRÁL**:
 
-                                               _Ano, jest,  
+            _Ano, jest,  
 jen kdybys dobře znal náš úmysl._
 
 **HAMLET**:
@@ -365,7 +365,7 @@ a to mu vyřiďte._
 
 **SETNÍK**:
 
-                               _Tak, pane můj._
+            _Tak, pane můj._
 
 **FORTINBRAS**:
 
@@ -434,7 +434,7 @@ Mé díky, pane!_
 
 **SETNÍK**:
 
-                             _Bůh vás provázej._
+            _Bůh vás provázej._
 
 __Odejde.__
 
@@ -517,7 +517,7 @@ _Co žádá?_
 
 **ŠLECHTIC**:
 
-                 _Mnoho mluví o otci,  
+            _Mnoho mluví o otci,  
 dí, že, jak slyší, svět je šalebný,  
 a těžce vzdychá, do prsou se bije,  
 stebélko slámy zlostně podupe  
@@ -536,7 +536,7 @@ přec neblahého dost._
 
 **HORATIO**:
 
-                                         _Jest žádoucno  
+            _Jest žádoucno  
 s ní promluvit, neb mohla v mysli zlé  
 by vtrousit nebezpečné domněnky._
 
@@ -590,7 +590,7 @@ _Co to? — Ofelie — —_
 
 **OFELIE**:
 
-                                           _Jen slyšte, prosím:_
+            _Jen slyšte, prosím:_
 
 __(Zpívá.)_  
 Měl rubáš bílý jak horský sníh —_
@@ -700,17 +700,17 @@ _Hluk za scénou._
 
 **KRÁLOVNA**:
 
-                                                     _Co značí  
+            _Co značí  
 ta vřava?_
 
 **KRÁL**:
 
-                  _Kde jsou moji Švýcaři?  
+            _Kde jsou moji Švýcaři?  
 Ať dveře obsadí!_
 
 _Vystoupí jiný ŠLECHTIC._
 
-                                 _Co děje se?_
+            _Co děje se?_
 
 **ŠLECHTIC**:
 
@@ -742,7 +742,7 @@ _Vystoupí LAERT ozbrojen; DÁNOVÉ za ním._
 
 **LAERT**:
 
-                                _Kde jest ten král?  
+            _Kde jest ten král?  
 Vy muži, všichni venku zůstaňte._
 
 **DÁNOVÉ**:
@@ -751,7 +751,7 @@ _Ne, vpusť i nás!_
 
 **LAERT**:
 
-                               _Já prosím, dovolte._
+            _Já prosím, dovolte._
 
 **DÁNOVÉ**:
 
@@ -766,7 +766,7 @@ vrať mi mého otce!_
 
 **KRÁLOVNA**:
 
-                                     _Klidně, dobrý Laerte._
+            _Klidně, dobrý Laerte._
 
 **LAERT**:
 
@@ -793,11 +793,11 @@ _Kde jest můj otec?_
 
 **KRÁL**:
 
-                                    _Mrtev._
+            _Mrtev._
 
 **KRÁLOVNA**:
 
-                                                   _Ne však jím._
+            _Ne však jím._
 
 **KRÁL**:
 
@@ -816,7 +816,7 @@ chci pomstít otce._
 
 **KRÁL**:
 
-                                  _Kdo vám zbraňuje?_
+            _Kdo vám zbraňuje?_
 
 **LAERT**:
 
@@ -827,7 +827,7 @@ se s málem dostanou._
 
 **KRÁL**:
 
-                                          _Nuž, dobrý Laerte,  
+            _Nuž, dobrý Laerte,  
 když chcete dopídit se jistoty  
 o smrti svého otce drahého,  
 tož rcete, v pomstě vaší psáno-li  
@@ -837,7 +837,7 @@ i ty, kdož tratí?_
 
 **LAERT**:
 
-                             _Pouze jeho vrahy._
+            _Pouze jeho vrahy._
 
 **KRÁL**:
 
@@ -853,7 +853,7 @@ chci vlastní krví._
 
 **KRÁL**:
 
-                                _Aj, teď mluvíte  
+            _Aj, teď mluvíte  
 jak dobrý syn a jako pravý šlechtic.  
 Že já jsem smrtí otce nevinen  
 a z hlubokosti duše želím jí,  
@@ -862,7 +862,7 @@ jak den do vašich očí._
 
 **DÁNOVÉ** _(venku)_:
 
-                                         _Vpusťte ji!_
+            _Vpusťte ji!_
 
 **LAERT**:
 
@@ -967,7 +967,7 @@ by ukojena byla._
 
 **LAERT**:
 
-                                 _Staň se tak;  
+            _Staň se tak;  
 ten způsob smrti, pohřeb tajený,  
 — ni odznak, meč, ni štít nad jeho kostmi,  
 ni slavný obřad, zvyklá nádhera, —  
@@ -977,7 +977,7 @@ to dále zvát._
 
 **KRÁL**:
 
-                        _To také učiníte,  
+            _To také učiníte,  
 a tam, kde vina bude, velký topor  
 ať dopadne. Již, prosím, pojďte se mnou._
 
@@ -1056,7 +1056,7 @@ vás mocně pudily?_
 
 **KRÁL**:
 
-                                    _Z dvou zvláštních příčin,  
+            _Z dvou zvláštních příčin,  
 jež vám snad slabošské se budou zdát,  
 však mně jsou mocny. — Matka, královna  
 se téměř živí jeho pohledem;  
@@ -1086,7 +1086,7 @@ Však dojde k pomstě mé._
 
 **KRÁL**:
 
-                                                 _Tím nerušte  
+            _Tím nerušte  
 svůj spánek; nesmíte se domnívat,  
 že z bídné tak a tupé látky jsem,  
 bych nebezpečím dal si rváti vous  
@@ -1098,7 +1098,7 @@ vás soudit naučí —_
 
 _Vystoupí POSEL s listy._
 
-                                      _Co jest? Co přináší?_
+            _Co jest? Co přináší?_
 
 **POSEL**:
 
@@ -1134,7 +1134,7 @@ _A znáte písmo?_
 
 **KRÁL**:
 
-                             _Ruka Hamletova.  
+            _Ruka Hamletova.  
 „Nah!“ — a zde v doušce praví: „samoten“.  
 Co tomu říkáte?_
 
@@ -1147,7 +1147,7 @@ vždyť samo choré srdce okřává,
 
 **KRÁL**:
 
-                                 _A Laerte, tak-li jest, —  
+            _A Laerte, tak-li jest, —  
 a jak by také jinak mohlo být? —  
 zda chcete dát se vésti ode mne?_
 
@@ -1158,7 +1158,7 @@ mne vést._
 
 **KRÁL**:
 
-                   _Jen k tvému míru vlastnímu.  
+            _Jen k tvému míru vlastnímu.  
 Když vrátil se, tou cestou přeplašen,  
 a nehodlá-li víc ji podniknout,  
 chci pohnouti jej k věci nějaké,  
@@ -1176,7 +1176,7 @@ tím spíše, učiníte-li to tak,
 
 **KRÁL**:
 
-                                                      _To vhod.  
+            _To vhod.  
 Když byl jste na cestách, tu mluvilo  
 se mnoho v přítomnosti Hamleta  
 jedné schopnosti, jíž nade vše  
@@ -1187,7 +1187,7 @@ má cenu nejmenší._
 
 **LAERT**:
 
-                                     _Jaká to schopnost?_
+            _Jaká to schopnost?_
 
 **KRÁL**:
 
@@ -1215,16 +1215,16 @@ _A byl to Norman?_
 
 **KRÁL**:
 
-                                   _Norman._
+            _Norman._
 
 **LAERT**:
 
-                                                      _Jak jsem živ,  
+            _Jak jsem živ,  
 Lamond._
 
 **KRÁL**:
 
-                 _Týž._
+            _Týž._
 
 **LAERT**:
 
@@ -1253,13 +1253,13 @@ _Co z toho? —_
 
 **KRÁL**:
 
-                            _Laerte, měl jste otce rád?  
+            _Laerte, měl jste otce rád?  
 Neb jste jen jako obraz zármutku,  
 tvář bez srdce?_
 
 **LAERT**:
 
-                             _Proč tážete se tak?_
+            _Proč tážete se tak?_
 
 **KRÁL**:
 
@@ -1311,7 +1311,7 @@ za svého otce smrt._
 
 **LAERT**:
 
-                                       _Tak učiním  
+            _Tak učiním  
 a k tomu cíli meč svůj napustím.  
 Kdes od mastičkáře jsem koupil tresť  
 tak smrtící, že třeba jenom nůž  
@@ -1349,7 +1349,7 @@ Však ticho! Co to za hluk?_
 
 _Vystoupí KRÁLOVNA._
 
-                                                 _Nuž, jak jest,  
+            _Nuž, jak jest,  
 má vzácná královno?_
 
 **KRÁLOVNA**:

@@ -18,7 +18,7 @@ mu odevzdáš._
 
 **REYNALD**:
 
-                          _Tak, pane, učiním._
+            _Tak, pane, učiním._
 
 **POLONIUS**:
 
@@ -47,7 +47,7 @@ Ty chápeš, Reynalde?_
 
 **REYNALD**:
 
-                                         _Ó velmi dobře._
+            _Ó velmi dobře._
 
 **POLONIUS**:
 
@@ -67,7 +67,7 @@ _Tak jako hraní, pane._
 
 **POLONIUS**:
 
-                                          _Ano, tak,  
+            _Ano, tak,  
 a pitky, rvačky, klení, hádky, frej;  
 tak daleko se můžeš spustiti._
 
@@ -77,7 +77,7 @@ _To, pane, znectí jej._
 
 **POLONIUS**:
 
-                                     _Ba nikoliv,  
+            _Ba nikoliv,  
 když v obvinění míru zachováš.  
 Tu příhanu naň arciť neshrnuj,  
 že ve svých vášních bývá bezuzdný;  
@@ -93,7 +93,7 @@ _Však, pane můj —_
 
 **POLONIUS**:
 
-                                    _Proč máš tak učinit?_
+            _Proč máš tak učinit?_
 
 **REYNALD**:
 
@@ -154,12 +154,12 @@ _Teď, pane, rozumím._
 
 **POLONIUS**:
 
-                                        _Buď s tebou Bůh  
+            _Buď s tebou Bůh  
 a měj se hezky._
 
 **REYNALD**:
 
-                               _Dobře, pane můj!_
+            _Dobře, pane můj!_
 
 **POLONIUS**:
 
@@ -185,7 +185,7 @@ _Odejde REYNALD._
 
 _Vystoupí OFELIE._
 
-                      _Nuž, jak, Ofelie! Co děje se?_
+            _Nuž, jak, Ofelie! Co děje se?_
 
 **OFELIE**:
 
@@ -215,7 +215,7 @@ _Svou láskou k tobě šílen?_
 
 **OFELIE**:
 
-                                                 _Pane můj,  
+            _Pane můj,  
 to nevím, vskutku však se obávám._
 
 **POLONIUS**:
@@ -224,7 +224,7 @@ _Co říkal ti?_
 
 **OFELIE**:
 
-                     _On vzal mne za ruku  
+            _On vzal mne za ruku  
 a pevně držel ji; pak odstoupí  
 na délku paže své a rukou druhou  
 si takto zacláněje obočí  
@@ -325,7 +325,7 @@ svou libost a ne v prosbu._
 
 **GUILDENSTERN**:
 
-                                                 _Poslechnem  
+            _Poslechnem  
 a do veškerých sil svých napětí  
 zde kladem k vašim nohám služby své  
 vše ochotně a k vašim rozkazům._
@@ -344,7 +344,7 @@ kde Hamlet jest._
 
 **GUILDENSTERN**:
 
-                                _A račtež nebesa  
+            _A račtež nebesa  
 i naši přítomnost i počínání  
 mu zdárné učinit a příjemné!_
 
@@ -404,7 +404,7 @@ _To vyzkoumáme._
 
 _Vystoupí POLONIUS s VOLTIMANDEM a KORNELIEM._
 
-                                   _Buďte vítáni,  
+            _Buďte vítáni,  
 vy dobří přátelé. Nuž, Voltimande,  
 co vzkazuje nám Norveg, bratr náš?_
 
@@ -438,7 +438,7 @@ jak tady vypsáno._
 
 **KRÁL**:
 
-                                  _To těší nás  
+            _To těší nás  
 a v příhodnější čas to přečteme  
 a uváživše dáme odpověď.  
 Dík prozatím za vaši námahu.  
@@ -466,7 +466,7 @@ Však toho nechme._
 
 **KRÁLOVNA**:
 
-                                     _K věci, prostěji._
+            _K věci, prostěji._
 
 **POLONIUS**:
 
@@ -502,7 +502,7 @@ _To dal jí Hamlet?_
 
 **POLONIUS**:
 
-                                _Račte poshovět,  
+            _Račte poshovět,  
 má vzácná paní; všechno vypovím._
 
 _(Čte.)_
@@ -526,12 +526,12 @@ vše pověděla mi._
 
 **KRÁL**:
 
-                                  _A vaše dcera  
+            _A vaše dcera  
 jak brala jeho lásku?_
 
 **POLONIUS**:
 
-                                        _Zač mne máte?_
+            _Zač mne máte?_
 
 **KRÁL**:
 
@@ -569,7 +569,7 @@ _To zdá se vám?_
 
 **KRÁLOVNA**:
 
-                              _To velmi možné jest._
+            _To velmi možné jest._
 
 **POLONIUS**:
 
@@ -579,7 +579,7 @@ a bylo jinak?_
 
 **KRÁL**:
 
-                         _Pokud já vím, ne._
+            _Pokud já vím, ne._
 
 **POLONIUS** _(ukazuje na hlavu a na plece)_:
 
@@ -590,7 +590,7 @@ i v středu země._
 
 **KRÁL**:
 
-                              _Jak to zkoumat dál?_
+            _Jak to zkoumat dál?_
 
 **POLONIUS**:
 
@@ -617,7 +617,7 @@ _Tak zkusíme to._
 
 **KRÁLOVNA**:
 
-                               _Hle, jak ubohý  
+            _Hle, jak ubohý  
 sem přichází, tak smuten, něco čta._
 
 **POLONIUS**:
@@ -1235,7 +1235,7 @@ Nuž, tedy tak; Bůh s vámi!
 
 _Odejdou ROSENKRANTZ a GUILDENSTERN._
 
-                                                  _Teď jsem sám.  
+            _Teď jsem sám.  
 Ó, jaký otrok jsem a podlý chlap!  
 Zdaž není hrozné, že ten herec zde  
 jen v básni, vášni pouze vysněné,  
