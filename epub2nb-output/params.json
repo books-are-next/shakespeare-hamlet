@@ -63,7 +63,7 @@
             "filename": "hamlet_003.md",
             "xhtml": "hamlet_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -75,7 +75,7 @@
             "filename": "hamlet_004.md",
             "xhtml": "hamlet_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -165,7 +165,7 @@
             "filename": "hamlet_011.md",
             "xhtml": "hamlet_011.xhtml",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -329,6 +329,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-hamlet"
     },
-    "generatedAt": 1655979600882
+    "generatedAt": 1657182431535
   }
 }

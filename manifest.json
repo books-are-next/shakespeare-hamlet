@@ -7,8 +7,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-hamlet-3d93baa",
-  "revision": "3d93baa",
+  "identifier": "shakespeare-hamlet-6f8289a",
+  "revision": "6f8289a",
   "readingOrder": [
     "promo.html",
     "hamlet_005.html",
@@ -17,11 +17,11 @@
     "hamlet_008.html",
     "hamlet_009.html",
     "hamlet_010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979951452
+    "date": "Thu Jul 07 2022 08:38:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183108465
   },
   "documents": [
     {
@@ -275,7 +275,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "hamlet_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -303,11 +303,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 124,
-      "chars": 824,
+      "chars": 823,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "hamlet_010.html",
       "next": null,
@@ -325,7 +325,7 @@
   "totals": {
     "all": {
       "words": 28443,
-      "chars": 158247,
+      "chars": 158246,
       "ideas": 5255
     },
     "chapters": {
