@@ -20,7 +20,7 @@ readingOrder:
   - hamlet_008.html
   - hamlet_009.html
   - hamlet_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
