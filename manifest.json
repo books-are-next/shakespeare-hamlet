@@ -7,8 +7,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-hamlet-adcf458",
-  "revision": "adcf458",
+  "identifier": "shakespeare-hamlet-51ced56",
+  "revision": "51ced56",
   "readingOrder": [
     "promo.html",
     "hamlet_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:34:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487264088
+    "date": "Sat Oct 01 2022 16:03:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640238459
   },
   "documents": [
     {
