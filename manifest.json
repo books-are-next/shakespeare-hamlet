@@ -7,8 +7,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-hamlet-7772481",
-  "revision": "7772481",
+  "identifier": "shakespeare-hamlet-8bb234b",
+  "revision": "8bb234b",
   "readingOrder": [
     "promo.html",
     "hamlet_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:58:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151135938
+    "date": "Mon Oct 10 2022 15:50:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417030914
   },
   "documents": [
     {
@@ -305,7 +305,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 121,
-      "chars": 824,
+      "chars": 825,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -325,7 +325,7 @@
   "totals": {
     "all": {
       "words": 28440,
-      "chars": 158247,
+      "chars": 158248,
       "ideas": 5252
     },
     "chapters": {
